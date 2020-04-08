@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://tv.maxnet.ua/temp/programm_jtv.zip"
+﻿#EXTM3U url-tvg="http://tv.maxnet.ua/temp/programm_jtv.zip"
 #EXTINF:0 mono=0 tvg-name="ОТБ" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/otb.jpg" group-title="Харьковские" ,ОТБ
 http://192.168.1.1:4022/udp/239.2.1.17:1234
 #EXTINF:0 mono=0 tvg-name="Simon" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/simon.jpg" ,Simon
@@ -9,23 +9,23 @@ http://192.168.1.1:4022/udp/239.2.1.39:1234
 http://192.168.1.1:4022/udp/239.2.1.40:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/atvk.jpg" ,АТВК
 http://192.168.1.1:4022/udp/239.2.1.35:1234
-#EXTINF:0 mono=0 tvg-name="1plus1" tvg-logo="" ,group-title="Украинские" ,1+1 HD
+#EXTINF:0 mono=0 tvg-name="1plus1" tvg-logo="1plus1.png" ,group-title="Украинские" ,1+1 HD
 http://192.168.1.1:4022/udp/239.2.1.1:1234
-#EXTINF:0 mono=0 tvg-name="K1" tvg-logo="" ,К1
+#EXTINF:0 mono=0 tvg-name="K1" tvg-logo="K1.png" ,К1
 http://192.168.1.1:4022/udp/239.2.1.2:1234
-#EXTINF:0 mono=0 tvg-name="K2" tvg-logo="" ,К2
+#EXTINF:0 mono=0 tvg-name="K2" tvg-logo="K2.png" ,К2
 http://192.168.1.1:4022/udp/239.2.1.3:1234
-#EXTINF:0 mono=0 tvg-name="STB" tvg-logo="" ,СТБ HD
+#EXTINF:0 mono=0 tvg-name="STB" tvg-logo="STB.png" ,СТБ HD
 http://192.168.1.1:4022/udp/239.2.1.8:1234
-#EXTINF:0 mono=0 tvg-name="Bolt" tvg-logo="" ,Bolt
+#EXTINF:0 mono=0 tvg-name="Bolt" tvg-logo="Bolt.png" ,Bolt
 http://192.168.1.1:4022/udp/239.2.1.9:1234
-#EXTINF:0 mono=0 tvg-name="ICTV" tvg-logo="" ,ICTV HD
+#EXTINF:0 mono=0 tvg-name="ICTV" tvg-logo="ICTV.png" ,ICTV HD
 http://192.168.1.1:4022/udp/239.2.1.10:1234
-#EXTINF:0 mono=0 tvg-name="NLO_TV" tvg-logo="" ,НЛО TV HD
+#EXTINF:0 mono=0 tvg-name="NLO_TV" tvg-logo="NLO_TV.png" ,НЛО TV HD
 http://192.168.1.1:4022/udp/239.2.1.11:1234
-#EXTINF:0 mono=0 tvg-name="Novyy_kanal" tvg-logo="" ,Новый канал HD
+#EXTINF:0 mono=0 tvg-name="Novyy_kanal" tvg-logo="Novyy_kanal.png" ,Новый канал HD
 http://192.168.1.1:4022/udp/239.2.1.13:1234
-#EXTINF:0 mono=0 tvg-name="Ukraina" tvg-logo="" ,Украина HD
+#EXTINF:0 mono=0 tvg-name="Ukraina" tvg-logo="Ukraina.png" ,Украина HD
 http://192.168.1.1:4022/udp/239.2.1.14:1234
 #EXTINF:0 mono=0 tvg-name="PlyusPlyus" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/plus-plus.jpg" ,ПлюсПлюс
 http://192.168.1.1:4022/udp/239.2.1.16:1234
