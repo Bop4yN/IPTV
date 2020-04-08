@@ -11,9 +11,9 @@ http://192.168.1.1:4022/udp/239.2.1.40:1234
 http://192.168.1.1:4022/udp/239.2.1.35:1234
 #EXTINF:0 mono=0 tvg-name="1plus1" tvg-logo="1+1.png" ,group-title="Украинские" ,1+1 HD
 http://192.168.1.1:4022/udp/239.2.1.1:1234
-#EXTINF:0 mono=0 tvg-name="K1" tvg-logo="K1.png" ,К1
+#EXTINF:0 mono=0 tvg-name="K1" tvg-logo="К1.png" ,К1
 http://192.168.1.1:4022/udp/239.2.1.2:1234
-#EXTINF:0 mono=0 tvg-name="K2" tvg-logo="K2.png" ,К2
+#EXTINF:0 mono=0 tvg-name="K2" tvg-logo="К2.png" ,К2
 http://192.168.1.1:4022/udp/239.2.1.3:1234
 #EXTINF:0 mono=0 tvg-name="STB" tvg-logo="СТБ.png" ,СТБ HD
 http://192.168.1.1:4022/udp/239.2.1.8:1234
