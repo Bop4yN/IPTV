@@ -1,5 +1,5 @@
 ﻿#EXTM3U url-tvg="http://tv.maxnet.ua/temp/programm_jtv.zip"
-#EXTINF:0 mono=0 tvg-name="ОТБ" tvg-logo="%D0%9E%D0%A2%D0%91.png" ,ОТБ
+#EXTINF:0 mono=0 tvg-name="ОТБ" tvg-logo="%D0%9E%D0%A2%D0%91.png" group-title="Харьковские" ,ОТБ
 http://192.168.1.1:4022/udp/239.2.1.17:1234
 #EXTINF:0 mono=0 tvg-name="Simon" tvg-logo="Simon.png" ,Simon
 http://192.168.1.1:4022/udp/239.2.1.38:1234
@@ -9,7 +9,7 @@ http://192.168.1.1:4022/udp/239.2.1.39:1234
 http://192.168.1.1:4022/udp/239.2.1.40:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%90%D0%A2%D0%92%D0%9A.png" ,АТВК
 http://192.168.1.1:4022/udp/239.2.1.35:1234
-#EXTINF:0 mono=0 tvg-name="1plus1" tvg-logo="1+1.png" ,1+1 HD
+#EXTINF:0 mono=0 tvg-name="1plus1" tvg-logo="1+1.png" group-title="Украинские" ,1+1 HD
 http://192.168.1.1:4022/udp/239.2.1.1:1234
 #EXTINF:0 mono=0 tvg-name="K1" tvg-logo="%D0%9A1.png" ,К1
 http://192.168.1.1:4022/udp/239.2.1.2:1234
@@ -81,7 +81,7 @@ http://192.168.1.1:4022/udp/239.2.1.80:1234
 http://192.168.1.1:4022/udp/239.2.1.91:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D1%80%D0%B0%D0%B4%D0%B8%D0%BE.png"  ,Культура радио
 http://192.168.1.1:4022/udp/239.2.1.92:1234
-#EXTINF:0 mono=0 tvg-name="112_Ukraina" tvg-logo="112%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png" ,112 Украина
+#EXTINF:0 mono=0 tvg-name="112_Ukraina" tvg-logo="112%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png" group-title="Политика и новости" ,112 Украина
 http://192.168.1.1:4022/udp/239.2.1.15:1234
 #EXTINF:0 mono=0 tvg-name="Byelarus_24" tvg-logo="%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C%2024.png" ,Беларусь 24
 http://192.168.1.1:4022/udp/239.2.1.25:1234
@@ -99,7 +99,7 @@ http://192.168.1.1:4022/udp/239.2.1.78:1234
 http://192.168.1.1:4022/udp/239.2.1.50:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0%2024.png" ,Украина 24 HD
 http://192.168.1.1:4022/udp/239.2.1.87:1234
-#EXTINF:0 mono=0 tvg-name="CHyernomorskaya_TRK" tvg-logo="%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A2%D0%A0%D0%9A.png" ,Черноморская ТРК
+#EXTINF:0 mono=0 tvg-name="CHyernomorskaya_TRK" tvg-logo="%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A2%D0%A0%D0%9A.png" group-title="Познавательные" ,Черноморская ТРК
 http://192.168.1.1:4022/udp/239.2.1.62:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="Genuine%20TV.png" ,Genuine TV HD
 http://192.168.1.1:4022/udp/239.2.1.79:1234
@@ -121,7 +121,7 @@ http://192.168.1.1:4022/udp/239.2.1.54:1234
 http://192.168.1.1:4022/udp/239.2.1.46:1234
 #EXTINF:0 mono=0 tvg-name="36_6_TV" tvg-logo="36.6%20TV.png" ,36.6 TV
 http://192.168.1.1:4022/udp/239.2.1.77:1234
-#EXTINF:0 mono=0 tvg-name="Eurosport_1" tvg-logo="Eurosport%201.png" ,Eurosport 1
+#EXTINF:0 mono=0 tvg-name="Eurosport_1" tvg-logo="Eurosport%201.png" group-title="Спорт" ,Eurosport 1
 http://192.168.1.1:4022/udp/239.2.1.66:1234
 #EXTINF:0 mono=0 tvg-name="Futbol_1" tvg-logo="%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201.png" ,Футбол 1
 http://192.168.1.1:4022/udp/239.2.1.58:1234
@@ -133,7 +133,7 @@ http://192.168.1.1:4022/udp/239.2.1.60:1234
 http://192.168.1.1:4022/udp/239.2.1.73:1234
 #EXTINF:0 mono=0 tvg-name="Xsport" tvg-logo="XSPORT.png" ,XSPORT HD
 http://192.168.1.1:4022/udp/239.2.1.82:1234
-#EXTINF:0 mono=0 tvg-name="OTV" tvg-logo="O-TV%20Music.png" ,O-TV Music
+#EXTINF:0 mono=0 tvg-name="OTV" tvg-logo="O-TV%20Music.png" group-title="Музыка" ,O-TV Music
 http://192.168.1.1:4022/udp/239.2.1.4:1234
 #EXTINF:0 mono=0 tvg-name="Zoom" tvg-logo="Zoom.png" ,Zoom
 http://192.168.1.1:4022/udp/239.2.1.5:1234
@@ -147,7 +147,7 @@ http://192.168.1.1:4022/udp/239.2.1.83:1234
 http://192.168.1.1:4022/udp/239.2.1.49:1234
 #EXTINF:0 mono=0 tvg-name="MusicBox_UA_HD" tvg-logo="MusicBox%20UA.png" ,MusicBox UA
 http://192.168.1.1:4022/udp/239.2.1.52:1234
-#EXTINF:0 mono=0 tvg-name="Piksyel" tvg-logo="%D0%9F%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D1%8C.png" ,Пиксель
+#EXTINF:0 mono=0 tvg-name="Piksyel" tvg-logo="%D0%9F%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D1%8C.png" group-title="Детские" ,Пиксель
 http://192.168.1.1:4022/udp/239.2.1.12:1234
 #EXTINF:0 mono=0 tvg-name="TiJi_Rossiya" tvg-logo="TiJi.png" ,TiJi
 http://192.168.1.1:4022/udp/239.2.1.55:1234
@@ -159,7 +159,7 @@ http://192.168.1.1:4022/udp/239.2.1.57:1234
 http://192.168.1.1:4022/udp/239.2.1.48:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="Niki%20Junior.png" ,Niki Junior
 http://192.168.1.1:4022/udp/239.2.1.75:1234
-#EXTINF:0 mono=0 tvg-name="Paramount_Comedy_Ukraina" tvg-logo="Paramount%20Comedy.png" ,Paramount Comedy
+#EXTINF:0 mono=0 tvg-name="Paramount_Comedy_Ukraina" tvg-logo="Paramount%20Comedy.png" group-title="Фильмы" ,Paramount Comedy
 http://192.168.1.1:4022/udp/239.2.1.19:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="Paramount%20Channel.png" ,Paramount Channel HD
 http://192.168.1.1:4022/udp/239.2.1.89:1234
@@ -177,5 +177,5 @@ http://192.168.1.1:4022/udp/239.2.1.65:1234
 http://192.168.1.1:4022/udp/239.2.1.76:1234
 #EXTINF:0 mono=0 tvg-name="Epic Drama HD" tvg-logo="Epic%20Drama.png" ,Epic Drama HD
 http://192.168.1.1:4022/udp/239.2.1.88:1234
-#EXTINF:0 mono=0 tvg-name="Fashion_TV_Europe" tvg-logo="Fashion%20TV.png" ,Fashion TV
+#EXTINF:0 mono=0 tvg-name="Fashion_TV_Europe" tvg-logo="Fashion%20TV.png" group-title="Мода" ,Fashion TV
 http://192.168.1.1:4022/udp/239.2.1.43:1234
