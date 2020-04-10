@@ -177,3 +177,5 @@ http://192.168.1.1:4022/udp/239.2.1.65:1234
 http://192.168.1.1:4022/udp/239.2.1.76:1234
 #EXTINF:0 mono=0 tvg-name="Epic Drama HD" tvg-logo="Epic%20Drama.png" ,Epic Drama HD
 http://192.168.1.1:4022/udp/239.2.1.88:1234
+#EXTINF:0 mono=0 tvg-name="Fashion_TV_Europe" tvg-logo="Fashion%20TV.png" group-title="Мода" ,Fashion TV
+http://192.168.1.1:4022/udp/239.2.1.43:1234
