@@ -121,15 +121,3 @@ http://192.168.1.1:4022/udp/239.2.1.54:1234
 http://192.168.1.1:4022/udp/239.2.1.46:1234
 #EXTINF:0 mono=0 tvg-name="36_6_TV" tvg-logo="36.6%20TV.png" ,36.6 TV
 http://192.168.1.1:4022/udp/239.2.1.77:1234
-#EXTINF:0 mono=0 tvg-name="Eurosport_1" tvg-logo="Eurosport%201.png" group-title="Спорт" ,Eurosport 1
-http://192.168.1.1:4022/udp/239.2.1.66:1234
-#EXTINF:0 mono=0 tvg-name="Futbol_1" tvg-logo="%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201.png" ,Футбол 1
-http://192.168.1.1:4022/udp/239.2.1.58:1234
-#EXTINF:0 mono=0 tvg-name="Futbol_2" tvg-logo="%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202.png" ,Футбол 2
-http://192.168.1.1:4022/udp/239.2.1.59:1234
-#EXTINF:0 mono=0 tvg-name="Sport_1" tvg-logo="Sport%201.png" ,Sport 1
-http://192.168.1.1:4022/udp/239.2.1.60:1234
-#EXTINF:0 mono=0 tvg-name="Sea_TV" tvg-logo="SEA%20TV.png" ,SEA TV
-http://192.168.1.1:4022/udp/239.2.1.73:1234
-#EXTINF:0 mono=0 tvg-name="Xsport" tvg-logo="XSPORT.png" ,XSPORT HD
-http://192.168.1.1:4022/udp/239.2.1.82:1234
