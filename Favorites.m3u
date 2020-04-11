@@ -105,7 +105,7 @@ http://192.168.1.1:4022/udp/239.2.1.62:1234
 http://192.168.1.1:4022/udp/239.2.1.79:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%9A%D1%83%D1%81-%D0%9A%D1%83%D1%81.png" ,Кус-Кус HD
 http://192.168.1.1:4022/udp/239.2.1.69:1234
-#EXTINF:0 mono=0 tvg-name="Discovery_Vostochnaya_YEvropa" tvg-logo="Discovery.png" ,Discovery
+#EXTINF:0 mono=0 tvg-name="Discovery_Vostochnaya_YEvropa" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/Discovery.png" ,Discovery
 http://192.168.1.1:4022/udp/239.2.1.41:1234
 #EXTINF:0 mono=0 tvg-name="Animal_planet_Europe" tvg-logo="Animal%20Planet.png" ,Animal Planet
 http://192.168.1.1:4022/udp/239.2.1.42:1234
