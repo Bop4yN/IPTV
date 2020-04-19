@@ -1,0 +1,16 @@
+#EXTINF:0 mono=0 tvg-name="OTV" tvg-logo="O-TV%20Music.png" group-title="Музыка" ,O-TV Music
+http://192.168.1.1:4022/udp/239.2.1.4:1234
+#EXTINF:0 mono=0 tvg-name="Zoom" tvg-logo="Zoom.png" ,Zoom
+http://192.168.1.1:4022/udp/239.2.1.5:1234
+#EXTINF:0 mono=0 tvg-name="M1" tvg-logo="%D0%9C1.png" ,М1 HD
+http://192.168.1.1:4022/udp/239.2.1.6:1234
+#EXTINF:0 mono=0 tvg-name="M2" tvg-logo="%D0%9C2.png" ,М2 HD
+http://192.168.1.1:4022/udp/239.2.1.7:1234
+#EXTINF:0 mono=0 tvg-name="4ever_music" tvg-logo="4ever.png" ,4ever HD
+http://192.168.1.1:4022/udp/239.2.1.83:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Megogo%20live.png"  ,Megogo live HD
+http://192.168.1.1:4022/udp/239.2.1.72:1234
+#EXTINF:0 mono=0 tvg-name="EU_Music" tvg-logo="EU%20music.png" ,EU music HD
+http://192.168.1.1:4022/udp/239.2.1.49:1234
+#EXTINF:0 mono=0 tvg-name="MusicBox_UA_HD" tvg-logo="MusicBox%20UA.png" ,MusicBox UA
+http://192.168.1.1:4022/udp/239.2.1.52:1234

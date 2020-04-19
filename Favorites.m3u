@@ -1,5 +1,5 @@
 ﻿#EXTM3U url-tvg="http://tv.maxnet.ua/temp/programm_jtv.zip"
-#EXTINF:0 mono=0 tvg-name="ОТБ" tvg-logo="%D0%9E%D0%A2%D0%91.png" group-title="Харьковские" ,ОТБ
+#EXTINF:0 mono=0 tvg-name="UA:Харків" tvg-logo="UA%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2.png" group-title="Харьковские" ,UA:Харків
 http://192.168.1.1:4022/udp/239.2.1.17:1234
 #EXTINF:0 mono=0 tvg-name="Simon" tvg-logo="Simon.png" ,Simon
 http://192.168.1.1:4022/udp/239.2.1.38:1234
@@ -143,6 +143,8 @@ http://192.168.1.1:4022/udp/239.2.1.6:1234
 http://192.168.1.1:4022/udp/239.2.1.7:1234
 #EXTINF:0 mono=0 tvg-name="4ever_music" tvg-logo="4ever.png" ,4ever HD
 http://192.168.1.1:4022/udp/239.2.1.83:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Megogo%20live.png"  ,Megogo live HD
+http://192.168.1.1:4022/udp/239.2.1.72:1234
 #EXTINF:0 mono=0 tvg-name="EU_Music" tvg-logo="EU%20music.png" ,EU music HD
 http://192.168.1.1:4022/udp/239.2.1.49:1234
 #EXTINF:0 mono=0 tvg-name="MusicBox_UA_HD" tvg-logo="MusicBox%20UA.png" ,MusicBox UA

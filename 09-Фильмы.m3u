@@ -1,0 +1,18 @@
+#EXTINF:0 mono=0 tvg-name="Paramount_Comedy_Ukraina" tvg-logo="Paramount%20Comedy.png" group-title="Фильмы" ,Paramount Comedy
+http://192.168.1.1:4022/udp/239.2.1.19:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Paramount%20Channel.png" ,Paramount Channel HD
+http://192.168.1.1:4022/udp/239.2.1.89:1234
+#EXTINF:0 mono=0 tvg-name="Enter-film" tvg-logo="Enter-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.png" ,Enter-фильм
+http://192.168.1.1:4022/udp/239.2.1.61:1234
+#EXTINF:0 mono=0 tvg-name="Sony_Sci-Fi_Rossiya" tvg-logo="Sony%20Sci-Fi.png" ,Sony Sci-Fi
+http://192.168.1.1:4022/udp/239.2.1.68:1234
+#EXTINF:0 mono=0 tvg-name="Star_Family" tvg-logo="StarFamily.png" ,StarFamily
+http://192.168.1.1:4022/udp/239.2.1.45:1234
+#EXTINF:0 mono=0 tvg-name="TV1000_Action_East" tvg-logo="TV1000%20Action%20East.png" ,TV1000 Action East
+http://192.168.1.1:4022/udp/239.2.1.64:1234
+#EXTINF:0 mono=0 tvg-name="TV1000_East" tvg-logo="TV1000%20East.png" ,TV1000 East
+http://192.168.1.1:4022/udp/239.2.1.65:1234
+#EXTINF:0 mono=0 tvg-name="Dorama" tvg-logo="Dorama.png" ,Dorama
+http://192.168.1.1:4022/udp/239.2.1.76:1234
+#EXTINF:0 mono=0 tvg-name="Epic Drama HD" tvg-logo="Epic%20Drama.png" ,Epic Drama HD
+http://192.168.1.1:4022/udp/239.2.1.88:1234
