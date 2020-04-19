@@ -1,0 +1,17 @@
+*** /dev/fd/63	2017-01-23 01:00:05.088654884 +0200
+--- /dev/fd/62	2017-01-23 01:00:05.084652012 +0200
+***************
+*** 57 ****
+--- 58,59 ----
++ #EXTINF:0 mono=0 tvg-name=«Культура»  ,Культура
++ udp://@239.2.1.24:1234
+***************
+*** 64,65 ****
+- #EXTINF:0 mono=0 tvg-name=«KVARTAL TV»  ,KVARTAL TV
+- udp://@239.2.1.70:1234
+--- 65 ----
+***************
+*** 70,71 ****
+- #EXTINF:0 mono=0 tvg-name=«Business» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/businesstv.jpg» ,Business
+- udp://@239.2.1.24:1234
+--- 69 ----

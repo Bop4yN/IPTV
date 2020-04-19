@@ -1,0 +1,137 @@
+﻿#EXTM3U url-tvg="http://tv.maxnet.ua/temp/programm_jtv.zip"
+#EXTINF:0 mono=0 tvg-name="Наше Кино" ,Наше Кино
+udp://@239.2.1.67:1234
+#EXTINF:0 mono=0 tvg-name="ODTRK Kharkov" group-title="Харьковские" ,ODTRK Kharkov
+udp://@239.2.1.17:1234
+#EXTINF:0 mono=0 tvg-name="Simon" ,Simon
+udp://@239.2.1.38:1234
+#EXTINF:0 mono=0 tvg-name="S-TET" ,S-TET
+udp://@239.2.1.39:1234
+#EXTINF:0 mono=0 tvg-name="7-й канал" ,7-й канал
+udp://@239.2.1.40:1234
+#EXTINF:0 mono=0 tvg-name="АТВК" ,АТВК
+udp://@239.2.1.35:1234
+#EXTINF:0 mono=0 tvg-name="1+1" group-title="Украинские" ,1+1
+udp://@239.2.1.1:1234
+#EXTINF:0 mono=0 tvg-name="К1" ,К1
+udp://@239.2.1.2:1234
+#EXTINF:0 mono=0 tvg-name="К2" ,К2
+udp://@239.2.1.3:1234
+#EXTINF:0 mono=0 tvg-name="СТБ" ,СТБ
+udp://@239.2.1.8:1234
+#EXTINF:0 mono=0 tvg-name="ICTV" ,ICTV
+udp://@239.2.1.10:1234
+#EXTINF:0 mono=0 tvg-name="НЛО ТВ" ,НЛО ТВ
+udp://@239.2.1.11:1234
+#EXTINF:0 mono=0 tvg-name="Новый канал" ,Новый канал
+udp://@239.2.1.13:1234
+#EXTINF:0 mono=0 tvg-name="ТРК Украина" ,ТРК Украина
+udp://@239.2.1.14:1234
+#EXTINF:0 mono=0 tvg-name="++" ,Плюс Плюс
+udp://@239.2.1.16:1234
+#EXTINF:0 mono=0 tvg-name="Dacha" ,Dacha
+udp://@239.2.1.19:1234
+#EXTINF:0 mono=0 tvg-name="2+2" ,2+2
+udp://@239.2.1.21:1234
+#EXTINF:0 mono=0 tvg-name="Мега" ,Мега
+udp://@239.2.1.22:1234
+#EXTINF:0 mono=0 tvg-name="НТН" ,НТН
+udp://@239.2.1.23:1234
+#EXTINF:0 mono=0 tvg-name="Тонис" ,Тонис
+udp://@239.2.1.27:1234
+#EXTINF:0 mono=0 tvg-name="ТЕТ" ,ТЕТ
+udp://@239.2.1.29:1234
+#EXTINF:0 mono=0 tvg-name="КРТ" ,КРТ
+udp://@239.2.1.30:1234
+#EXTINF:0 mono=0 tvg-name="5 канал" ,5 канал
+udp://@239.2.1.31:1234
+#EXTINF:0 mono=0 tvg-name="Интер" ,Интер
+udp://@239.2.1.34:1234
+#EXTINF:0 mono=0 tvg-name="Первый национальный" ,Первый национальный
+udp://@239.2.1.36:1234
+#EXTINF:0 mono=0 tvg-name="Солнце" ,Солнце
+udp://@239.2.1.37:1234
+#EXTINF:0 mono=0 tvg-name="УНІАН" ,УНІАН
+udp://@239.2.1.44:1234
+#EXTINF:0 mono=0 tvg-name="Q-TV" ,Q-TV
+udp://@239.2.1.47:1234
+#EXTINF:0 mono=0 tvg-name="3S.tv" ,3S.tv
+udp://@239.2.1.51:1234
+#EXTINF:0 mono=0 tvg-name="RTVi" group-title="Российские" ,RTVi
+udp://@239.2.1.53:1234
+#EXTINF:0 mono=0 tvg-name="Gumor TV" group-title="Политика и новости" ,Gumor TV
+udp://@239.2.1.9:1234
+#EXTINF:0 mono=0 tvg-name="112 Украина" ,112 Украина
+udp://@239.2.1.15:1234
+#EXTINF:0 mono=0 tvg-name="Бигуди" ,Бигуди
+udp://@239.2.1.18:1234
+#EXTINF:0 mono=0 tvg-name="UBR" ,UBR
+udp://@239.2.1.20:1234
+#EXTINF:0 mono=0 tvg-name="Business" ,Business
+udp://@239.2.1.24:1234
+#EXTINF:0 mono=0 tvg-name="Беларусь ТВ" ,Беларусь ТВ
+udp://@239.2.1.25:1234
+#EXTINF:0 mono=0 tvg-name="Еспресо TV" ,Еспресо TV
+udp://@239.2.1.26:1234
+#EXTINF:0 mono=0 tvg-name="Новости 24" ,Новости 24
+udp://@239.2.1.28:1234
+#EXTINF:0 mono=0 tvg-name="Рада" ,Рада
+udp://@239.2.1.32:1234
+#EXTINF:0 mono=0 tvg-name="Первый деловой" ,Первый деловой
+udp://@239.2.1.33:1234
+#EXTINF:0 mono=0 tvg-name="News One" ,News One
+udp://@239.2.1.50:1234
+#EXTINF:0 mono=0 tvg-name="Первый автомобильный" group-title="Познавательные" ,Первый автомобильный
+udp://@239.2.1.63:1234
+#EXTINF:0 mono=0 tvg-name="Ностальгия" ,Ностальгия
+udp://@239.2.1.62:1234
+#EXTINF:0 mono=0 tvg-name="Discovery UA" ,Discovery UA
+udp://@239.2.1.41:1234
+#EXTINF:0 mono=0 tvg-name="Animal Planet" ,Animal Planet
+udp://@239.2.1.42:1234
+#EXTINF:0 mono=0 tvg-name="Maxxi-TV" ,Maxxi-TV
+udp://@239.2.1.45:1234
+#EXTINF:0 mono=0 tvg-name="ЧП.INFO" ,ЧП.INFO
+udp://@239.2.1.54:1234
+#EXTINF:0 mono=0 tvg-name="Индиго ТВ" ,Индиго ТВ
+udp://@239.2.1.46:1234
+#EXTINF:0 mono=0 tvg-name="Eurosport" group-title="Спорт" ,Eurosport
+udp://@239.2.1.66:1234
+#EXTINF:0 mono=0 tvg-name="Футбол 1" ,Футбол 1
+udp://@239.2.1.58:1234
+#EXTINF:0 mono=0 tvg-name="Футбол 2" ,Футбол 2
+udp://@239.2.1.59:1234
+#EXTINF:0 mono=0 tvg-name="Спорт 1" ,Спорт 1
+udp://@239.2.1.60:1234
+#EXTINF:0 mono=0 tvg-name="O-TV Music" group-title="Музыка" ,O-TV Music
+udp://@239.2.1.4:1234
+#EXTINF:0 mono=0 tvg-name="Zoom" ,Zoom
+udp://@239.2.1.5:1234
+#EXTINF:0 mono=0 tvg-name="М1" ,М1
+udp://@239.2.1.6:1234
+#EXTINF:0 mono=0 tvg-name="М2" ,М2
+udp://@239.2.1.7:1234
+#EXTINF:0 mono=0 tvg-name="RU music" ,EU music
+udp://@239.2.1.49:1234
+#EXTINF:0 mono=0 tvg-name="MusicBox UA" ,MusicBox UA
+udp://@239.2.1.52:1234
+#EXTINF:0 mono=0 tvg-name="Піксель" group-title="Детские" ,Піксель
+udp://@239.2.1.12:1234
+#EXTINF:0 mono=0 tvg-name="Карусель" ,Карусель
+udp://@239.2.1.55:1234
+#EXTINF:0 mono=0 tvg-name="Nickelodeon" ,Nickelodeon
+udp://@239.2.1.56:1234
+#EXTINF:0 mono=0 tvg-name="Малятко TV" ,Малятко ТВ
+udp://@239.2.1.57:1234
+#EXTINF:0 mono=0 tvg-name="Детский мир _ Телеклуб" ,Детский мир / Телеклуб
+udp://@239.2.1.48:1234
+#EXTINF:0 mono=0 tvg-name="Enter-фильм" group-title="Фильмы" ,Enter-фильм
+udp://@239.2.1.61:1234
+#EXTINF:0 mono=0 tvg-name="Sony" ,Sony Sci-Fi
+udp://@239.2.1.68:1234
+#EXTINF:0 mono=0 tvg-name="TV1000 Action" ,TV1000 Action
+udp://@239.2.1.64:1234
+#EXTINF:0 mono=0 tvg-name="TV1000 East" ,TV1000 East
+udp://@239.2.1.65:1234
+#EXTINF:0 mono=0 tvg-name="Fashion TV" group-title="Мода" ,Fashion TV
+udp://@239.2.1.43:1234

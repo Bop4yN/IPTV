@@ -1,0 +1,27 @@
+*** /dev/fd/63	2020-02-20 01:00:05.310726842 +0200
+--- /dev/fd/62	2020-02-20 01:00:05.314727273 +0200
+***************
+*** 11 ****
+! udp://@239.2.1.82:1234
+--- 11 ----
+! udp://@239.2.1.90:1234
+***************
+*** 26 ****
+! #EXTINF:0 mono=0 tvg-name=«NLO_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nlo.jpg» ,НЛО ТВ
+--- 26 ----
+! #EXTINF:0 mono=0 tvg-name=«NLO_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nlo.jpg» ,НЛО ТВ HD
+***************
+*** 28 ****
+! #EXTINF:0 mono=0 tvg-name=«Novyy_kanal» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/novy.jpg» ,Новый канал
+--- 28 ----
+! #EXTINF:0 mono=0 tvg-name=«Novyy_kanal» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/novy.jpg» ,Новый канал HD
+***************
+*** 68 ****
+! #EXTINF:0 mono=0 tvg-name=«Otsye» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/qtv.jpg» ,ОЦЕ ТВ
+--- 68 ----
+! #EXTINF:0 mono=0 tvg-name=«Otsye» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/qtv.jpg» ,ОЦЕ ТВ HD
+***************
+*** 131 ****
+--- 132,133 ----
++ #EXTINF:0 mono=0 tvg-name=«Xsport» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/xsport.jpg» ,XSPORT HD
++ udp://@239.2.1.82:1234

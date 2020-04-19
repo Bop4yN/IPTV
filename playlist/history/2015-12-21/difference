@@ -1,0 +1,14 @@
+*** /dev/fd/63	Mon Dec 21 01:00:02 2015
+--- /dev/fd/62	Mon Dec 21 01:00:02 2015
+***************
+*** 292,294 ****
+! #EXTINF:0 mono=0 tvg-name=«Fox-Crime» ,Fox-Crime
+! udp://@239.0.0.140:1234
+! #EXTINF:0 mono=0 tvg-name=«Fox Life» ,Fox-Life
+--- 292 ----
+! #EXTINF:0 mono=0 tvg-name=«Трофей» ,Трофей
+***************
+*** 356 ****
+--- 355,356 ----
++ #EXTINF:0 mono=0 tvg-name=«Fashion One HD» ,Fashion One HD
++ udp://@239.2.8.4:1234

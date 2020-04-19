@@ -1,0 +1,27 @@
+*** /dev/fd/63	2017-04-10 01:00:04.135857974 +0300
+--- /dev/fd/62	2017-04-10 01:00:04.139854060 +0300
+***************
+*** 20 ****
+! #EXTINF:0 mono=0 tvg-name=«Gumor TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/gumor.jpg» ,Gumor TV
+--- 20 ----
+! #EXTINF:0 mono=0 tvg-name=«Bolt» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/gumor.jpg» ,Bolt
+***************
+*** 60 ****
+! #EXTINF:0 mono=0 tvg-name=«PravdaTYT»  ,PravdaTYT
+--- 60 ----
+! #EXTINF:0 mono=0 tvg-name=«PravdaTYT» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/pravda_tut.jpg» ,PravdaTYT
+***************
+*** 93 ****
+--- 94,95 ----
++ #EXTINF:0 mono=0 tvg-name=«Travel HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/Travel_HD.jpg» ,Travel HD
++ udp://@239.2.1.71:1234
+***************
+*** 99 ****
+--- 102,103 ----
++ #EXTINF:0 mono=0 tvg-name=«DocuBox HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/docubox.jpg» ,DocuBox HD
++ udp://@239.2.1.72:1234
+***************
+*** 122,123 ****
+- #EXTINF:0 mono=0 tvg-name=«В гостях у сказки» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/v_gostah_u_skazki.jpg» ,В гостях у сказки
+- udp://@239.2.1.71:1234
+--- 125 ----

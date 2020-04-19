@@ -1,0 +1,17 @@
+*** /dev/fd/63	2018-06-21 01:00:26.679144333 +0300
+--- /dev/fd/62	2018-06-21 01:00:26.683149687 +0300
+***************
+*** 40 ****
+! #EXTINF:0 mono=0 tvg-name=«Тонис» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tonishd.jpg» ,Прямой
+--- 40 ----
+! #EXTINF:0 mono=0 tvg-name=«Прямой» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tonishd.jpg» ,Прямой
+***************
+*** 124 ****
+! #EXTINF:0 mono=0 tvg-name=«RU music» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/eumusic.jpg» ,EU music
+--- 124 ----
+! #EXTINF:0 mono=0 tvg-name=«EU music» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/eumusic.jpg» ,EU music
+***************
+*** 144 ****
+! #EXTINF:0 mono=0 tvg-name=«Sony» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sonyscifi.jpg» ,Sony Sci-Fi
+--- 144 ----
+! #EXTINF:0 mono=0 tvg-name=«Sony Sci-Fi» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sonyscifi.jpg» ,Sony Sci-Fi

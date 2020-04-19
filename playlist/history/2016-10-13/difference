@@ -1,0 +1,7 @@
+*** /dev/fd/63	2016-10-13 01:00:03.824055415 +0300
+--- /dev/fd/62	2016-10-13 01:00:03.828057967 +0300
+***************
+*** 122 ****
+! #EXTINF:0 mono=0 tvg-name=«Карусель» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/karuseltv.jpg» ,Карусель
+--- 122 ----
+! #EXTINF:0 mono=0 tvg-name=«TiJi» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/karuseltv.jpg» ,TiJi

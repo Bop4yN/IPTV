@@ -1,0 +1,7 @@
+*** /dev/fd/63	2020-03-05 01:00:09.486726471 +0200
+--- /dev/fd/62	2020-03-05 01:00:09.490728324 +0200
+***************
+*** 14 ****
+! #EXTINF:0 mono=0 tvg-name=«1plus1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1+1.jpg» group-title=«Украинские» ,1+1
+--- 14 ----
+! #EXTINF:0 mono=0 tvg-name=«1plus1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1+1.jpg» group-title=«Украинские» ,1+1 HD

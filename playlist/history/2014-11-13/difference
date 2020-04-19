@@ -1,0 +1,31 @@
+*** /shares/Public/IPTV/playlist/playlist_old.m3u	Mon Nov 10 01:00:03 2014
+--- /shares/Public/IPTV/playlist/playlist.m3u	Thu Nov 13 01:00:01 2014
+***************
+*** 66,71 ****
+--- 66,74 ----
+  udp://@239.0.0.170:1234
+  #EXTINF:0 mono=0 tvg-name="НЛО ТВ" ,НЛО ТВ
+  udp://@239.0.0.12:1234
++ #EXTINF:0 mono=0 tvg-name="ATR" ,ATR
++ udp://@239.0.0.39:1234
++ 
+  
+  #EXTINF:0 mono=0 tvg-name="ОРТ международный" group-title="Российские",ОРТ международный
+  udp://@239.0.0.128:1234
+***************
+*** 186,192 ****
+  udp://@239.0.0.180:1234
+  #EXTINF:0 mono=0 tvg-name="EcoTV" ,Eco TV
+  udp://@239.0.0.17:1234
+! #EXTINF:0 mono=0 tvg-name= ,Голдберрі
+  udp://@239.0.0.21:1234
+  #EXTINF:0 mono=0 tvg-name="Chasse et Peche" ,Chasse et Peche
+  udp://@239.0.0.220:1234
+--- 189,195 ----
+  udp://@239.0.0.180:1234
+  #EXTINF:0 mono=0 tvg-name="EcoTV" ,Eco TV
+  udp://@239.0.0.17:1234
+! #EXTINF:0 mono=0 tvg-name="Соціальна країна" ,Соціальна країна
+  udp://@239.0.0.21:1234
+  #EXTINF:0 mono=0 tvg-name="Chasse et Peche" ,Chasse et Peche
+  udp://@239.0.0.220:1234

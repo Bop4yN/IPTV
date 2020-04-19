@@ -1,0 +1,12 @@
+*** /dev/fd/63	2019-03-07 01:00:03.465527310 +0200
+--- /dev/fd/62	2019-03-07 01:00:03.461525772 +0200
+***************
+*** 92 ****
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sirius-tv-ua.jpg» ,Sirius TV
+--- 92 ----
+! #EXTINF:0 mono=0 tvg-name=«Sirius» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sirius-tv-ua.jpg» ,Sirius TV
+***************
+*** 106 ****
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/OstWest.jpg» ,OstWest
+--- 106 ----
+! #EXTINF:0 mono=0 tvg-name=«OstWest» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/OstWest.jpg» ,OstWest

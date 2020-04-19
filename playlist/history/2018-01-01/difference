@@ -1,0 +1,17 @@
+*** /dev/fd/63	2018-01-01 01:00:04.010106900 +0200
+--- /dev/fd/62	2018-01-01 01:00:04.014110028 +0200
+***************
+*** 84 ****
+! #EXTINF:0 mono=0 tvg-name=«Sirius TV»  ,Sirius TV
+--- 84 ----
+! #EXTINF:0 mono=0 tvg-name=«Sirius TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sirius-tv-ua.jpg» ,Sirius TV
+***************
+*** 86 ****
+! #EXTINF:0 mono=0 tvg-name=«Paramount Comedy»  ,Paramount Comedy
+--- 86 ----
+! #EXTINF:0 mono=0 tvg-name=«Paramount Comedy» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/Paramount_Comedy.jpg» ,Paramount Comedy
+***************
+*** 137 ****
+--- 138,139 ----
++ #EXTINF:0 mono=0 tvg-name=«Niki Junior» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/niki_junior.jpg» ,Niki Junior
++ udp://@239.2.1.75:1234

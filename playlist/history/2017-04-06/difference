@@ -1,0 +1,16 @@
+*** /dev/fd/63	2017-04-06 01:00:03.427854629 +0300
+--- /dev/fd/62	2017-04-06 01:00:03.431859671 +0300
+***************
+*** 34,37 ****
+- #EXTINF:0 mono=0 tvg-name=«EPOQUE» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/epoque.jpg» ,EPOQUE
+- udp://@239.2.1.69:1234
+- #EXTINF:0 mono=0 tvg-name=«Dacha» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/dacha.jpg» ,Dacha
+- udp://@239.2.1.19:1234
+--- 33 ----
+***************
+*** 85 ****
+--- 82,85 ----
++ #EXTINF:0 mono=0 tvg-name=«EPOQUE» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/epoque.jpg» ,EPOQUE
++ udp://@239.2.1.69:1234
++ #EXTINF:0 mono=0 tvg-name=«Dacha» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/dacha.jpg» ,Dacha
++ udp://@239.2.1.19:1234

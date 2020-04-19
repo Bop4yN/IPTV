@@ -1,0 +1,33 @@
+*** /shares/Public/IPTV/playlist/playlist_old.m3u	2014-11-13 10:44:19.111901500 +0200
+--- /shares/Public/IPTV/playlist/playlist.m3u	2015-03-12 21:31:53.482529515 +0200
+***************
+*** 121,126 ****
+--- 121,128 ----
+  udp://@239.0.0.161:1234
+  #EXTINF:0 mono=0 tvg-name="Телеканал 100" ,Телеканал 100
+  udp://@239.0.0.181:1234
++ #EXTINF:0 mono=0 tvg-name="Право ТВ" ,Право ТВ
++ udp://@239.0.0.128:1234
+  
+  #EXTINF:0 mono=0 tvg-name="Discovery" group-title="Discovery Networks" ,Discovery
+  udp://@239.0.0.131:1234
+***************
+*** 193,199 ****
+  udp://@239.0.0.21:1234
+  #EXTINF:0 mono=0 tvg-name="Chasse et Peche" ,Chasse et Peche
+  udp://@239.0.0.220:1234
+! 
+  
+  #EXTINF:0 mono=0 tvg-name="Eurosport" audio-track=1 group-title="Спорт" ,Eurosport
+  udp://@239.0.0.211:1234
+--- 195,204 ----
+  udp://@239.0.0.21:1234
+  #EXTINF:0 mono=0 tvg-name="Chasse et Peche" ,Chasse et Peche
+  udp://@239.0.0.220:1234
+! #EXTINF:0 mono=0 tvg-name="Планета" ,Планета
+! udp://@239.0.0.142:1234
+! #EXTINF:0 mono=0 tvg-name="Индиго ТВ" ,Индиго ТВ
+! udp://@239.0.0.152:1234
+  
+  #EXTINF:0 mono=0 tvg-name="Eurosport" audio-track=1 group-title="Спорт" ,Eurosport
+  udp://@239.0.0.211:1234

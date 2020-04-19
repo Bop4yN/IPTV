@@ -1,0 +1,357 @@
+*** /dev/fd/63	2018-12-31 01:00:05.577529464 +0200
+--- /dev/fd/62	2018-12-31 01:00:05.581525856 +0200
+***************
+*** 10 ****
+! #EXTINF:0 mono=0 tvg-name=«АТВК» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/atvk.jpg» ,АТВК
+--- 10 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/atvk.jpg» ,АТВК
+***************
+*** 12 ****
+! #EXTINF:0 mono=0 tvg-name=«1+1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1+1.jpg» group-title=«Украинские» ,1+1
+--- 12 ----
+! #EXTINF:0 mono=0 tvg-name=«1plus1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1+1.jpg» group-title=«Украинские» ,1+1
+***************
+*** 14 ****
+! #EXTINF:0 mono=0 tvg-name=«К1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/k1.jpg» ,К1
+--- 14 ----
+! #EXTINF:0 mono=0 tvg-name=«K1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/k1.jpg» ,К1
+***************
+*** 16 ****
+! #EXTINF:0 mono=0 tvg-name=«К2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/k2.jpg» ,К2
+--- 16 ----
+! #EXTINF:0 mono=0 tvg-name=«K2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/k2.jpg» ,К2
+***************
+*** 18 ****
+! #EXTINF:0 mono=0 tvg-name=«СТБ» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/stb.jpg» ,СТБ
+--- 18 ----
+! #EXTINF:0 mono=0 tvg-name=«STB» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/stb.jpg» ,СТБ
+***************
+*** 24 ****
+! #EXTINF:0 mono=0 tvg-name=«НЛО ТВ» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nlo.jpg» ,НЛО ТВ
+--- 24 ----
+! #EXTINF:0 mono=0 tvg-name=«NLO_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nlo.jpg» ,НЛО ТВ
+***************
+*** 26 ****
+! #EXTINF:0 mono=0 tvg-name=«Новый канал» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/novy.jpg» ,Новый канал
+--- 26 ----
+! #EXTINF:0 mono=0 tvg-name=«Novyy_kanal» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/novy.jpg» ,Новый канал
+***************
+*** 28 ****
+! #EXTINF:0 mono=0 tvg-name=«ТРК Украина» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ukraine.jpg» ,ТРК Украина
+--- 28 ----
+! #EXTINF:0 mono=0 tvg-name=«Ukraina» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ukraine.jpg» ,ТРК Украина
+***************
+*** 30 ****
+! #EXTINF:0 mono=0 tvg-name=«++» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/plus-plus.jpg» ,Плюс Плюс
+--- 30 ----
+! #EXTINF:0 mono=0 tvg-name=«PlyusPlyus» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/plus-plus.jpg» ,Плюс Плюс
+***************
+*** 32 ****
+! #EXTINF:0 mono=0 tvg-name=«Бигуди» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/biguditv.jpg» ,Бигуди
+--- 32 ----
+! #EXTINF:0 mono=0 tvg-name=«Bigudi» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/biguditv.jpg» ,Бигуди
+***************
+*** 34 ****
+! #EXTINF:0 mono=0 tvg-name=«2+2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/22logo.jpg» ,2+2
+--- 34 ----
+! #EXTINF:0 mono=0 tvg-name=«2plus2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/22logo.jpg» ,2+2
+***************
+*** 36 ****
+! #EXTINF:0 mono=0 tvg-name=«Мега» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/mega.jpg» ,Мега
+--- 36 ----
+! #EXTINF:0 mono=0 tvg-name=«Myega» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/mega.jpg» ,Мега
+***************
+*** 38 ****
+! #EXTINF:0 mono=0 tvg-name=«НТН» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ntn.jpg» ,НТН
+--- 38 ----
+! #EXTINF:0 mono=0 tvg-name=«NTN» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ntn.jpg» ,НТН
+***************
+*** 40 ****
+! #EXTINF:0 mono=0 tvg-name=«Прямой» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tonishd.jpg» ,Прямой
+--- 40 ----
+! #EXTINF:0 mono=0 tvg-name=«Pryamoy» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tonishd.jpg» ,Прямой
+***************
+*** 42 ****
+! #EXTINF:0 mono=0 tvg-name=«ТЕТ» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tet_logo.jpg» ,ТЕТ
+--- 42 ----
+! #EXTINF:0 mono=0 tvg-name=«TYET» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tet_logo.jpg» ,ТЕТ
+***************
+*** 44 ****
+! #EXTINF:0 mono=0 tvg-name=«КРТ» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/krt.jpg» ,КРТ
+--- 44 ----
+! #EXTINF:0 mono=0 tvg-name=«KRT» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/krt.jpg» ,КРТ
+***************
+*** 46 ****
+! #EXTINF:0 mono=0 tvg-name=«5 канал» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/51.jpg» ,5 канал
+--- 46 ----
+! #EXTINF:0 mono=0 tvg-name=«5_kanal» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/51.jpg» ,5 канал
+***************
+*** 48 ****
+! #EXTINF:0 mono=0 tvg-name=«Интер» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/inter.jpg» ,Интер
+--- 48 ----
+! #EXTINF:0 mono=0 tvg-name=«Intyer» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/inter.jpg» ,Интер
+***************
+*** 50 ****
+! #EXTINF:0 mono=0 tvg-name=«Первый национальный» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1tv.jpg» ,Первый национальный
+--- 50 ----
+! #EXTINF:0 mono=0 tvg-name=«UA_Pyershiy_sputnik» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1tv.jpg» ,Первый национальный
+***************
+*** 52 ****
+! #EXTINF:0 mono=0 tvg-name=«Солнце» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/solnce.jpg» ,Солнце
+--- 52 ----
+! #EXTINF:0 mono=0 tvg-name=«Sontsye» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/solnce.jpg» ,Солнце
+***************
+*** 54 ****
+! #EXTINF:0 mono=0 tvg-name=«Культура» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/kultura.jpg» ,Культура
+--- 54 ----
+! #EXTINF:0 mono=0 tvg-name=«UA_Kultura» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/kultura.jpg» ,Культура
+***************
+*** 56 ****
+! #EXTINF:0 mono=0 tvg-name=«УНІАН» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/unian.jpg» ,УНІАН
+--- 56 ----
+! #EXTINF:0 mono=0 tvg-name=«UNIAN_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/unian.jpg» ,УНІАН
+***************
+*** 58 ****
+! #EXTINF:0 mono=0 tvg-name=«ОЦЕ ТВ» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/qtv.jpg» ,ОЦЕ ТВ
+--- 58 ----
+! #EXTINF:0 mono=0 tvg-name=«Otsye» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/qtv.jpg» ,ОЦЕ ТВ
+***************
+*** 60 ****
+! #EXTINF:0 mono=0 tvg-name=«PravdaTYT» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/pravda_tut.jpg» ,PravdaTYT
+--- 60 ----
+! #EXTINF:0 mono=0 tvg-name=«PravdaTUT» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/pravda_tut.jpg» ,PravdaTYT
+***************
+*** 62 ****
+! #EXTINF:0 mono=0 tvg-name=«UA KRYM» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ua-krym.jpg» ,UA KRYM
+--- 62 ----
+! #EXTINF:0 mono=0 tvg-name=«UA_Krim» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ua-krym.jpg» ,UA KRYM
+***************
+*** 64 ****
+! #EXTINF:0 mono=0 tvg-name=«KVARTAL TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/kvartal_tv.jpg» ,Квартал ТВ
+--- 64 ----
+! #EXTINF:0 mono=0 tvg-name=«Kvartal_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/kvartal_tv.jpg» ,Квартал ТВ
+***************
+*** 66 ****
+! #EXTINF:0 mono=0 tvg-name=«Новый Христианский» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/noviy_khristianskiy.jpg» ,Новый Христианский
+--- 66 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/noviy_khristianskiy.jpg» ,Новый Христианский
+***************
+*** 68 ****
+! #EXTINF:0 mono=0 tvg-name=«Луч радио»  group-title=«Радио» ,Луч радио
+--- 68 ----
+! #EXTINF:0 mono=0 tvg-name=«»  group-title=«Радио» ,Луч радио
+***************
+*** 70 ****
+! #EXTINF:0 mono=0 tvg-name=«Украинское радио»  ,Украинское радио
+--- 70 ----
+! #EXTINF:0 mono=0 tvg-name=«»  ,Украинское радио
+***************
+*** 72 ****
+! #EXTINF:0 mono=0 tvg-name=«Культура радио»  ,Культура радио
+--- 72 ----
+! #EXTINF:0 mono=0 tvg-name=«»  ,Культура радио
+***************
+*** 74 ****
+! #EXTINF:0 mono=0 tvg-name=«112 Украина» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/112.jpg» group-title=«Политика и новости» ,112 Украина
+--- 74 ----
+! #EXTINF:0 mono=0 tvg-name=«112_Ukraina» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/112.jpg» group-title=«Политика и новости» ,112 Украина
+***************
+*** 76 ****
+! #EXTINF:0 mono=0 tvg-name=«Беларусь ТВ» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/b24tv.jpg» ,Беларусь ТВ
+--- 76 ----
+! #EXTINF:0 mono=0 tvg-name=«Byelarus_24» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/b24tv.jpg» ,Беларусь ТВ
+***************
+*** 78 ****
+! #EXTINF:0 mono=0 tvg-name=«Еспресо TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/espreso.jpg» ,Еспресо TV
+--- 78 ----
+! #EXTINF:0 mono=0 tvg-name=«YEspryeso_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/espreso.jpg» ,Еспресо TV
+***************
+*** 80 ****
+! #EXTINF:0 mono=0 tvg-name=«Новости 24» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/24tv.jpg» ,Новости 24
+--- 80 ----
+! #EXTINF:0 mono=0 tvg-name=«24_Tyelyekanal_novostyey_24» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/24tv.jpg» ,Новости 24
+***************
+*** 82 ****
+! #EXTINF:0 mono=0 tvg-name=«Рада» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/rada.jpg» ,Рада
+--- 82 ----
+! #EXTINF:0 mono=0 tvg-name=«Rada» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/rada.jpg» ,Рада
+***************
+*** 84 ****
+! #EXTINF:0 mono=0 tvg-name=«Первый деловой» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/fbc.jpg» ,Первый деловой
+--- 84 ----
+! #EXTINF:0 mono=0 tvg-name=«Pyervyy_dyelovoy» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/fbc.jpg» ,Первый деловой
+***************
+*** 86 ****
+! #EXTINF:0 mono=0 tvg-name=«News One» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/newsone2014.jpg» ,News One
+--- 86 ----
+! #EXTINF:0 mono=0 tvg-name=«NewsOne» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/newsone2014.jpg» ,News One
+***************
+*** 88 ****
+! #EXTINF:0 mono=0 tvg-name=«Черноморская ТРК» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sockraina.jpg» group-title=«Познавательные» ,Черноморская ТРК
+--- 88 ----
+! #EXTINF:0 mono=0 tvg-name=«CHyernomorskaya_TRK» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sockraina.jpg» group-title=«Познавательные» ,Черноморская ТРК
+***************
+*** 90 ****
+! #EXTINF:0 mono=0 tvg-name=«Sirius TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sirius-tv-ua.jpg» ,Sirius TV
+--- 90 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sirius-tv-ua.jpg» ,Sirius TV
+***************
+*** 92 ****
+! #EXTINF:0 mono=0 tvg-name=«Paramount Comedy» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/Paramount_Comedy.jpg» ,Paramount Comedy
+--- 92 ----
+! #EXTINF:0 mono=0 tvg-name=«Paramount_Comedy_Ukraina» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/Paramount_Comedy.jpg» ,Paramount Comedy
+***************
+*** 94 ****
+! #EXTINF:0 mono=0 tvg-name=«Первый автомобильный» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1auto.jpg» ,Первый автомобильный
+--- 94 ----
+! #EXTINF:0 mono=0 tvg-name=«Pyervyy_avtomobilnyy» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1auto.jpg» ,Первый автомобильный
+***************
+*** 96 ****
+! #EXTINF:0 mono=0 tvg-name=«Discovery UA» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/discovery_logo.jpg» ,Discovery UA
+--- 96 ----
+! #EXTINF:0 mono=0 tvg-name=«Discovery_Vostochnaya_YEvropa» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/discovery_logo.jpg» ,Discovery UA
+***************
+*** 98 ****
+! #EXTINF:0 mono=0 tvg-name=«Animal Planet» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/animalplanet.jpg» ,Animal Planet
+--- 98 ----
+! #EXTINF:0 mono=0 tvg-name=«Animal_planet_Europe» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/animalplanet.jpg» ,Animal Planet
+***************
+*** 100 ****
+! #EXTINF:0 mono=0 tvg-name=«Travel HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/Travel_HD.jpg» ,Travel HD
+--- 100 ----
+! #EXTINF:0 mono=0 tvg-name=«Travel_channel_HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/Travel_HD.jpg» ,Travel HD
+***************
+*** 102 ****
+! #EXTINF:0 mono=0 tvg-name=«OstWest» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/OstWest.jpg» ,OstWest
+--- 102 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/OstWest.jpg» ,OstWest
+***************
+*** 104 ****
+! #EXTINF:0 mono=0 tvg-name=«ЧП.INFO» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/chpinfo.jpg» ,ЧП.INFO
+--- 104 ----
+! #EXTINF:0 mono=0 tvg-name=«CHP_INFO» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/chpinfo.jpg» ,ЧП.INFO
+***************
+*** 106 ****
+! #EXTINF:0 mono=0 tvg-name=«Индиго ТВ» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/indigotv.jpg» ,Индиго ТВ
+--- 106 ----
+! #EXTINF:0 mono=0 tvg-name=«Indigo» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/indigotv.jpg» ,Индиго ТВ
+***************
+*** 108 ****
+! #EXTINF:0 mono=0 tvg-name=«36.6» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/36.6.jpg» ,36.6
+--- 108 ----
+! #EXTINF:0 mono=0 tvg-name=«36,6_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/36.6.jpg» ,36.6
+***************
+*** 110 ****
+! #EXTINF:0 mono=0 tvg-name=«DocuBox HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/docubox.jpg» ,DocuBox HD
+--- 110 ----
+! #EXTINF:0 mono=0 tvg-name=«DocuBox_HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/docubox.jpg» ,DocuBox HD
+***************
+*** 112 ****
+! #EXTINF:0 mono=0 tvg-name=«Eurosport» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/eurosport.jpg» group-title=«Спорт» ,Eurosport
+--- 112 ----
+! #EXTINF:0 mono=0 tvg-name=«Eurosport_1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/eurosport.jpg» group-title=«Спорт» ,Eurosport
+***************
+*** 114 ****
+! #EXTINF:0 mono=0 tvg-name=«Футбол 1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/fb1.jpg» ,Футбол 1
+--- 114 ----
+! #EXTINF:0 mono=0 tvg-name=«Futbol_1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/fb1.jpg» ,Футбол 1
+***************
+*** 116 ****
+! #EXTINF:0 mono=0 tvg-name=«Футбол 2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/fb2.jpg» ,Футбол 2
+--- 116 ----
+! #EXTINF:0 mono=0 tvg-name=«Futbol_2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/fb2.jpg» ,Футбол 2
+***************
+*** 118 ****
+! #EXTINF:0 mono=0 tvg-name=«Спорт 1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sport1.jpg» ,Спорт 1
+--- 118 ----
+! #EXTINF:0 mono=0 tvg-name=«Sport_1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sport1.jpg» ,Спорт 1
+***************
+*** 120 ****
+! #EXTINF:0 mono=0 tvg-name=«SEA TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/seatv.jpg» ,SEA TV
+--- 120 ----
+! #EXTINF:0 mono=0 tvg-name=«Sea_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/seatv.jpg» ,SEA TV
+***************
+*** 122 ****
+! #EXTINF:0 mono=0 tvg-name=«O-TV Music» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/otv.jpg» group-title=«Музыка» ,O-TV Music
+--- 122 ----
+! #EXTINF:0 mono=0 tvg-name=«OTV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/otv.jpg» group-title=«Музыка» ,O-TV Music
+***************
+*** 126 ****
+! #EXTINF:0 mono=0 tvg-name=«М1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/m1.jpg» ,М1
+--- 126 ----
+! #EXTINF:0 mono=0 tvg-name=«M1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/m1.jpg» ,М1
+***************
+*** 128 ****
+! #EXTINF:0 mono=0 tvg-name=«М2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/m2.jpg» ,М2
+--- 128 ----
+! #EXTINF:0 mono=0 tvg-name=«M2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/m2.jpg» ,М2
+***************
+*** 130 ****
+! #EXTINF:0 mono=0 tvg-name=«EU music» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/eumusic.jpg» ,EU music
+--- 130 ----
+! #EXTINF:0 mono=0 tvg-name=«EU_Music» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/eumusic.jpg» ,EU music
+***************
+*** 132 ****
+! #EXTINF:0 mono=0 tvg-name=«MusicBox UA» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/musicboxua1.jpg» ,MusicBox UA
+--- 132 ----
+! #EXTINF:0 mono=0 tvg-name=«MusicBox_UA_HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/musicboxua1.jpg» ,MusicBox UA
+***************
+*** 134 ****
+! #EXTINF:0 mono=0 tvg-name=«Піксель» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/pixelua.jpg» group-title=«Детские» ,Піксель
+--- 134 ----
+! #EXTINF:0 mono=0 tvg-name=«Piksyel» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/pixelua.jpg» group-title=«Детские» ,Піксель
+***************
+*** 138 ****
+! #EXTINF:0 mono=0 tvg-name=«Nickelodeon» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nickelodeon.jpg» ,Nickelodeon
+--- 138 ----
+! #EXTINF:0 mono=0 tvg-name=«Nickelodeon_SNG» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nickelodeon.jpg» ,Nickelodeon
+***************
+*** 140 ****
+! #EXTINF:0 mono=0 tvg-name=«Малятко TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/malyatko.jpg» ,Малятко ТВ
+--- 140 ----
+! #EXTINF:0 mono=0 tvg-name=«Malyatko_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/malyatko.jpg» ,Малятко ТВ
+***************
+*** 142 ****
+! #EXTINF:0 mono=0 tvg-name=«Детский мир _ Телеклуб» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/teleclub.jpg» ,Детский мир
+--- 142 ----
+! #EXTINF:0 mono=0 tvg-name=«Dyetskiy_mir» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/teleclub.jpg» ,Детский мир
+***************
+*** 144 ****
+! #EXTINF:0 mono=0 tvg-name=«Niki Junior» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/niki_junior.jpg» ,Niki Junior
+--- 144 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/niki_junior.jpg» ,Niki Junior
+***************
+*** 146 ****
+! #EXTINF:0 mono=0 tvg-name=«Enter-фильм» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/enterfilm.jpg» group-title=«Фильмы» ,Enter-фильм
+--- 146 ----
+! #EXTINF:0 mono=0 tvg-name=«Enter-film» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/enterfilm.jpg» group-title=«Фильмы» ,Enter-фильм
+***************
+*** 148 ****
+! #EXTINF:0 mono=0 tvg-name=«Наше Кино» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nlkino.jpg» ,Наше Кино
+--- 148 ----
+! #EXTINF:0 mono=0 tvg-name=«Nashye_kino» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nlkino.jpg» ,Наше Кино
+***************
+*** 150 ****
+! #EXTINF:0 mono=0 tvg-name=«Sony Sci-Fi» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sonyscifi.jpg» ,Sony Sci-Fi
+--- 150 ----
+! #EXTINF:0 mono=0 tvg-name=«Sony_Sci-Fi_Rossiya» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sonyscifi.jpg» ,Sony Sci-Fi
+***************
+*** 152 ****
+! #EXTINF:0 mono=0 tvg-name=«StarFamily» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/star-family.jpg» ,StarFamily
+--- 152 ----
+! #EXTINF:0 mono=0 tvg-name=«Star_Family» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/star-family.jpg» ,StarFamily
+***************
+*** 154 ****
+! #EXTINF:0 mono=0 tvg-name=«TV1000 Action» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/actiontv1000.jpg» ,TV1000 Action
+--- 154 ----
+! #EXTINF:0 mono=0 tvg-name=«TV1000_Action_East» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/actiontv1000.jpg» ,TV1000 Action
+***************
+*** 156 ****
+! #EXTINF:0 mono=0 tvg-name=«TV1000 East» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tv1000.jpg» ,TV1000 East
+--- 156 ----
+! #EXTINF:0 mono=0 tvg-name=«TV1000_East» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tv1000.jpg» ,TV1000 East
+***************
+*** 160 ****
+! #EXTINF:0 mono=0 tvg-name=«Fashion TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/fashiontv.jpg» group-title=«Мода» ,Fashion TV
+--- 160 ----
+! #EXTINF:0 mono=0 tvg-name=«Fashion_TV_Europe» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/fashiontv.jpg» group-title=«Мода» ,Fashion TV

@@ -1,0 +1,12 @@
+*** /dev/fd/63	2019-09-19 01:00:05.199409666 +0300
+--- /dev/fd/62	2019-09-19 01:00:05.195404501 +0300
+***************
+*** 62 ****
+! #EXTINF:0 mono=0 tvg-name=«UA_Kultura» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/kultura.jpg» ,Культура
+--- 62 ----
+! #EXTINF:0 mono=0 tvg-name=«UA_Kultura» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/kultura.jpg» ,UA: Культура
+***************
+*** 106,107 ****
+- #EXTINF:0 mono=0 tvg-name=«QuizTV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/quiztv.jpg» ,QuizTV
+- udp://@239.2.1.81:1234
+--- 105 ----

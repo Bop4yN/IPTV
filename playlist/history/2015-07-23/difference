@@ -1,0 +1,41 @@
+*** /dev/fd/63	Thu Jul 23 01:00:03 2015
+--- /dev/fd/62	Thu Jul 23 01:00:03 2015
+***************
+*** 6,7 ****
+- #EXTINF:0 mono=0 ,НТА
+- udp://@239.0.0.25:1234
+--- 5 ----
+***************
+*** 122,127 ****
+! #EXTINF:0 mono=0 tvg-name=«Discovery» group-title=«Discovery Networks» ,Discovery
+! udp://@239.0.0.131:1234
+! #EXTINF:0 mono=0 tvg-name=«Discovery Science» ,Discovery Science
+! udp://@239.0.0.130:1234
+! #EXTINF:0 mono=0 tvg-name=«Discovery World» ,Discovery World
+! udp://@239.0.0.129:1234
+--- 120,121 ----
+! #EXTINF:0 mono=0 tvg-name=«Travel Channel» group-title=«Discovery Networks» ,Travel Channel
+! udp://@239.0.0.176:1234
+***************
+*** 130,135 ****
+- #EXTINF:0 mono=0 tvg-name=«TLC» ,TLC
+- udp://@239.0.0.132:1234
+- #EXTINF:0 mono=0 tvg-name=«Animal Planet» ,Animal Planet
+- udp://@239.0.0.133:1234
+- #EXTINF:0 mono=0 tvg-name=«Travel Channel» ,Travel Channel
+- udp://@239.0.0.176:1234
+--- 123 ----
+***************
+*** 218 ****
+--- 207,210 ----
++ #EXTINF:0 mono=0 tvg-name=«DocuBox HD» ,DocuBox HD
++ udp://@239.2.8.12:1234
++ #EXTINF:0 mono=0 tvg-name=«Viasat Nature/History HD» ,Viasat Nature/History HD
++ udp://@239.2.8.13:1234
+***************
+*** 364 ****
+--- 357,360 ----
++ #EXTINF:0 mono=0 tvg-name=«КИНО HD» ,КИНО HD
++ udp://@239.2.8.14:1234
++ #EXTINF:0 mono=0 tvg-name=«КИНО 2 HD» ,КИНО 2 HD
++ udp://@239.2.8.15:1234

@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-03-14 01:00:04.653526127 +0200
+--- /dev/fd/62	2019-03-14 01:00:04.645525522 +0200
+***************
+*** 132 ****
+! #EXTINF:0 mono=0 tvg-name=«4ever» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/music4ever.jpg» ,4ever HD
+--- 132 ----
+! #EXTINF:0 mono=0 tvg-name=«4ever_music» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/music4ever.jpg» ,4ever HD

@@ -1,0 +1,12 @@
+*** /dev/fd/63	2018-09-20 01:00:07.824665636 +0300
+--- /dev/fd/62	2018-09-20 01:00:07.836669217 +0300
+***************
+*** 58 ****
+! #EXTINF:0 mono=0 tvg-name=«Q-TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/qtv.jpg» ,Q-TV
+--- 58 ----
+! #EXTINF:0 mono=0 tvg-name=«ОЦЕ ТВ» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/qtv.jpg» ,ОЦЕ ТВ
+***************
+*** 104 ****
+! #EXTINF:0 mono=0 tvg-name=«RTVD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/OstWest.jpg» ,RTVD
+--- 104 ----
+! #EXTINF:0 mono=0 tvg-name=«OstWest» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/OstWest.jpg» ,OstWest

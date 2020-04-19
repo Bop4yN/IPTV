@@ -1,0 +1,26 @@
+*** /shares/Public/IPTV/playlist/playlist_old.m3u	2015-03-19 01:00:03.661799064 +0200
+--- /shares/Public/IPTV/playlist/playlist.m3u	2015-03-20 14:52:32.345789562 +0200
+***************
+*** 69,82 ****
+  #EXTINF:0 mono=0 tvg-name="ATR" ,ATR
+  udp://@239.0.0.39:1234
+  
+! 
+! #EXTINF:0 mono=0 tvg-name="ОРТ международный" group-title="Российские",ОРТ международный
+! udp://@239.0.0.128:1234
+! #EXTINF:0 mono=0 tvg-name="РТР-Планета" ,РТР Планета
+! udp://@239.0.0.142:1234
+! #EXTINF:0 mono=0 tvg-name="НТВ-Мир" ,НТВ Мир
+! udp://@239.0.0.152:1234
+! #EXTINF:0 mono=0 tvg-name="Телекафе" ,Телекафе
+  udp://@239.0.0.166:1234
+  #EXTINF:0 mono=0 tvg-name="RTVi" ,RTVi
+  udp://@239.0.0.173:1234
+--- 69,75 ----
+  #EXTINF:0 mono=0 tvg-name="ATR" ,ATR
+  udp://@239.0.0.39:1234
+  
+! #EXTINF:0 mono=0 tvg-name="Телекафе" group-title="Российские",Телекафе
+  udp://@239.0.0.166:1234
+  #EXTINF:0 mono=0 tvg-name="RTVi" ,RTVi
+  udp://@239.0.0.173:1234

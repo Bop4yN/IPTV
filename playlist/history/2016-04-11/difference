@@ -1,0 +1,7 @@
+*** /dev/fd/63	Mon Apr 11 01:00:04 2016
+--- /dev/fd/62	Mon Apr 11 01:00:04 2016
+***************
+*** 197 ****
+--- 198,199 ----
++ #EXTINF:0 mono=0 tvg-name=«TLC Ukraine» ,TLC Ukraine
++ udp://@239.0.0.155:1234

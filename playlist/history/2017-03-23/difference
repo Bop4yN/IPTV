@@ -1,0 +1,7 @@
+*** /dev/fd/63	2017-03-23 01:00:03.671859796 +0200
+--- /dev/fd/62	2017-03-23 01:00:03.671859796 +0200
+***************
+*** 130 ****
+! #EXTINF:0 mono=0 tvg-name=«Детский мир _ Телеклуб» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/teleclub.jpg» ,Детский мир / Телеклуб
+--- 130 ----
+! #EXTINF:0 mono=0 tvg-name=«Детский мир _ Телеклуб» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/teleclub.jpg» ,Детский мир

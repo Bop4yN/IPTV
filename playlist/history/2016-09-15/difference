@@ -1,0 +1,14 @@
+*** /dev/fd/63	2016-09-15 01:00:05.025641816 +0300
+--- /dev/fd/62	2016-09-15 01:00:05.029643063 +0300
+***************
+*** 29 ****
+--- 30,31 ----
++ #EXTINF:0 mono=0 tvg-name=«EPOQUE»  ,EPOQUE
++ udp://@239.2.1.69:1234
+***************
+*** 80 ****
+! #EXTINF:0 mono=0 tvg-name=«Первый автомобильный» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1auto.jpg» group-title=«Познавательные» ,Первый автомобильный
+--- 82,84 ----
+! #EXTINF:0 mono=0 tvg-name=«Черноморская ТРК» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sockraina.jpg» group-title=«Познавательные» ,Черноморская ТРК
+! udp://@239.2.1.62:1234
+! #EXTINF:0 mono=0 tvg-name=«Первый автомобильный» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1auto.jpg» ,Первый автомобильный

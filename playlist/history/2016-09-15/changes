@@ -1,0 +1,6 @@
+Обновлён playlist.m3u
+  Добавлены каналы: EPOQUE, Черноморская ТРК
+  Добавлено:
+#EXTINF:0 mono=0 tvg-name=«Первый автомобильный» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1auto.jpg» ,Первый автомобильный
+  Удалено:
+#EXTINF:0 mono=0 tvg-name=«Первый автомобильный» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1auto.jpg» group-title=«Познавательные» ,Первый автомобильный

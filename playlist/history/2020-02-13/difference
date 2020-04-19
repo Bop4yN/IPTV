@@ -1,0 +1,7 @@
+*** /dev/fd/63	2020-02-13 01:00:05.518727986 +0200
+--- /dev/fd/62	2020-02-13 01:00:05.522728524 +0200
+***************
+*** 30 ****
+! #EXTINF:0 mono=0 tvg-name=«Ukraina» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ukraine.jpg» ,ТРК Украина
+--- 30 ----
+! #EXTINF:0 mono=0 tvg-name=«Ukraina» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ukraine.jpg» ,ТРК Украина HD

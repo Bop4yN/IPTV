@@ -1,0 +1,12 @@
+*** /dev/fd/63	2016-06-09 01:00:09.329977809 +0300
+--- /dev/fd/62	2016-06-09 01:00:09.333984314 +0300
+***************
+*** 58,59 ****
+- #EXTINF:0 mono=0 tvg-name=«RTVi» tvg-logo=«http://maxnet.ua/wp-content/uploads/logo/rtvi.jpg» group-title=«Российские» ,RTVi
+- udp://@239.2.1.53:1234
+--- 57 ----
+***************
+*** 91 ****
+--- 90,91 ----
++ #EXTINF:0 mono=0 tvg-name=«RTVi» tvg-logo=«http://maxnet.ua/wp-content/uploads/logo/rtvi.jpg» ,RTVi
++ udp://@239.2.1.53:1234

@@ -1,0 +1,17 @@
+*** /dev/fd/63	2020-03-22 19:24:41.306725925 +0200
+--- /dev/fd/62	2020-03-22 19:24:41.314723499 +0200
+***************
+*** 36 ****
+! #EXTINF:0 mono=0 tvg-name=«2plus2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/22logo.jpg» ,2+2
+--- 36 ----
+! #EXTINF:0 mono=0 tvg-name=«2plus2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/22logo.jpg» ,2+2 HD
+***************
+*** 46 ****
+! #EXTINF:0 mono=0 tvg-name=«TYET» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tet_logo.jpg» ,ТЕТ
+--- 46 ----
+! #EXTINF:0 mono=0 tvg-name=«TYET» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tet_logo.jpg» ,ТЕТ HD
+***************
+*** 166 ****
+! #EXTINF:0 mono=0 tvg-name=«»  ,Paramount Chennel
+--- 166 ----
+! #EXTINF:0 mono=0 tvg-name=«»  ,Paramount Chennel HD

@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-02-28 01:00:04.413523749 +0200
+--- /dev/fd/62	2019-02-28 01:00:04.417520231 +0200
+***************
+*** 101 ****
+--- 102,103 ----
++ #EXTINF:0 mono=0 tvg-name=«QuizTV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/quiztv.jpg» ,QuizTV
++ udp://@239.2.1.81:1234

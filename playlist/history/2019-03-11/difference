@@ -1,0 +1,12 @@
+*** /dev/fd/63	2019-03-11 01:00:03.825522054 +0200
+--- /dev/fd/62	2019-03-11 01:00:03.821521480 +0200
+***************
+*** 131 ****
+--- 132,133 ----
++ #EXTINF:0 mono=0 tvg-name=«4ever» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/music4ever.jpg» ,4ever HD
++ udp://@239.2.1.83:1234
+***************
+*** 138 ****
+! #EXTINF:0 mono=0 tvg-name=«TiJi» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/karuseltv.jpg» ,TiJi
+--- 140 ----
+! #EXTINF:0 mono=0 tvg-name=«TiJi_Rossiya» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/karuseltv.jpg» ,TiJi

@@ -1,0 +1,627 @@
+*** /dev/fd/63	Thu May  5 01:00:04 2016
+--- /dev/fd/62	Thu May  5 01:00:04 2016
+***************
+*** 1,341 ****
+! ﻿#EXTM3U url-tvg=«http://tv.maxnet.ua/temp/programm_jtv.zip»
+! #EXTINF:0 mono=1 group-title=«Харьковские»,Simon
+! udp://@239.0.0.59:1234
+! #EXTINF:0 mono=1 ,S-TET
+! udp://@239.0.0.60:1234
+! #EXTINF:0 mono=1 ,АТВК
+! udp://@239.0.0.56:1234
+! #EXTINF:0 mono=0 ,ODTRK Kharkov
+! udp://@239.0.0.20:1234
+! #EXTINF:0 mono=1 ,7-й канал
+! udp://@239.0.0.61:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«1+1» group-title=«Украинские» ,1+1
+! udp://@239.0.0.1:1234 
+! #EXTINF:0 mono=0 tvg-name=«2+2» ,2+2
+! udp://@239.0.0.27:1234
+! #EXTINF:0 mono=0 tvg-name=«Интер» ,Интер
+! udp://@239.0.0.55:1234
+! #EXTINF:0 mono=0 tvg-name=«Первый национальный» ,Первый национальный
+! udp://@239.0.0.57:1234
+! #EXTINF:0 mono=0 tvg-name=«ICTV» ,ICTV
+! udp://@239.0.0.11:1234
+! #EXTINF:0 mono=0 tvg-name=«5 канал» ,5 канал
+! udp://@239.0.0.44:1234
+! #EXTINF:0 mono=0 tvg-name=«Новый канал» ,Новый
+! udp://@239.0.0.15:1234
+! #EXTINF:0 mono=0 tvg-name=«СТБ» ,СТБ
+! udp://@239.0.0.9:1234
+! #EXTINF:0 mono=0 tvg-name=«ТРК Украина» ,ТРК Украина
+! udp://@239.0.0.16:1234
+! #EXTINF:0 mono=0 tvg-name=«++» ,Плюс Плюс
+! udp://@239.0.0.19:1234
+! #EXTINF:0 mono=0 tvg-name=«Тонис» ,Тонис
+! udp://@239.0.0.40:1234
+! #EXTINF:0 mono=0 tvg-name=«Q-TV» ,Q-TV
+! udp://@239.0.0.153:1234
+! #EXTINF:0 mono=0 tvg-name=«НТН» ,НТН
+! udp://@239.0.0.31:1234
+! #EXTINF:0 mono=0 tvg-name=«ТЕТ» ,ТЕТ
+! udp://@239.0.0.42:1234
+! #EXTINF:0 mono=0 tvg-name=«К1» ,К1
+! udp://@239.0.0.3:1234
+! #EXTINF:0 mono=0 tvg-name=«К2» ,К2
+! udp://@239.0.0.4:1234
+! #EXTINF:0 mono=0 tvg-name=«Мега» ,Мега
+! udp://@239.0.0.29:1234
+! #EXTINF:0 mono=0 tvg-name=«Глас» ,ГЛАС
+! udp://@239.0.0.45:1234
+! #EXTINF:0  mono=0 tvg-name=«КРТ» ,КРТ
+! udp://@239.0.0.43:1234
+! #EXTINF:0 mono=0 tvg-name=«Гамма» ,Гамма
+! udp://@239.0.0.28:1234
+! #EXTINF:0 mono=0 tvg-name=«Солнце» ,Солнце
+! udp://@239.0.0.58:1234
+! #EXTINF:0 mono=0 tvg-name=«УНІАН» ,УНІАН
+! udp://@239.0.0.145:1234
+! #EXTINF:0 mono=0 tvg-name=«Shopping TV» ,Shopping TV
+! udp://@239.0.0.23:1234
+! #EXTINF:0 mono=0 tvg-name=«CNL Ukraine» ,CNL Ukraine
+! udp://@239.0.0.35:1234
+! #EXTINF:0 mono=0 tvg-name=«Тонис» ,Тонис HD
+! udp://@239.2.6.129:1234
+! #EXTINF:0 mono=0 tvg-name=«Живи ТВ» ,Живи ТВ
+! udp://@239.0.0.170:1234
+! #EXTINF:0 mono=0 tvg-name=«НЛО ТВ» ,НЛО ТВ
+! udp://@239.0.0.12:1234
+! #EXTINF:0 mono=0 tvg-name=«ATR» ,ATR
+! udp://@239.0.0.39:1234
+! #EXTINF:0 mono=0 tvg-name=«Гумор ТБ» ,Гумор ТБ
+! udp://@239.0.0.10:1234
+! #EXTINF:0 mono=0 tvg-name=«UKRAINE TODAY» ,UKRAINE TODAY
+! udp://@239.0.0.24:1234
+! #EXTINF:0 mono=0 tvg-name=«EcoTV» ,EcoTV
+! udp://@239.0.0.17:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«Дача» group-title=«Российские»,Дача
+! udp://@239.0.0.166:1234
+! #EXTINF:0 mono=0 tvg-name=«RTVi» ,RTVi
+! udp://@239.0.0.173:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«Euronews» group-title=«Политика и новости», Euronews
+! udp://@239.0.0.34:1234
+! #EXTINF:0 mono=0 tvg-name=«Первый деловой» ,Первый деловой
+! udp://@239.0.0.54:1234
+! #EXTINF:0 mono=0 tvg-name=«Business» ,Business
+! udp://@239.0.0.32:1234
+! #EXTINF:0 mono=0 tvg-name=«NewsOne» ,News One
+! udp://@239.0.0.157:1234
+! #EXTINF:0 mono=0 tvg-name=«Новости 24» ,Новости 24
+! udp://@239.0.0.41:1234
+! #EXTINF:0 mono=0 tvg-name=«Рада» ,Рада
+! udp://@239.0.0.46:1234
+! #EXTINF:0 mono=0 tvg-name=«UBR» ,UBR
+! udp://@239.0.0.26:1234
+! #EXTINF:0 mono=0 tvg-name=«BBC World» ,BBC World
+! udp://@239.0.0.165:1234
+! #EXTINF:0 mono=0 tvg-name=«France 24» ,France 24
+! udp://@239.0.0.33:1234
+! #EXTINF:0 mono=0 tvg-name=«Бигуди» ,Бигуди
+! udp://@239.0.0.22:1234
+! #EXTINF:0 mono=0 tvg-name=«Беларусь ТВ» ,Беларусь ТВ
+! udp://@239.0.0.36:1234
+! #EXTINF:0 mono=0 tvg-name=«112 Украина» ,112 Украина
+! udp://@239.0.0.18:1234
+! #EXTINF:0 mono=0 tvg-name=«Еспресо TV» ,Еспресо TV
+! udp://@239.0.0.38:1234
+! #EXTINF:0 mono=0 tvg-name=«Дождь» ,Дождь
+! udp://@239.0.0.161:1234
+! #EXTINF:0 mono=0 tvg-name=«Ваш Успех» ,Ваш Успех
+! udp://@239.0.0.100:1234
+! #EXTINF:0 mono=0 tvg-name=«3S.tv» ,3S.tv
+! udp://@239.0.0.160:1234
+! #EXTINF:0 mono=0 tvg-name=«112 Украина HD» ,112 Украина HD
+! udp://@239.2.6.128:1234
+! #EXTINF:0 mono=0 tvg-name=«Еспресо HD» ,Еспресо HD
+! udp://@239.2.6.2:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«Zooпарк» group-title=«Познавательные» ,Zooпарк
+! udp://@239.0.0.150:1234
+! #EXTINF:0 mono=0 tvg-name=«English Club» ,English Club
+! udp://@239.0.0.149:1234
+! #EXTINF:0 mono=0 tvg-name=«Охота и рыбалка» ,Охота и рыбалка
+! udp://@239.0.0.210:1234
+! #EXTINF:0 mono=0 tvg-name=«Здоровое ТВ» ,Здоровое ТВ
+! udp://@239.0.0.139:1234
+! #EXTINF:0 mono=0 tvg-name=«Усадьба» ,Усадьба ТВ
+! udp://@239.0.0.144:1234
+! #EXTINF:0 mono=0 tvg-name=«Драйв» ,Драйв
+! udp://@239.0.0.213:1234
+! #EXTINF:0 mono=0 tvg-name=«ЧП.INFO» ,ЧП.INFO
+! udp://@239.0.0.175:1234
+! #EXTINF:0 mono=0 tvg-name=«Ретро» ,Ретро
+! udp://@239.0.0.143:1234
+! #EXTINF:0 mono=0 tvg-name=«Viasat History» ,Viasat History
+! udp://@239.0.0.168:1234
+! #EXTINF:0 mono=0 tvg-name=«TV1000 Nature East» ,TV1000 Nature East
+! udp://@239.0.0.171:1234
+! #EXTINF:0 mono=0 tvg-name=«Viasat Explore» ,Viasat Explore
+! udp://@239.0.0.169:1234
+! #EXTINF:0 mono=0 tvg-name=«Maxxi-TV» ,Maxxi-TV
+! udp://@239.0.0.148:1234
+! #EXTINF:0 mono=0 tvg-name=«ДоброТВ» ,ДоброТВ
+! udp://@239.0.0.177:1234
+! #EXTINF:0 mono=0 tvg-name=«DaVinciLearning» ,Da Vinci Learning
+! udp://@239.0.0.180:1234
+! #EXTINF:0 mono=0 tvg-name=«Соціальна країна» ,Соціальна країна
+! udp://@239.0.0.21:1234
+! #EXTINF:0 mono=0 tvg-name=«Chasse et Peche» ,Chasse et Peche
+! udp://@239.0.0.220:1234
+! #EXTINF:0 mono=0 tvg-name=«Планета» ,Планета
+! udp://@239.0.0.142:1234
+! #EXTINF:0 mono=0 tvg-name=«Индиго ТВ» ,Индиго ТВ
+! udp://@239.0.0.152:1234
+! #EXTINF:0 mono=0 tvg-name=«STV (БульварТВ)» ,STV (БульварТВ)
+! udp://@239.0.0.178:1234
+! #EXTINF:0 mono=0 tvg-name=«Ностальгия» ,Ностальгия
+! udp://@239.0.0.240:1234
+! #EXTINF:0 mono=0 tvg-name=«Есо TV» ,Есо TV
+! udp://@239.0.0.17:1234
+! #EXTINF:0 mono=0 tvg-name=«Загородная жизнь» ,Загородная жизнь
+! udp://@239.0.0.99:1234
+! #EXTINF:0 mono=0 tvg-name=«Домашние животные» ,Домашние животные
+! udp://@239.0.0.101:1234
+! #EXTINF:0 mono=0 tvg-name=«Психология 21» ,Психология 21
+! udp://@239.0.0.102:1234
+! #EXTINF:0 mono=0 tvg-name=«Вопросы и ответы» ,Вопросы и ответы
+! udp://@239.0.0.104:1234
+! #EXTINF:0 mono=0 tvg-name=«The Food Network HD» ,The Food Network HD
+! udp://@239.2.8.9:1234
+! #EXTINF:0 mono=0 tvg-name=«DocuBox HD» ,DocuBox HD
+! udp://@239.2.3.10:1234
+! #EXTINF:0 mono=0 tvg-name=«Viasat Nature/History HD» ,Viasat Nature/History HD
+! udp://@239.2.6.3:1234
+! #EXTINF:0 mono=0 tvg-name=«Travel Channel» ,Travel Channel
+! udp://@239.0.0.176:1234
+! #EXTINF:0 mono=0 tvg-name=«Travel Channel HD» ,Travel Channel HD
+! udp://@239.2.6.132:1234
+! #EXTINF:0 mono=0 tvg-name=«Dacha» ,Dacha
+! udp://@239.0.0.25:1234
+! #EXTINF:0 mono=0 tvg-name=«1-й автомобильный» ,1-й автомобильный
+! udp://@239.0.0.208:1234
+! #EXTINF:0 mono=0 tvg-name=«Epoque HD» ,Epoque HD
+! udp://@239.2.6.6:1234
+! #EXTINF:0 mono=0 tvg-name=«Трофей» ,Трофей
+! udp://@239.0.0.141:1234
+! #EXTINF:0 mono=0 tvg-name=«Discovery UA» ,Discovery UA
+! udp://@239.0.0.128:1234
+! #EXTINF:0 mono=0 tvg-name=«Animal Planet» ,Animal Planet
+! udp://@239.0.0.134:1234
+! #EXTINF:0 mono=0 tvg-name=«TLC Ukraine» ,TLC Ukraine
+! udp://@239.0.0.155:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«Eurosport» audio-track=1 group-title=«Спорт» ,Eurosport
+! udp://@239.0.0.211:1234
+! #EXTINF:0 mono=0 tvg-name=«EuroSport 2» audio-track=1 ,EuroSport 2
+! udp://@239.0.0.212:1234
+! #EXTINF:0 mono=0 tvg-name=«Спорт 1» ,Спорт 1
+! udp://@239.0.0.217:1234
+! #EXTINF:0 mono=0 tvg-name=«Спорт 2» ,Спорт 2
+! udp://@239.0.0.209:1234
+! #EXTINF:0 mono=0 tvg-name=«Футбол 1» ,Футбол 1
+! udp://@239.0.0.214:1234
+! #EXTINF:0 mono=0 tvg-name=«Футбол 2» ,Футбол 2
+! udp://@239.0.0.215:1234
+! #EXTINF:0 mono=0 tvg-name=«Viasat Sport» ,Viasat Sport
+! udp://@239.0.0.216:1234
+! #EXTINF:0 mono=0 tvg-name=«Eurosport» ,Eurosport News
+! udp://@239.0.0.219:1234
+! #EXTINF:0 mono=0 tvg-name=«Баскетбол» ,Баскетбол
+! udp://@239.0.0.223:1234
+! #EXTINF:0 mono=0 tvg-name=«Мужской» ,Мужской
+! udp://@239.0.0.98:1234
+! #EXTINF:0 mono=0 tvg-name=«Football 1 HD» ,Football 1 HD
+! udp://@239.2.7.1:1234
+! #EXTINF:0 mono=0 tvg-name=«Football 2 HD» ,Football 2 HD
+! udp://@239.2.7.2:1234
+! #EXTINF:0 mono=0 tvg-name=«Eurosport HD» ,Eurosport HD
+! udp://@239.2.5.6:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«Eu.Music» group-title=«Музыка»,EU music
+! udp://@239.0.0.156:1234
+! #EXTINF:0 tvg-name=«М1» ,М1
+! udp://@239.0.0.7:1234
+! #EXTINF:0 mono=0 tvg-name=«М2» ,М2
+! udp://@239.0.0.8:1234
+! #EXTINF:0 mono=0 tvg-name=«Zoom» ,Zoom
+! udp://@239.0.0.6:1234
+! #EXTINF:0 mono=0 tvg-name=«O-TV» ,O-TV
+! udp://@239.0.0.5:1234
+! #EXTINF:0 mono=0 tvg-name=«Mezzo» ,Mezzo
+! udp://@239.0.0.146:1234
+! #EXTINF:0 mono=0 tvg-name=«MusicBox UA» ,Music Box UA
+! udp://@239.0.0.162:1234
+! #EXTINF:0 mono=0 tvg-name=«A-one» ,A-One UA
+! udp://@239.0.0.167:1234
+! #EXTINF:0 mono=0 tvg-name=«Музыка Первого» ,Музыка Первого
+! udp://@239.0.0.159:1234
+! #EXTINF:0 mono=0 tvg-name=«Ля Минор» ,Ля Минор
+! udp://@239.0.0.182:1234
+! #EXTINF:0 mono=0 tvg-name=«Европа Плюс» ,Европа Плюс
+! udp://@239.0.0.183:1234
+! #EXTINF:0 mono=0 tvg-name=«MCM TOP» ,MCM TOP
+! udp://@239.0.0.66:1234
+! #EXTINF:0 mono=0 tvg-name=«MEZZO HD » ,MEZZO HD 
+! udp://@239.2.6.1:1234
+! #EXTINF:0 mono=0 tvg-name=«Music BOX HD» ,Music BOX HD
+! udp://@239.2.6.133:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«Nickelodeon» group-title=«Детские»,Nickelodeon
+! udp://@239.0.0.196:1234
+! #EXTINF:0 mono=0 tvg-name=«Детский» ,Детский
+! udp://@239.0.0.194:1234
+! #EXTINF:0 mono=0 tvg-name=«Карусель» ,Карусель
+! udp://@239.0.0.195:1234
+! #EXTINF:0 mono=0 tvg-name=«Детский мир _ Телеклуб» ,Детский мир / Телеклуб
+! udp://@239.0.0.154:1234
+! #EXTINF:0 mono=0 tvg-name=«Малятко TV» ,Малятко ТВ
+! udp://@239.0.0.197:1234
+! #EXTINF:0 mono=0 tvg-name=«Піксель» ,Піксель
+! udp://@239.0.0.14:1234
+! #EXTINF:0 mono=0 tvg-name=«Gulli» ,Gulli
+! udp://@239.0.0.198:1234
+! #EXTINF:0 mono=0 tvg-name=«TiJi» ,TiJi
+! udp://@239.0.0.199:1234
+! #EXTINF:0 mono=0 tvg-name=«Мультимания» ,Мультимания
+! udp://@239.0.0.200:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«Enter-фильм» group-title=«Фильмы», Enter-Film
+! udp://@239.0.0.224:1234
+! #EXTINF:0 mono=0 tvg-name=«Sony» ,Sony Sci-Fi
+! udp://@239.0.0.226:1234
+! #EXTINF:0 mono=0 tvg-name=«E!» ,E!
+! udp://@239.0.0.227:1234
+! #EXTINF:0 mono=0 tvg-name=«ТВ XXI» ,TV XXI
+! udp://@239.0.0.230:1234
+! #EXTINF:0 mono=0 tvg-name=«Еврокино» ,Еврокино
+! udp://@239.0.0.231:1234
+! #EXTINF:0 mono=0 tvg-name=«FilmBox» ,FilmBox
+! udp://@239.0.0.234:1234
+! #EXTINF:0 mono=0 tvg-name=«TV1000 Action» ,ТV1000 Action
+! udp://@239.0.0.242:1234
+! #EXTINF:0 mono=0 tvg-name=«TV1000 East» ,TV1000 East
+! udp://@239.0.0.243:1234
+! #EXTINF:0 mono=0 tvg-name=«TV1000 Русское кино» ,TV 1000 Ru Kino
+! udp://@239.0.0.235:1234
+! #EXTINF:0 mono=0 tvg-name=«SET» ,SET
+! udp://@239.0.0.236:1234
+! #EXTINF:0 mono=0 tvg-name=«Universal» ,Universal
+! udp://@239.0.0.241:1234
+! #EXTINF:0 mono=0 tvg-name=«MGM» ,MGM
+! udp://@239.0.0.238:1234
+! #EXTINF:0 mono=0 tvg-name=«Zee TV» ,Zee TV
+! udp://@239.0.0.232:1234
+! #EXTINF:0 mono=0 tvg-name=«Кинохит» ,Кинохит
+! udp://@239.0.0.246:1234
+! #EXTINF:0 mono=0 tvg-name=«Многосерийное ТВ» ,Многосерийное ТВ
+! udp://@239.0.0.244:1234
+! #EXTINF:0 mono=0 tvg-name=«Интересное ТВ» ,Интересное ТВ
+! udp://@239.0.0.245:1234
+! #EXTINF:0 mono=0 tvg-name=«Киноклуб» ,Киноклуб
+! udp://@239.0.0.248:1234
+! #EXTINF:0 mono=0 tvg-name=«Премьера» ,Премьера
+! udp://@239.0.0.247:1234
+! #EXTINF:0 mono=0 tvg-name=«Кино Плюс» ,Кино Плюс
+! udp://@239.0.0.249:1234
+! #EXTINF:0 mono=0 tvg-name=«Наше любимое кино» ,Наше любимое кино
+! udp://@239.0.0.65:1234
+! #EXTINF:0 mono=0 tvg-name=«Наше новое кино» ,Наше новое кино
+! udp://@239.0.0.67:1234
+! #EXTINF:0 mono=0 tvg-name=«Bollywood HD» ,Bollywood HD
+! udp://@239.2.4.12:1234
+! #EXTINF:0 mono=0 tvg-name=«MGM HD» ,MGM HD
+! udp://@239.2.6.4:1234
+! #EXTINF:0 mono=0 tvg-name=«TV1000 Comedy HD» ,TV1000 Comedy HD
+! udp://@239.2.6.131:1234
+! #EXTINF:0 mono=0 tvg-name=«КИНО HD» ,КИНО HD
+! udp://@239.2.9.16:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«Fashion TV» group-title=«Мода»,Fashion-TV
+! udp://@239.0.0.137:1234
+! #EXTINF:0 mono=0 tvg-name=«World Fashion» ,World Fashion
+! udp://@239.0.0.97:1234
+! #EXTINF:0 mono=0 tvg-name=«Fashion One HD» ,Fashion One HD
+! udp://@239.2.6.130:1234
+! #EXTINF:0 mono=0 tvg-name=«Fashion One» ,Fashion One
+! udp://@239.0.0.105:1234
+! #EXTINF:0 mono=0 tvg-name=«Milady Television» ,Milady Television
+! udp://@239.0.0.30:1234
+! #EXTINF:0 mono=0 tvg-name=«HD Fashion» ,HD Fashion
+! udp://@239.2.10.1:1234
+! 
+! #EXTINF:0 mono=0 tvg-name=«Deutsche Welle Deutsch» group-title=«Иностранные»,Deutsche Welle Deutsch
+! udp://@239.0.0.129:1234
+! #EXTINF:0 mono=0 tvg-name=«TVE Internacional Europa» ,TVE Internacional Europa
+! udp://@239.0.0.130:1234
+! #EXTINF:0 mono=0 tvg-name=«Canal 24 Horas» ,Canal 24 Horas
+! udp://@239.0.0.131:1234
+! #EXTINF:0 mono=0 tvg-name=«CNN International Europe» ,CNN International Europe
+! udp://@239.0.0.132:1234
+! #EXTINF:0 mono=0 tvg-name=«Deutsche Welle» ,Deutsche Welle
+! udp://@239.0.0.133:1234
+--- 1,281 ----
+! ﻿#EXTM3U url-tvg=«http://tv.maxnet.ua/temp/programm_jtv.zip�
+! #EXTINF:0 mono=0 tvg-name=«ODTRK Kharkov» group-title=«Харьковские» ,ODTRK Kharko
+! udp://@239.0.0.20:123
+! #EXTINF:0 mono=0 tvg-name=«Simon» ,Simo
+! udp://@239.0.0.59:123
+! #EXTINF:0 mono=0 tvg-name=«S-TET» ,S-TE
+! udp://@239.0.0.60:123
+! #EXTINF:0 mono=0 tvg-name=«7-й канал» ,7-й кана�
+! udp://@239.0.0.61:123
+! #EXTINF:0 mono=0 tvg-name=«АТВК» ,АТВ�
+! udp://@239.0.0.56:123
+! #EXTINF:0 mono=0 tvg-name=«1+1» group-title=«Украинские» ,1+
+! udp://@239.0.0.1:123
+! #EXTINF:0 mono=0 tvg-name=«К1» ,К
+! udp://@239.0.0.3:123
+! #EXTINF:0 mono=0 tvg-name=«К2» ,К
+! udp://@239.0.0.4:123
+! #EXTINF:0 mono=0 tvg-name=«СТБ» ,СТ�
+! udp://@239.0.0.9:123
+! #EXTINF:0 mono=0 tvg-name=«ICTV» ,ICT
+! udp://@239.0.0.11:123
+! #EXTINF:0 mono=0 tvg-name=«НЛО ТВ» ,НЛО Т�
+! udp://@239.0.0.12:123
+! #EXTINF:0 mono=0 tvg-name=«Новый канал» ,Новый кана�
+! udp://@239.0.0.15:123
+! #EXTINF:0 mono=0 tvg-name=«ТРК Украина» ,ТРК Украин�
+! udp://@239.0.0.16:123
+! #EXTINF:0 mono=0 tvg-name=«++» ,Плюс Плю�
+! udp://@239.0.0.19:123
+! #EXTINF:0 mono=0 tvg-name=«Shoping TV» ,Shoping T
+! udp://@239.0.0.23:123
+! #EXTINF:0 mono=0 tvg-name=«UKRAINE TODAY» ,UKRAINE TODA
+! udp://@239.0.0.24:123
+! #EXTINF:0 mono=0 tvg-name=«Dacha» ,Dach
+! udp://@239.0.0.25:123
+! #EXTINF:0 mono=0 tvg-name=«2+2» ,2+
+! udp://@239.0.0.27:123
+! #EXTINF:0 mono=0 tvg-name=«Гамма» ,Гамм�
+! udp://@239.0.0.28:123
+! #EXTINF:0 mono=0 tvg-name=«Мега» ,Мег�
+! udp://@239.0.0.29:123
+! #EXTINF:0 mono=0 tvg-name=«НТН» ,НТ�
+! udp://@239.0.0.31:123
+! #EXTINF:0 mono=0 tvg-name=«CNL Ukraine» ,CNL Ukrain
+! udp://@239.0.0.35:123
+! #EXTINF:0 mono=0 tvg-name=«ATR» ,AT
+! udp://@239.0.0.39:123
+! #EXTINF:0 mono=0 tvg-name=«Тонис» ,Тони�
+! udp://@239.0.0.40:123
+! #EXTINF:0 mono=0 tvg-name=«ТЕТ» ,ТЕ�
+! udp://@239.0.0.42:123
+! #EXTINF:0 mono=0 tvg-name=«КРТ» ,КР�
+! udp://@239.0.0.43:123
+! #EXTINF:0 mono=0 tvg-name=«5 канал» ,5 кана�
+! udp://@239.0.0.44:123
+! #EXTINF:0 mono=0 tvg-name=«Глас» ,Гла�
+! udp://@239.0.0.45:123
+! #EXTINF:0 mono=0 tvg-name=«Интер» ,Инте�
+! udp://@239.0.0.55:123
+! #EXTINF:0 mono=0 tvg-name=«Первый национальный» ,Первый национальны�
+! udp://@239.0.0.57:123
+! #EXTINF:0 mono=0 tvg-name=«Солнце» ,Солнц�
+! udp://@239.0.0.58:123
+! #EXTINF:0 mono=0 tvg-name=«Milady Television» ,Milady Televisio
+! udp://@239.0.0.30:123
+! #EXTINF:0 mono=0 tvg-name=«УНІАН» ,УНІА�
+! udp://@239.0.0.145:123
+! #EXTINF:0 mono=0 tvg-name=«Q-TV» ,Q-T
+! udp://@239.0.0.153:123
+! #EXTINF:0 mono=0 tvg-name=«3S.tv» ,3S.t
+! udp://@239.0.0.160:123
+! #EXTINF:0 mono=0 tvg-name=«Живи» ,Жив�
+! udp://@239.0.0.170:123
+! #EXTINF:0 mono=0 tvg-name=«EcoTV» ,EcoT
+! udp://@239.0.0.17:123
+! #EXTINF:0 mono=0 tvg-name=«RTVi» group-title=«Российские» ,RTV
+! udp://@239.0.0.173:123
+! #EXTINF:0 mono=0 tvg-name=«Gumor TV» group-title=«Политика и новости» ,Gumor T
+! udp://@239.0.0.10:123
+! #EXTINF:0 mono=0 tvg-name=«112 Украина» ,112 Украин�
+! udp://@239.0.0.18:123
+! #EXTINF:0 mono=0 tvg-name=«Бигуди» ,Бигуд�
+! udp://@239.0.0.22:123
+! #EXTINF:0 mono=0 tvg-name=«UBR» ,UB
+! udp://@239.0.0.26:123
+! #EXTINF:0 mono=0 tvg-name=«Business» ,Busines
+! udp://@239.0.0.32:123
+! #EXTINF:0 mono=0 tvg-name=«France 24» ,France 2
+! udp://@239.0.0.33:123
+! #EXTINF:0 mono=0 tvg-name=«Euronews» ,Euronew
+! udp://@239.0.0.34:123
+! #EXTINF:0 mono=0 tvg-name=«Беларусь ТВ» ,Беларусь Т�
+! udp://@239.0.0.36:123
+! #EXTINF:0 mono=0 tvg-name=«Еспресо TV» ,Еспресо T
+! udp://@239.0.0.38:123
+! #EXTINF:0 mono=0 tvg-name=«Новости 24» ,Новости 2
+! udp://@239.0.0.41:123
+! #EXTINF:0 mono=0 tvg-name=«Рада» ,Рад�
+! udp://@239.0.0.46:123
+! #EXTINF:0 mono=0 tvg-name=«Первый деловой» ,Первый делово�
+! udp://@239.0.0.54:123
+! #EXTINF:0 mono=0 tvg-name=«News One» ,News On
+! udp://@239.0.0.157:123
+! #EXTINF:0 mono=0 tvg-name=«Дождь» ,Дожд�
+! udp://@239.0.0.161:123
+! #EXTINF:0 mono=0 tvg-name=«BBC World News» ,BBC World New
+! udp://@239.0.0.165:123
+! #EXTINF:0 mono=0 tvg-name=«Ваш Успех» ,Ваш Успе�
+! udp://@239.0.0.100:123
+! #EXTINF:0 mono=0 tvg-name=«Соціальна країна» group-title=«Познавательные» ,Соціальна країн�
+! udp://@239.0.0.21:123
+! #EXTINF:0 mono=0 tvg-name=«Первый автомобильный» ,Первый автомобильны�
+! udp://@239.0.0.208:123
+! #EXTINF:0 mono=0 tvg-name=«Охота и Рыбалка» ,Охота и Рыбалк�
+! udp://@239.0.0.210:123
+! #EXTINF:0 mono=0 tvg-name=«Драйв» ,Драй�
+! udp://@239.0.0.213:123
+! #EXTINF:0 mono=0 tvg-name=«Chasse et Peche» ,Chasse et Pech
+! udp://@239.0.0.220:123
+! #EXTINF:0 mono=0 tvg-name=«Ностальгия» ,Ностальги�
+! udp://@239.0.0.240:123
+! #EXTINF:0 mono=0 tvg-name=«Discovery UA» ,Discovery U
+! udp://@239.0.0.128:123
+! #EXTINF:0 mono=0 tvg-name=«Animal Planet» ,Animal Plane
+! udp://@239.0.0.134:123
+! #EXTINF:0 mono=0 tvg-name=«Здоровое ТВ» ,Здоровое Т�
+! udp://@239.0.0.139:123
+! #EXTINF:0 mono=0 tvg-name=«Усадьба» ,Усадьба Т�
+! udp://@239.0.0.144:123
+! #EXTINF:0 mono=0 tvg-name=«Maxxi-TV» ,Maxxi-T
+! udp://@239.0.0.148:123
+! #EXTINF:0 mono=0 tvg-name=«English Club» ,English Clu
+! udp://@239.0.0.149:123
+! #EXTINF:0 mono=0 tvg-name=«Zooпарк» ,Zooпар�
+! udp://@239.0.0.150:123
+! #EXTINF:0 mono=0 tvg-name=«TLC Ukraine» ,TLC Ukrain
+! udp://@239.0.0.155:123
+! #EXTINF:0 mono=0 tvg-name=«Viasat History» ,Viasat Histor
+! udp://@239.0.0.168:123
+! #EXTINF:0 mono=0 tvg-name=«Viasat Explorer» ,Viasat Explore
+! udp://@239.0.0.169:123
+! #EXTINF:0 mono=0 tvg-name=«TV1000 Nature East» ,TV1000 Nature Eas
+! udp://@239.0.0.171:123
+! #EXTINF:0 mono=0 tvg-name=«ЧП.INFO» ,ЧП.INF
+! udp://@239.0.0.175:123
+! #EXTINF:0 mono=0 tvg-name=«Travel Channel» ,Travel Channe
+! udp://@239.0.0.176:123
+! #EXTINF:0 mono=0 tvg-name=«ДоброТВ» ,ДоброТ�
+! udp://@239.0.0.177:123
+! #EXTINF:0 mono=0 tvg-name=«STV (БульварТВ)» ,STV (БульварТВ
+! udp://@239.0.0.178:123
+! #EXTINF:0 mono=0 tvg-name=«DaVinciLearning» ,Da Vinci Learnin
+! udp://@239.0.0.180:123
+! #EXTINF:0 mono=0 tvg-name=«Планета» ,Планет�
+! udp://@239.0.0.142:123
+! #EXTINF:0 mono=0 tvg-name=«Индиго ТВ» ,Индиго Т�
+! udp://@239.0.0.152:123
+! #EXTINF:0 mono=0 tvg-name=«Загородная жизнь» ,Загородная жизн�
+! udp://@239.0.0.99:123
+! #EXTINF:0 mono=0 tvg-name=«Домашние животные» ,Домашние животны�
+! udp://@239.0.0.101:123
+! #EXTINF:0 mono=0 tvg-name=«Психология 21» ,Психология 2
+! udp://@239.0.0.102:123
+! #EXTINF:0 mono=0 tvg-name=«Вопросы и ответы» ,Вопросы и ответ�
+! udp://@239.0.0.104:123
+! #EXTINF:0 mono=0 tvg-name=«Спорт 2» group-title=«Спорт» ,Спорт 
+! udp://@239.0.0.209:123
+! #EXTINF:0 mono=0 tvg-name=«Eurosport» ,Eurospor
+! udp://@239.0.0.211:123
+! #EXTINF:0 mono=0 tvg-name=«Eurosport 2» ,Eurosport 
+! udp://@239.0.0.212:123
+! #EXTINF:0 mono=0 tvg-name=«Футбол 1» ,Футбол 
+! udp://@239.0.0.214:123
+! #EXTINF:0 mono=0 tvg-name=«Футбол 2» ,Футбол 
+! udp://@239.0.0.215:123
+! #EXTINF:0 mono=0 tvg-name=«Viasat Sport» ,Viasat Spor
+! udp://@239.0.0.216:123
+! #EXTINF:0 mono=0 tvg-name=«Спорт 1» ,Спорт 
+! udp://@239.0.0.217:123
+! #EXTINF:0 mono=0 tvg-name=«Eurosport News» ,Eurosport New
+! udp://@239.0.0.219:123
+! #EXTINF:0 mono=0 tvg-name=«Мужской» ,Мужско�
+! udp://@239.0.0.98:123
+! #EXTINF:0 mono=0 tvg-name=«O-TV Music» group-title=«Музыка» ,O-TV Musi
+! udp://@239.0.0.5:123
+! #EXTINF:0 mono=0 tvg-name=«Zoom» ,Zoo
+! udp://@239.0.0.6:123
+! #EXTINF:0 mono=0 tvg-name=«М1» ,М
+! udp://@239.0.0.7:123
+! #EXTINF:0 mono=0 tvg-name=«М2» ,М
+! udp://@239.0.0.8:123
+! #EXTINF:0 mono=0 tvg-name=«Mezzo» ,Mezz
+! udp://@239.0.0.146:123
+! #EXTINF:0 mono=0 tvg-name=«RU music» ,EU musi
+! udp://@239.0.0.156:123
+! #EXTINF:0 mono=0 tvg-name=«Музыка» ,Музык�
+! udp://@239.0.0.159:123
+! #EXTINF:0 mono=0 tvg-name=«MusicBox UA» ,MusicBox U
+! udp://@239.0.0.162:123
+! #EXTINF:0 mono=0 tvg-name=«A-one» ,A-One U
+! udp://@239.0.0.167:123
+! #EXTINF:0 mono=0 tvg-name=«Ля Минор» ,Ля Мино�
+! udp://@239.0.0.182:123
+! #EXTINF:0 mono=0 tvg-name=«Европа Плюс» ,Европа Плю�
+! udp://@239.0.0.183:123
+! #EXTINF:0 mono=0 tvg-name=«MCM TOP» ,MCM TO
+! udp://@239.0.0.66:123
+! #EXTINF:0 mono=0 tvg-name=«Піксель» group-title=«Детские» ,Піксел�
+! udp://@239.0.0.14:123
+! #EXTINF:0 mono=0 tvg-name=«Карусель» ,Карусел�
+! udp://@239.0.0.195:123
+! #EXTINF:0 mono=0 tvg-name=«Nickelodeon» ,Nickelodeo
+! udp://@239.0.0.196:123
+! #EXTINF:0 mono=0 tvg-name=«Малятко TV» ,Малятко Т�
+! udp://@239.0.0.197:123
+! #EXTINF:0 mono=0 tvg-name=«Детский мир _ Телеклуб» ,Детский мир / Телеклу�
+! udp://@239.0.0.154:123
+! #EXTINF:0 mono=0 tvg-name=«Gulli» ,Gull
+! udp://@239.0.0.198:123
+! #EXTINF:0 mono=0 tvg-name=«TiJi» ,TiJ
+! udp://@239.0.0.199:123
+! #EXTINF:0 mono=0 tvg-name=«Мультимания» ,Мультимани�
+! udp://@239.0.0.200:123
+! #EXTINF:0 mono=0 tvg-name=«Enter-фильм» group-title=«Фильмы» ,Enter-филь�
+! udp://@239.0.0.224:123
+! #EXTINF:0 mono=0 tvg-name=«Sony» ,Sony Sci-F
+! udp://@239.0.0.226:123
+! #EXTINF:0 mono=0 tvg-name=«Sony Turbo» ,Sony Turb
+! udp://@239.0.0.227:123
+! #EXTINF:0 mono=0 tvg-name=«TV XXI» ,TV XX
+! udp://@239.0.0.230:123
+! #EXTINF:0 mono=0 tvg-name=«Еврокино» ,Еврокин�
+! udp://@239.0.0.231:123
+! #EXTINF:0 mono=0 tvg-name=«Zee TV» ,Zee T
+! udp://@239.0.0.232:123
+! #EXTINF:0 mono=0 tvg-name=«Filmbox» ,Filmbo
+! udp://@239.0.0.234:123
+! #EXTINF:0 mono=0 tvg-name=«TV1000 Русское кино» ,TV 1000 Ru Kin
+! udp://@239.0.0.235:123
+! #EXTINF:0 mono=0 tvg-name=«SET» ,SE
+! udp://@239.0.0.236:123
+! #EXTINF:0 mono=0 tvg-name=«MGM» ,АМ�
+! udp://@239.0.0.238:123
+! #EXTINF:0 mono=0 tvg-name=«Universal» ,Universa
+! udp://@239.0.0.241:123
+! #EXTINF:0 mono=0 tvg-name=«TV1000 Action» ,TV1000 Actio
+! udp://@239.0.0.242:123
+! #EXTINF:0 mono=0 tvg-name=«TV1000 East» ,TV1000 Eas
+! udp://@239.0.0.243:123
+! #EXTINF:0 mono=0 tvg-name=«Trofey» ,Trofe
+! udp://@239.0.0.141:123
+! #EXTINF:0 mono=0 tvg-name=«Многосерийное ТВ» ,Многосерийное Т�
+! udp://@239.0.0.244:123
+! #EXTINF:0 mono=0 tvg-name=«Интересное ТВ» ,Интересное Т�
+! udp://@239.0.0.245:123
+! #EXTINF:0 mono=0 tvg-name=«Кинохит» ,Кинохи�
+! udp://@239.0.0.246:123
+! #EXTINF:0 mono=0 tvg-name=«Премьера» ,Премьер�
+! udp://@239.0.0.247:123
+! #EXTINF:0 mono=0 tvg-name=«Киноклуб» ,Киноклу�
+! udp://@239.0.0.248:123
+! #EXTINF:0 mono=0 tvg-name=«Кино Плюс» ,Кино Плю�
+! udp://@239.0.0.249:123
+! #EXTINF:0 mono=0 tvg-name=«Наше новое кино» ,Наше новое кин�
+! udp://@239.0.0.67:123
+! #EXTINF:0 mono=0 tvg-name=«Fashion TV» group-title=«Мода» ,Fashion T
+! udp://@239.0.0.137:123
+! #EXTINF:0 mono=0 tvg-name=«World Fashion» ,World Fashio
+! udp://@239.0.0.97:123
+! #EXTINF:0 mono=0 tvg-name=«Fashion One» ,Fashion On
+! udp://@239.0.0.105:123
+! #EXTINF:0 mono=0 tvg-name=«DW» group-title=«Иностранные» ,Deutsche Welle D
+! udp://@239.0.0.129:123
+! #EXTINF:0 mono=0 tvg-name=«TVE Internacional Europa» ,TVE Internacional Europ
+! udp://@239.0.0.130:123
+! #EXTINF:0 mono=0 tvg-name=«Canal 24 Horas» ,Canal 24 Hora
+! udp://@239.0.0.131:123
+! #EXTINF:0 mono=0 tvg-name=«CNN International Europe» ,CNN International Europ
+! udp://@239.0.0.132:123
+! #EXTINF:0 mono=0 tvg-name=«Deutsche Welle EN» ,Deutsche Welle E
+! udp://@239.0.0.133:123

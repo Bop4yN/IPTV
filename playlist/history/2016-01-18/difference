@@ -1,0 +1,39 @@
+*** /dev/fd/63	Mon Jan 18 01:00:03 2016
+--- /dev/fd/62	Mon Jan 18 01:00:03 2016
+***************
+*** 68 ****
+--- 69,70 ----
++ #EXTINF:0 mono=0 tvg-name=«Гумор ТБ» ,Гумор ТБ
++ udp://@239.0.0.10:1234
+***************
+*** 78,79 ****
+- #EXTINF:0 mono=0 tvg-name=«NTV PLUS 3D» ,NTV PLUS 3D
+- udp://@239.2.8.17:1234
+--- 79 ----
+***************
+*** 263 ****
+--- 264,265 ----
++ #EXTINF:0 mono=0 tvg-name=«Music BOX HD» ,Music BOX HD
++ udp://@239.2.8.18:1234
+***************
+*** 292 ****
+! #EXTINF:0 mono=0 tvg-name=«Трофей» ,Трофей
+--- 294,296 ----
+! #EXTINF:0 mono=0 tvg-name=«Fox-Crime» ,Fox-Crime
+! udp://@239.0.0.140:1234
+! #EXTINF:0 mono=0 tvg-name=«Fox Life» ,Fox-Life
+***************
+*** 334,335 ****
+- #EXTINF:0 mono=0 tvg-name=«Киносоюз» ,Киносоюз
+- udp://@239.0.0.64:1234
+--- 337 ----
+***************
+*** 348,349 ****
+- #EXTINF:0 mono=0 tvg-name=«КИНО 2 HD» ,КИНО 2 HD
+- udp://@239.2.8.15:1234
+--- 349 ----
+***************
+*** 355,356 ****
+- #EXTINF:0 mono=0 tvg-name=«Fashion One HD» ,Fashion One HD
+- udp://@239.2.8.4:1234
+--- 354 ----

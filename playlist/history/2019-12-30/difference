@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-12-30 01:00:03.358715608 +0200
+--- /dev/fd/62	2019-12-30 01:00:03.370724671 +0200
+***************
+*** 171 ****
+--- 172,173 ----
++ #EXTINF:0 mono=0 tvg-name=«Epic Drama HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/epic_drama_hd.jpg» ,Epic Drama HD
++ udp://@239.2.1.88:1234

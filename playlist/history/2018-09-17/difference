@@ -1,0 +1,7 @@
+*** /dev/fd/63	2018-09-17 01:00:06.116659373 +0300
+--- /dev/fd/62	2018-09-17 01:00:06.116659373 +0300
+***************
+*** 104 ****
+! #EXTINF:0 mono=0 tvg-name=«RTVD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/rtvi.jpg» ,RTVD
+--- 104 ----
+! #EXTINF:0 mono=0 tvg-name=«RTVD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/OstWest.jpg» ,RTVD

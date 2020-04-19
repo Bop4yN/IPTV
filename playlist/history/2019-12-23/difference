@@ -1,0 +1,17 @@
+*** /dev/fd/63	2019-12-23 01:00:04.346727317 +0200
+--- /dev/fd/62	2019-12-23 01:00:04.350727558 +0200
+***************
+*** 99 ****
+--- 100,101 ----
++ #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2019/12/ukraina24.jpg» ,Украина 24
++ udp://@239.2.1.87:1234
+***************
+*** 136 ****
+! #EXTINF:0 mono=0 tvg-name=«M1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/m1.jpg» ,М1
+--- 138 ----
+! #EXTINF:0 mono=0 tvg-name=«M1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/m1.jpg» ,М1 HD
+***************
+*** 138 ****
+! #EXTINF:0 mono=0 tvg-name=«M2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/m2.jpg» ,М2
+--- 140 ----
+! #EXTINF:0 mono=0 tvg-name=«M2» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/m2.jpg» ,М2 HD

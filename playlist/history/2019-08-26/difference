@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-08-26 01:00:04.501157019 +0300
+--- /dev/fd/62	2019-08-26 01:00:04.501157019 +0300
+***************
+*** 110 ****
+! #EXTINF:0 mono=0 tvg-name=«OstWest» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/OstWest.jpg» ,OstWest
+--- 110 ----
+! #EXTINF:0 mono=0 tvg-name=«nashekino» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nashekino.jpg» ,Наше любимое кино

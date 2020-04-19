@@ -1,0 +1,7 @@
+*** /dev/fd/63	Mon Oct 26 01:00:06 2015
+--- /dev/fd/62	Mon Oct 26 01:00:06 2015
+***************
+*** 241 ****
+! #EXTINF:0 mono=0 tvg-name=«Ru.Music» group-title=«Музыка»,RU music
+--- 241 ----
+! #EXTINF:0 mono=0 tvg-name=«Eu.Music» group-title=«Музыка»,EU music

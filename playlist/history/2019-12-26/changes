@@ -1,0 +1,7 @@
+Обновлён playlist.m3u/shares/Public
+  Добавлен канал Paramount Comedy
+  Удален канал Paramount Comedy
+  Добавлено:
+#EXTINF:0 mono=0 tvg-name=«Enter-film» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/enterfilm.jpg» ,Enter-фильм
+  Удалено:
+#EXTINF:0 mono=0 tvg-name=«Enter-film» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/enterfilm.jpg» group-title=«Фильмы» ,Enter-фильм

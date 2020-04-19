@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-01-14 01:00:04.457519563 +0200
+--- /dev/fd/62	2019-01-14 01:00:04.457519563 +0200
+***************
+*** 110,111 ****
+- #EXTINF:0 mono=0 tvg-name=«DocuBox_HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/docubox.jpg» ,DocuBox HD
+- udp://@239.2.1.72:1234
+--- 109 ----

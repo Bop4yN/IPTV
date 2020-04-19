@@ -1,0 +1,22 @@
+*** /dev/fd/63	2017-02-13 01:00:05.026797791 +0200
+--- /dev/fd/62	2017-02-13 01:00:05.030797098 +0200
+***************
+*** 34 ****
+! #EXTINF:0 mono=0 tvg-name=«EPOQUE»  ,EPOQUE
+--- 34 ----
+! #EXTINF:0 mono=0 tvg-name=«EPOQUE» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/epoque.jpg» ,EPOQUE
+***************
+*** 58 ****
+! #EXTINF:0 mono=0 tvg-name=«Культура»  ,Культура
+--- 58 ----
+! #EXTINF:0 mono=0 tvg-name=«Культура» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/kultura.jpg» ,Культура
+***************
+*** 66 ****
+! #EXTINF:0 mono=0 tvg-name=«KVARTAL TV»  ,Квартал ТВ
+--- 66 ----
+! #EXTINF:0 mono=0 tvg-name=«KVARTAL TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/kvartal_tv.jpg» ,Квартал ТВ
+***************
+*** 122 ****
+! #EXTINF:0 mono=0 tvg-name=«В гостях у сказки»  ,В гостях у сказки
+--- 122 ----
+! #EXTINF:0 mono=0 tvg-name=«В гостях у сказки» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/v_gostah_u_skazki.jpg» ,В гостях у сказки

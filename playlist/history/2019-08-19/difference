@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-08-19 01:00:04.941157771 +0300
+--- /dev/fd/62	2019-08-19 01:00:04.945158948 +0300
+***************
+*** 102,103 ****
+- #EXTINF:0 mono=0 tvg-name=«Pyervyy_avtomobilnyy» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/1auto.jpg» ,Первый автомобильный
+- udp://@239.2.1.63:1234
+--- 101 ----

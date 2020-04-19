@@ -1,0 +1,12 @@
+*** /dev/fd/63	Thu Mar 10 01:00:04 2016
+--- /dev/fd/62	Thu Mar 10 01:00:04 2016
+***************
+*** 197 ****
+--- 198,199 ----
++ #EXTINF:0 mono=0 tvg-name=«Dacha» ,Dacha
++ udp://@239.0.0.25:1234
+***************
+*** 348 ****
+--- 351,352 ----
++ #EXTINF:0 mono=0 tvg-name=«Milady Television» ,Milady Television
++ udp://@239.0.0.30:1234

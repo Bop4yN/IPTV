@@ -1,0 +1,12 @@
+*** /dev/fd/63	2018-11-29 01:00:04.133546830 +0200
+--- /dev/fd/62	2018-11-29 01:00:04.129540523 +0200
+***************
+*** 100,101 ****
+- #EXTINF:0 mono=0 tvg-name=«Maxxi-TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/maxxi.jpg» ,Maxxi-TV
+- udp://@239.2.1.45:1234
+--- 99 ----
+***************
+*** 151 ****
+--- 150,151 ----
++ #EXTINF:0 mono=0 tvg-name=«StarFamily» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/star-family.jpg» ,StarFamily
++ udp://@239.2.1.45:1234

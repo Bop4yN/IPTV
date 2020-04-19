@@ -1,0 +1,7 @@
+*** /dev/fd/63	2017-03-02 01:00:08.410799137 +0200
+--- /dev/fd/62	2017-03-02 01:00:08.406795852 +0200
+***************
+*** 64 ****
+! #EXTINF:0 mono=0 tvg-name=«3S.tv» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/3s.jpg» ,3S.tv
+--- 64 ----
+! #EXTINF:0 mono=0 tvg-name=«PravdaTYT»  ,PravdaTYT

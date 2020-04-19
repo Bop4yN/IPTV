@@ -1,0 +1,9 @@
+*** /dev/fd/63	Thu Apr  7 01:00:03 2016
+--- /dev/fd/62	Thu Apr  7 01:00:03 2016
+***************
+*** 193 ****
+--- 194,197 ----
++ #EXTINF:0 mono=0 tvg-name=«Discovery UA» ,Discovery UA
++ udp://@239.0.0.128:1234
++ #EXTINF:0 mono=0 tvg-name=«Animal Planet» ,Animal Planet
++ udp://@239.0.0.134:1234

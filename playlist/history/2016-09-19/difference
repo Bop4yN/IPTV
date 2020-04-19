@@ -1,0 +1,24 @@
+*** /dev/fd/63	2016-09-19 01:00:04.157640186 +0300
+--- /dev/fd/62	2016-09-19 01:00:04.161644274 +0300
+***************
+*** 19 ****
+--- 20,21 ----
++ #EXTINF:0 mono=0 tvg-name=«Gumor TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/gumor.jpg» ,Gumor TV
++ udp://@239.2.1.9:1234
+***************
+*** 29 ****
+--- 32,33 ----
++ #EXTINF:0 mono=0 tvg-name=«Бигуди» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/biguditv.jpg» ,Бигуди
++ udp://@239.2.1.18:1234
+***************
+*** 60,62 ****
+! #EXTINF:0 mono=0 tvg-name=«Gumor TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/gumor.jpg» group-title=«Политика и новости» ,Gumor TV
+! udp://@239.2.1.9:1234
+! #EXTINF:0 mono=0 tvg-name=«112 Украина» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/112.jpg» ,112 Украина
+--- 64 ----
+! #EXTINF:0 mono=0 tvg-name=«112 Украина» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/112.jpg» group-title=«Политика и новости» ,112 Украина
+***************
+*** 64,65 ****
+- #EXTINF:0 mono=0 tvg-name=«Бигуди» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/biguditv.jpg» ,Бигуди
+- udp://@239.2.1.18:1234
+--- 65 ----

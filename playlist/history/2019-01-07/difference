@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-01-07 01:00:07.649522391 +0200
+--- /dev/fd/62	2019-01-07 01:00:07.645523750 +0200
+***************
+*** 108 ****
+! #EXTINF:0 mono=0 tvg-name=«36,6_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/36.6.jpg» ,36.6
+--- 108 ----
+! #EXTINF:0 mono=0 tvg-name=«36_6_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/36.6.jpg» ,36.6

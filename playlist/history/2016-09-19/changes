@@ -1,0 +1,7 @@
+Обновлён playlist.m3u
+  Добавлены каналы: Gumor TV, Бигуди
+  Удалены каналы: Бигуди, Gumor TV
+  Добавлено:
+#EXTINF:0 mono=0 tvg-name=«112 Украина» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/112.jpg» group-title=«Политика и новости» ,112 Украина
+  Удалено:
+#EXTINF:0 mono=0 tvg-name=«112 Украина» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/112.jpg» ,112 Украина

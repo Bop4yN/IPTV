@@ -1,0 +1,21 @@
+*** /dev/fd/63	Thu Feb  4 01:00:04 2016
+--- /dev/fd/62	Thu Feb  4 01:00:04 2016
+***************
+*** 70 ****
+--- 71,74 ----
++ #EXTINF:0 mono=0 tvg-name=«UKRAINE TODAY» ,UKRAINE TODAY
++ udp://@239.0.0.24:1234
++ #EXTINF:0 mono=0 tvg-name=«EcoTV» ,EcoTV
++ udp://@239.0.0.17:1234
+***************
+*** 118 ****
+--- 123,124 ----
++ #EXTINF:0 mono=0 tvg-name=«112 Украина HD» ,112 Украина HD
++ udp://@239.2.8.19:1234
+***************
+*** 354 ****
+--- 361,364 ----
++ #EXTINF:0 mono=0 tvg-name=«Fashion One HD» ,Fashion One HD
++ udp://@239.2.8.4:1234
++ #EXTINF:0 mono=0 tvg-name=«Fashion One» ,Fashion One
++ udp://@239.0.0.105:1234

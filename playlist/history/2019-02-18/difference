@@ -1,0 +1,12 @@
+*** /dev/fd/63	2019-02-18 01:00:03.389524084 +0200
+--- /dev/fd/62	2019-02-18 01:00:03.393522106 +0200
+***************
+*** 53 ****
+--- 54,55 ----
++ #EXTINF:0 mono=0 tvg-name=«ATR» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/atr.jpg» ,ATR HD
++ udp://@239.2.1.67:1234
+***************
+*** 146,147 ****
+- #EXTINF:0 mono=0 tvg-name=«Nashye_kino» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/nlkino.jpg» ,Наше Кино
+- udp://@239.2.1.67:1234
+--- 147 ----

@@ -1,0 +1,16 @@
+*** /dev/fd/63	Mon Nov 30 01:00:02 2015
+--- /dev/fd/62	Mon Nov 30 01:00:02 2015
+***************
+*** 361 ****
+--- 362,372 ----
++ 
++ #EXTINF:0 mono=0 tvg-name=«Deutsche Welle Deutsch» group-title=«Иностранные»,Deutsche Welle Deutsch
++ udp://@239.0.0.129:1234
++ #EXTINF:0 mono=0 tvg-name=«TVE Internacional Europa» ,TVE Internacional Europa
++ udp://@239.0.0.130:1234
++ #EXTINF:0 mono=0 tvg-name=«Canal 24 Horas» ,Canal 24 Horas
++ udp://@239.0.0.131:1234
++ #EXTINF:0 mono=0 tvg-name=«CNN International Europe» ,CNN International Europe
++ udp://@239.0.0.132:1234
++ #EXTINF:0 mono=0 tvg-name=«Deutsche Welle» ,Deutsche Welle
++ udp://@239.0.0.133:1234

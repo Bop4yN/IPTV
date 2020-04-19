@@ -1,0 +1,22 @@
+*** /dev/fd/63	Mon Feb 29 01:00:03 2016
+--- /dev/fd/62	Mon Feb 29 01:00:03 2016
+***************
+*** 115,116 ****
+- #EXTINF:0 mono=0 tvg-name=«Телеканал 100» ,Телеканал 100
+- udp://@239.0.0.181:1234
+--- 114 ----
+***************
+*** 192,193 ****
+- #EXTINF:0 mono=0 tvg-name=«Outdoor Channel HD» ,Outdoor Channel HD
+- udp://@239.2.8.10:1234
+--- 189 ----
+***************
+*** 267,268 ****
+- #EXTINF:0 mono=0 tvg-name=«Disney channel» ,Disney channel
+- udp://@239.0.0.193:1234
+--- 262 ----
+***************
+*** 292,293 ****
+- #EXTINF:0 mono=0 tvg-name=«Fox-Crime» ,Fox-Crime
+- udp://@239.0.0.140:1234
+--- 285 ----

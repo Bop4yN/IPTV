@@ -1,0 +1,11 @@
+*** /dev/fd/63	Thu Oct 15 01:00:05 2015
+--- /dev/fd/62	Thu Oct 15 01:00:05 2015
+***************
+*** 129,133 ****
+! #EXTINF:0 mono=0 tvg-name=«Nat Geo Wild» group-title=«Познавательные», Nat Geo Wild
+! udp://@239.0.0.135:1234
+! #EXTINF:0 mono=0 tvg-name=«National Geographic» ,National Geographic
+! udp://@239.0.0.147:1234
+! #EXTINF:0 mono=0 tvg-name=«Моя Планета» ,Моя Планета
+--- 129 ----
+! #EXTINF:0 mono=0 tvg-name=«Моя Планета» group-title=«Познавательные» ,Моя Планета

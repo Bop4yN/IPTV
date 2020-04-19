@@ -1,0 +1,14 @@
+*** /dev/fd/63	2019-12-26 01:00:10.378716010 +0200
+--- /dev/fd/62	2019-12-26 01:00:10.386718252 +0200
+***************
+*** 104,105 ****
+- #EXTINF:0 mono=0 tvg-name=«Paramount_Comedy_Ukraina» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/Paramount_Comedy.jpg» ,Paramount Comedy
+- udp://@239.2.1.19:1234
+--- 103 ----
+***************
+*** 160 ****
+! #EXTINF:0 mono=0 tvg-name=«Enter-film» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/enterfilm.jpg» group-title=«Фильмы» ,Enter-фильм
+--- 158,160 ----
+! #EXTINF:0 mono=0 tvg-name=«Paramount_Comedy_Ukraina» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/Paramount_Comedy.jpg» group-title=«Фильмы» ,Paramount Comedy
+! udp://@239.2.1.19:1234
+! #EXTINF:0 mono=0 tvg-name=«Enter-film» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/enterfilm.jpg» ,Enter-фильм

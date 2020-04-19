@@ -1,0 +1,12 @@
+*** /dev/fd/63	2017-03-06 01:00:09.259858221 +0200
+--- /dev/fd/62	2017-03-06 01:00:09.259858221 +0200
+***************
+*** 67 ****
+--- 68,69 ----
++ #EXTINF:0 mono=0 tvg-name=«Новый Христианский» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/noviy_khristianskiy.jpg» ,Новый Христианский
++ udp://@239.2.1.20:1234
+***************
+*** 70,71 ****
+- #EXTINF:0 mono=0 tvg-name=«UBR» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ubr.jpg» ,UBR
+- udp://@239.2.1.20:1234
+--- 71 ----

@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-04-11 01:00:04.401519379 +0300
+--- /dev/fd/62	2019-04-11 01:00:04.405520611 +0300
+***************
+*** 58 ****
+! #EXTINF:0 mono=0 tvg-name=«Gromadskye» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/hromadske.jpg» ,Громадське ТБ HD
+--- 58 ----
+! #EXTINF:0 mono=0 tvg-name=«Gromadskye_HD» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/hromadske.jpg» ,Громадське ТБ HD

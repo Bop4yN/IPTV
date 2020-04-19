@@ -1,0 +1,7 @@
+*** /dev/fd/63	2017-07-06 01:00:06.261562556 +0300
+--- /dev/fd/62	2017-07-06 01:00:06.265562194 +0300
+***************
+*** 62 ****
+! #EXTINF:0 mono=0 tvg-name=«UA KRYM»  ,UA KRYM
+--- 62 ----
+! #EXTINF:0 mono=0 tvg-name=«UA KRYM» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ua-krym.jpg» ,UA KRYM

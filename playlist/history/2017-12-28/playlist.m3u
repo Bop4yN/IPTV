@@ -1,0 +1,149 @@
+﻿#EXTM3U url-tvg="http://tv.maxnet.ua/temp/programm_jtv.zip"
+#EXTINF:0 mono=0 tvg-name="ODTRK Kharkov" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/otb.jpg" group-title="Харьковские" ,ODTRK Kharkov
+udp://@239.2.1.17:1234
+#EXTINF:0 mono=0 tvg-name="Simon" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/simon.jpg" ,Simon
+udp://@239.2.1.38:1234
+#EXTINF:0 mono=0 tvg-name="S-TET" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/stet.jpg" ,S-TET
+udp://@239.2.1.39:1234
+#EXTINF:0 mono=0 tvg-name="7-й канал" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/tv7.jpg" ,7-й канал
+udp://@239.2.1.40:1234
+#EXTINF:0 mono=0 tvg-name="АТВК" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/atvk.jpg" ,АТВК
+udp://@239.2.1.35:1234
+#EXTINF:0 mono=0 tvg-name="1+1" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/1+1.jpg" group-title="Украинские" ,1+1
+udp://@239.2.1.1:1234
+#EXTINF:0 mono=0 tvg-name="К1" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/k1.jpg" ,К1
+udp://@239.2.1.2:1234
+#EXTINF:0 mono=0 tvg-name="К2" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/k2.jpg" ,К2
+udp://@239.2.1.3:1234
+#EXTINF:0 mono=0 tvg-name="СТБ" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/stb.jpg" ,СТБ
+udp://@239.2.1.8:1234
+#EXTINF:0 mono=0 tvg-name="Bolt" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/bolt.jpg" ,Bolt
+udp://@239.2.1.9:1234
+#EXTINF:0 mono=0 tvg-name="ICTV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/ictv.jpg" ,ICTV
+udp://@239.2.1.10:1234
+#EXTINF:0 mono=0 tvg-name="НЛО ТВ" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/nlo.jpg" ,НЛО ТВ
+udp://@239.2.1.11:1234
+#EXTINF:0 mono=0 tvg-name="Новый канал" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/novy.jpg" ,Новый канал
+udp://@239.2.1.13:1234
+#EXTINF:0 mono=0 tvg-name="ТРК Украина" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/ukraine.jpg" ,ТРК Украина
+udp://@239.2.1.14:1234
+#EXTINF:0 mono=0 tvg-name="++" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/plus-plus.jpg" ,Плюс Плюс
+udp://@239.2.1.16:1234
+#EXTINF:0 mono=0 tvg-name="Бигуди" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/biguditv.jpg" ,Бигуди
+udp://@239.2.1.18:1234
+#EXTINF:0 mono=0 tvg-name="2+2" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/22logo.jpg" ,2+2
+udp://@239.2.1.21:1234
+#EXTINF:0 mono=0 tvg-name="Мега" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/mega.jpg" ,Мега
+udp://@239.2.1.22:1234
+#EXTINF:0 mono=0 tvg-name="НТН" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/ntn.jpg" ,НТН
+udp://@239.2.1.23:1234
+#EXTINF:0 mono=0 tvg-name="Тонис" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/tonishd.jpg" ,Прямой
+udp://@239.2.1.27:1234
+#EXTINF:0 mono=0 tvg-name="ТЕТ" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/tet_logo.jpg" ,ТЕТ
+udp://@239.2.1.29:1234
+#EXTINF:0 mono=0 tvg-name="КРТ" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/krt.jpg" ,КРТ
+udp://@239.2.1.30:1234
+#EXTINF:0 mono=0 tvg-name="5 канал" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/51.jpg" ,5 канал
+udp://@239.2.1.31:1234
+#EXTINF:0 mono=0 tvg-name="Интер" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/inter.jpg" ,Интер
+udp://@239.2.1.34:1234
+#EXTINF:0 mono=0 tvg-name="Первый национальный" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/1tv.jpg" ,Первый национальный
+udp://@239.2.1.36:1234
+#EXTINF:0 mono=0 tvg-name="Солнце" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/solnce.jpg" ,Солнце
+udp://@239.2.1.37:1234
+#EXTINF:0 mono=0 tvg-name="Культура" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/kultura.jpg" ,Культура
+udp://@239.2.1.24:1234
+#EXTINF:0 mono=0 tvg-name="УНІАН" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/unian.jpg" ,УНІАН
+udp://@239.2.1.44:1234
+#EXTINF:0 mono=0 tvg-name="Q-TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/qtv.jpg" ,Q-TV
+udp://@239.2.1.47:1234
+#EXTINF:0 mono=0 tvg-name="PravdaTYT" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/pravda_tut.jpg" ,PravdaTYT
+udp://@239.2.1.51:1234
+#EXTINF:0 mono=0 tvg-name="UA KRYM" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/ua-krym.jpg" ,UA KRYM
+udp://@239.2.1.74:1234
+#EXTINF:0 mono=0 tvg-name="KVARTAL TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/kvartal_tv.jpg" ,Квартал ТВ
+udp://@239.2.1.70:1234
+#EXTINF:0 mono=0 tvg-name="Новый Христианский" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/noviy_khristianskiy.jpg" ,Новый Христианский
+udp://@239.2.1.20:1234
+#EXTINF:0 mono=0 tvg-name="112 Украина" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/112.jpg" group-title="Политика и новости" ,112 Украина
+udp://@239.2.1.15:1234
+#EXTINF:0 mono=0 tvg-name="Беларусь ТВ" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/b24tv.jpg" ,Беларусь ТВ
+udp://@239.2.1.25:1234
+#EXTINF:0 mono=0 tvg-name="Еспресо TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/espreso.jpg" ,Еспресо TV
+udp://@239.2.1.26:1234
+#EXTINF:0 mono=0 tvg-name="Новости 24" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/24tv.jpg" ,Новости 24
+udp://@239.2.1.28:1234
+#EXTINF:0 mono=0 tvg-name="Рада" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/rada.jpg" ,Рада
+udp://@239.2.1.32:1234
+#EXTINF:0 mono=0 tvg-name="Первый деловой" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/fbc.jpg" ,Первый деловой
+udp://@239.2.1.33:1234
+#EXTINF:0 mono=0 tvg-name="News One" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/newsone2014.jpg" ,News One
+udp://@239.2.1.50:1234
+#EXTINF:0 mono=0 tvg-name="Черноморская ТРК" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/sockraina.jpg" group-title="Познавательные" ,Черноморская ТРК
+udp://@239.2.1.62:1234
+#EXTINF:0 mono=0 tvg-name="Sirius TV"  ,Sirius TV
+udp://@239.2.1.69:1234
+#EXTINF:0 mono=0 tvg-name="Paramount Comedy"  ,Paramount Comedy
+udp://@239.2.1.19:1234
+#EXTINF:0 mono=0 tvg-name="Первый автомобильный" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/1auto.jpg" ,Первый автомобильный
+udp://@239.2.1.63:1234
+#EXTINF:0 mono=0 tvg-name="Discovery UA" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/discovery_logo.jpg" ,Discovery UA
+udp://@239.2.1.41:1234
+#EXTINF:0 mono=0 tvg-name="Animal Planet" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/animalplanet.jpg" ,Animal Planet
+udp://@239.2.1.42:1234
+#EXTINF:0 mono=0 tvg-name="Maxxi-TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/maxxi.jpg" ,Maxxi-TV
+udp://@239.2.1.45:1234
+#EXTINF:0 mono=0 tvg-name="Travel HD" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/Travel_HD.jpg" ,Travel HD
+udp://@239.2.1.71:1234
+#EXTINF:0 mono=0 tvg-name="RTVi" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/rtvi.jpg" ,RTVi
+udp://@239.2.1.53:1234
+#EXTINF:0 mono=0 tvg-name="ЧП.INFO" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/chpinfo.jpg" ,ЧП.INFO
+udp://@239.2.1.54:1234
+#EXTINF:0 mono=0 tvg-name="Индиго ТВ" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/indigotv.jpg" ,Индиго ТВ
+udp://@239.2.1.46:1234
+#EXTINF:0 mono=0 tvg-name="DocuBox HD" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/docubox.jpg" ,DocuBox HD
+udp://@239.2.1.72:1234
+#EXTINF:0 mono=0 tvg-name="Eurosport" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/eurosport.jpg" group-title="Спорт" ,Eurosport
+udp://@239.2.1.66:1234
+#EXTINF:0 mono=0 tvg-name="Футбол 1" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/fb1.jpg" ,Футбол 1
+udp://@239.2.1.58:1234
+#EXTINF:0 mono=0 tvg-name="Футбол 2" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/fb2.jpg" ,Футбол 2
+udp://@239.2.1.59:1234
+#EXTINF:0 mono=0 tvg-name="Спорт 1" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/sport1.jpg" ,Спорт 1
+udp://@239.2.1.60:1234
+#EXTINF:0 mono=0 tvg-name="SEA TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/seatv.jpg" ,SEA TV
+udp://@239.2.1.73:1234
+#EXTINF:0 mono=0 tvg-name="O-TV Music" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/otv.jpg" group-title="Музыка" ,O-TV Music
+udp://@239.2.1.4:1234
+#EXTINF:0 mono=0 tvg-name="Zoom" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/zoom.jpg" ,Zoom
+udp://@239.2.1.5:1234
+#EXTINF:0 mono=0 tvg-name="М1" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/m1.jpg" ,М1
+udp://@239.2.1.6:1234
+#EXTINF:0 mono=0 tvg-name="М2" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/m2.jpg" ,М2
+udp://@239.2.1.7:1234
+#EXTINF:0 mono=0 tvg-name="RU music" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/eumusic.jpg" ,EU music
+udp://@239.2.1.49:1234
+#EXTINF:0 mono=0 tvg-name="MusicBox UA" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/musicboxua1.jpg" ,MusicBox UA
+udp://@239.2.1.52:1234
+#EXTINF:0 mono=0 tvg-name="Піксель" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/pixelua.jpg" group-title="Детские" ,Піксель
+udp://@239.2.1.12:1234
+#EXTINF:0 mono=0 tvg-name="TiJi" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/karuseltv.jpg" ,TiJi
+udp://@239.2.1.55:1234
+#EXTINF:0 mono=0 tvg-name="Nickelodeon" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/nickelodeon.jpg" ,Nickelodeon
+udp://@239.2.1.56:1234
+#EXTINF:0 mono=0 tvg-name="Малятко TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/malyatko.jpg" ,Малятко ТВ
+udp://@239.2.1.57:1234
+#EXTINF:0 mono=0 tvg-name="Детский мир _ Телеклуб" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/teleclub.jpg" ,Детский мир
+udp://@239.2.1.48:1234
+#EXTINF:0 mono=0 tvg-name="Enter-фильм" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/enterfilm.jpg" group-title="Фильмы" ,Enter-фильм
+udp://@239.2.1.61:1234
+#EXTINF:0 mono=0 tvg-name="Наше Кино" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/nlkino.jpg" ,Наше Кино
+udp://@239.2.1.67:1234
+#EXTINF:0 mono=0 tvg-name="Sony" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/sonyscifi.jpg" ,Sony Sci-Fi
+udp://@239.2.1.68:1234
+#EXTINF:0 mono=0 tvg-name="TV1000 Action" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/actiontv1000.jpg" ,TV1000 Action
+udp://@239.2.1.64:1234
+#EXTINF:0 mono=0 tvg-name="TV1000 East" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/tv1000.jpg" ,TV1000 East
+udp://@239.2.1.65:1234
+#EXTINF:0 mono=0 tvg-name="Fashion TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/fashiontv.jpg" group-title="Мода" ,Fashion TV
+udp://@239.2.1.43:1234

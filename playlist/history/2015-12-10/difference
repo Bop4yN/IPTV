@@ -1,0 +1,24 @@
+*** /dev/fd/63	Thu Dec 10 01:00:09 2015
+--- /dev/fd/62	Thu Dec 10 01:00:09 2015
+***************
+*** 107,108 ****
+- #EXTINF:0 mono=0 tvg-name=«TBi» ,TBi
+- udp://@239.0.0.24:1234
+--- 106 ----
+***************
+*** 122,128 ****
+- #EXTINF:0 mono=0 tvg-name=«Travel Channel» group-title=«Discovery Networks» ,Travel Channel
+- udp://@239.0.0.176:1234
+- #EXTINF:0 mono=0 tvg-name=«ID Investigation Discovery» ,ID Investigation Discovery
+- udp://@239.0.0.158:1234
+- #EXTINF:0 mono=0 tvg-name=«Travel Channel HD» ,Travel Channel HD
+- udp://@239.2.8.8:1234
+- 
+--- 119 ----
+***************
+*** 208 ****
+--- 200,203 ----
++ #EXTINF:0 mono=0 tvg-name=«Travel Channel» ,Travel Channel
++ udp://@239.0.0.176:1234
++ #EXTINF:0 mono=0 tvg-name=«Travel Channel HD» ,Travel Channel HD
++ udp://@239.2.8.8:1234

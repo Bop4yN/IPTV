@@ -1,0 +1,7 @@
+*** /dev/fd/63	2017-06-19 01:00:08.805920992 +0300
+--- /dev/fd/62	2017-06-19 01:00:08.805920992 +0300
+***************
+*** 112 ****
+! #EXTINF:0 mono=0 tvg-name=«SEA TV»  ,SEA TV
+--- 112 ----
+! #EXTINF:0 mono=0 tvg-name=«SEA TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/seatv.jpg» ,SEA TV

@@ -1,0 +1,27 @@
+*** /dev/fd/63	2020-01-26 22:29:08.410726701 +0200
+--- /dev/fd/62	2020-01-26 22:29:08.406724254 +0200
+***************
+*** 20 ****
+! #EXTINF:0 mono=0 tvg-name=«STB» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/stb.jpg» ,СТБ
+--- 20 ----
+! #EXTINF:0 mono=0 tvg-name=«STB» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/stb.jpg» ,СТБ HD
+***************
+*** 24 ****
+! #EXTINF:0 mono=0 tvg-name=«ICTV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ictv.jpg» ,ICTV
+--- 24 ----
+! #EXTINF:0 mono=0 tvg-name=«ICTV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ictv.jpg» ,ICTV HD
+***************
+*** 50 ****
+! #EXTINF:0 mono=0 tvg-name=«5_kanal» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/51.jpg» ,5 канал
+--- 50 ----
+! #EXTINF:0 mono=0 tvg-name=«5_kanal» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/51.jpg» ,5 канал HD
+***************
+*** 118 ****
+! #EXTINF:0 mono=0 tvg-name=«Indigo» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/indigotv.jpg» ,Индиго ТВ
+--- 118 ----
+! #EXTINF:0 mono=0 tvg-name=«Indigo» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/indigotv.jpg» ,Индиго ТВ HD
+***************
+*** 142 ****
+! #EXTINF:0 mono=0 tvg-name=«EU_Music» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/eumusic.jpg» ,EU music
+--- 142 ----
+! #EXTINF:0 mono=0 tvg-name=«EU_Music» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/eumusic.jpg» ,EU music HD

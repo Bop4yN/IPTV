@@ -1,0 +1,12 @@
+*** /dev/fd/63	2020-03-29 16:13:11.238726724 +0300
+--- /dev/fd/62	2020-03-29 16:13:11.242729232 +0300
+***************
+*** 100 ****
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2019/12/ukraina24.jpg» ,Украина 24
+--- 100 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2019/12/ukraina24.jpg» ,Украина 24 HD
+***************
+*** 103 ****
+--- 104,105 ----
++ #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2020/03/GENUINE-TV.jpg» ,Genuine TV
++ udp://@239.2.1.79:1234

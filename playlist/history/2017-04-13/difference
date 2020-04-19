@@ -1,0 +1,7 @@
+*** /dev/fd/63	2017-04-13 01:00:04.171856257 +0300
+--- /dev/fd/62	2017-04-13 01:00:04.175861744 +0300
+***************
+*** 20 ****
+! #EXTINF:0 mono=0 tvg-name=«Bolt» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/gumor.jpg» ,Bolt
+--- 20 ----
+! #EXTINF:0 mono=0 tvg-name=«Bolt» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/bolt.jpg» ,Bolt

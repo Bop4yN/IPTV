@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-10-31 01:00:03.978405820 +0200
+--- /dev/fd/62	2019-10-31 01:00:03.982408602 +0200
+***************
+*** 104 ****
+! #EXTINF:0 mono=0 tvg-name=«»  ,Кус-Кус HD
+--- 104 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2019/10/kus-kus.jpg» ,Кус-Кус HD

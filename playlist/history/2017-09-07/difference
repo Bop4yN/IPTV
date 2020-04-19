@@ -1,0 +1,7 @@
+*** /dev/fd/63	2017-09-07 01:00:05.408757095 +0300
+--- /dev/fd/62	2017-09-07 01:00:05.408757095 +0300
+***************
+*** 40 ****
+! #EXTINF:0 mono=0 tvg-name=«Тонис» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tonishd.jpg» ,Тонис
+--- 40 ----
+! #EXTINF:0 mono=0 tvg-name=«Тонис» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/tonishd.jpg» ,Прямой

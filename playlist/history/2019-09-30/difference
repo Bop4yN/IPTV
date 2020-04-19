@@ -1,0 +1,7 @@
+*** /dev/fd/63	2019-09-30 01:00:03.665282565 +0300
+--- /dev/fd/62	2019-09-30 01:00:03.665282565 +0300
+***************
+*** 37 ****
+--- 38,39 ----
++ #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2019/09/boutique_tv.jpg» ,BOUTIQUE TV
++ udp://@239.2.1.63:1234

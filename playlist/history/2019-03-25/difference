@@ -1,0 +1,12 @@
+*** /dev/fd/63	2019-03-25 01:00:04.785525897 +0200
+--- /dev/fd/62	2019-03-25 01:00:04.809526285 +0200
+***************
+*** 10 ****
+! #EXTINF:0 mono=0 tvg-name=«Profit»  ,Profit
+--- 10 ----
+! #EXTINF:0 mono=0 tvg-name=«Profit» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/profit.jpg» ,Profit
+***************
+*** 55 ****
+--- 56,57 ----
++ #EXTINF:0 mono=0 tvg-name=«Ternopil1» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ternopil.jpg» ,Тернополь 1
++ udp://@239.2.1.84:1234
