@@ -143,7 +143,7 @@ http://192.168.1.1:4022/udp/239.2.1.6:1234
 http://192.168.1.1:4022/udp/239.2.1.7:1234
 #EXTINF:0 mono=0 tvg-name="4ever_music" tvg-logo="4ever.png" ,4ever HD
 http://192.168.1.1:4022/udp/239.2.1.83:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="Megogo%20live.png"  ,Megogo live HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Megogo%20live.png" ,Megogo live HD
 http://192.168.1.1:4022/udp/239.2.1.72:1234
 #EXTINF:0 mono=0 tvg-name="EU_Music" tvg-logo="EU%20music.png" ,EU music HD
 http://192.168.1.1:4022/udp/239.2.1.49:1234

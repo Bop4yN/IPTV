@@ -1,0 +1,7 @@
+*** /dev/fd/63	2020-04-23 01:00:06.794719155 +0300
+--- /dev/fd/62	2020-04-23 01:00:06.794719155 +0300
+***************
+*** 146 ****
+! #EXTINF:0 mono=0 tvg-name=«»  ,Megogo live HD
+--- 146 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2020/04/Megogo-Live.jpg» ,Megogo live HD
