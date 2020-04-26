@@ -143,7 +143,7 @@ udp://@239.2.1.6:1234
 udp://@239.2.1.7:1234
 #EXTINF:0 mono=0 tvg-name="4ever_music" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/music4ever.jpg" ,4ever HD
 udp://@239.2.1.83:1234
-#EXTINF:0 mono=0 tvg-name=""  ,Megogo live HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2020/04/Megogo-Live.jpg" ,Megogo live HD
 udp://@239.2.1.72:1234
 #EXTINF:0 mono=0 tvg-name="EU_Music" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/eumusic.jpg" ,EU music HD
 udp://@239.2.1.49:1234
