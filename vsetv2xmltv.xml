@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv>
   <channel id="1+1">
-    <display-name lang="ru">1+1</display-name>
     <display-name lang="ru">1+1 HD</display-name>
+    <display-name lang="ru">1+1</display-name>
   </channel>
   <programme channel="1+1" start="20200506052000 +0300" stop="20200506063000 +0300">
     <title lang="ru">ТСН.</title>
