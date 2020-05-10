@@ -480,14 +480,19 @@
   <channel id="Zoom">
     <display-name lang="ru">Zoom HD</display-name>
   </channel>
-  <programme channel="112_Ukraina" start="20200510061000 +0300" stop="20200510084500 +0300">
-    <title lang="ru">Прайм.</title>
+  <programme channel="112_Ukraina" start="20200510071500 +0300" stop="20200510085000 +0300">
+    <title lang="ru">Большое интервью. Вадим Рабинович.</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200510084500 +0300" stop="20200510093000 +0300">
-    <title lang="ru">Лига коррупции.</title>
+  <programme channel="112_Ukraina" start="20200510085000 +0300" stop="20200510093500 +0300">
+    <title lang="ru">Праздничный марафон. Концерт "Цена победы".</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200510093000 +0300" stop="20200510110000 +0300">
-    <title lang="ru">Ток-шоу "Не молчи!".</title>
+  <programme channel="112_Ukraina" start="20200510093500 +0300" stop="20200510110000 +0300">
+    <title lang="ru">Исторический прайм. Х/ф "Отец солдата".</title>
+    <desc lang="ru">СССР, 1964, драма / военный
+Режиссер: Резо Чхеидзе
+Актеры: Серго Закариадзе, Владимир Привальцев, Алексей Назаров, Александр Лебедев, Юрий Дроздов, Кетеван Бочоришвили
+
+Великая Отечественная война. Старый грузинский крестьянин Георгий Махарашвили едет на фронт повидаться с сыном, который ранен и находится в госпитале. Но пока отец добирается до места назначения, сына снова отправляют на фронт. Так Георгий попадает в действующую армию. Вместе с советскими войсками он проходит весь путь  до Берлина, до победы над фашизмом. Только в последние дни войны отец находит... </desc>
   </programme>
   <programme channel="112_Ukraina" start="20200510110000 +0300" stop="20200510111500 +0300">
     <title lang="ru">Новости.</title>
@@ -495,47 +500,48 @@
   <programme channel="112_Ukraina" start="20200510111500 +0300" stop="20200510120000 +0300">
     <title lang="ru">Студия 112.</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200510120000 +0300" stop="20200510121500 +0300">
+  <programme channel="112_Ukraina" start="20200510120000 +0300" stop="20200510122000 +0300">
     <title lang="ru">Новости.</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200510121500 +0300" stop="20200510130000 +0300">
+  <programme channel="112_Ukraina" start="20200510122000 +0300" stop="20200510130000 +0300">
     <title lang="ru">Студия 112.</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200510130000 +0300" stop="20200510152000 +0300">
-    <title lang="ru">Воскресенье. Live.</title>
+  <programme channel="112_Ukraina" start="20200510130000 +0300" stop="20200510154000 +0300">
+    <title lang="ru">Праздничный марафон. Концерт.</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200510152000 +0300" stop="20200510164500 +0300">
-    <title lang="ru">Прайм.</title>
+  <programme channel="112_Ukraina" start="20200510154000 +0300" stop="20200510173000 +0300">
+    <title lang="ru">Исторический прайм. Х/ф "Охота на Вервольфа".</title>
+    <desc lang="ru">Украина, 2008, детектив / военный
+Режиссер: Евгений Митрофанов
+Актеры: Владимир Литвинов, Борис Галкин, Вячеслав Разбегаев, Павел Трубинер, Михаил Ефремов, Евгения Гладий, Евгений Ефремов
+
+Великая Отечественная война. Осень 1942 года. Советскому командованию становится известно о появлении на оккупированной территории фашистской ставки "Вервольф". Предполагается, что сюда, под Винницу, будет перенесена главная восточная ставка самого Гитлера. Группа советских разведчиков под командованием майора Седова получает задание отправиться в тыл к противнику с целью сбора максимальной... </desc>
   </programme>
-  <programme channel="112_Ukraina" start="20200510164500 +0300" stop="20200510181500 +0300">
-    <title lang="ru">Голос народа.</title>
-  </programme>
-  <programme channel="112_Ukraina" start="20200510181500 +0300" stop="20200510190000 +0300">
-    <title lang="ru">"Мага".</title>
+  <programme channel="112_Ukraina" start="20200510173000 +0300" stop="20200510190000 +0300">
+    <title lang="ru">Большое интервью. Вадим Рабинович.</title>
   </programme>
   <programme channel="112_Ukraina" start="20200510190000 +0300" stop="20200510192000 +0300">
     <title lang="ru">Новости.</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200510192000 +0300" stop="20200510212500 +0300">
-    <title lang="ru">Воскресенье. Прайм.</title>
+  <programme channel="112_Ukraina" start="20200510192000 +0300" stop="20200510205500 +0300">
+    <title lang="ru">Большое интервью. Дмитрий Спивак.</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200510212500 +0300" stop="20200510220000 +0300">
-    <title lang="ru">112.doc.</title>
+  <programme channel="112_Ukraina" start="20200510205500 +0300" stop="20200510221500 +0300">
+    <title lang="ru">Праздничный марафон. Концерт.</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200510220000 +0300" stop="20200511003500 +0300">
+  <programme channel="112_Ukraina" start="20200510221500 +0300" stop="20200511001500 +0300">
+    <title lang="ru">Исторический прайм. Х/ф "Ангелы войны".</title>
+    <desc lang="ru">Украина, 2012, драма / военный / мелодрама
+Режиссер: Татьяна Ходаковская
+Актеры: Богдан Бенюк, Матвей Зубалевич, Александра Тюфтей, Наталья Бузько, Кирилл Полухин, Алексей Шемес, Валентин Касьян
+
+Во время войны на оккупированной территории организован фильтрационный немецкий лагерь "Надежда", где проводят опыты над детьми. Особой ценностью считаются близнецы - самый ценный материал для опытов. И когда из лагеря удается бежать одному из подопытных, немцы поднимают тревогу, пытаясь отыскать сбежавшего мальчишку. Это усложняет жизнь и жителям ближайшего села, и партизанскому отряду, и даже... </desc>
+  </programme>
+  <programme channel="112_Ukraina" start="20200511001500 +0300" stop="20200511044500 +0300">
     <title lang="ru">"Пульс". Главное политическое шоу.</title>
   </programme>
-  <programme channel="112_Ukraina" start="20200511003500 +0300" stop="20200511005000 +0300">
-    <title lang="ru">Новости.</title>
-  </programme>
-  <programme channel="112_Ukraina" start="20200511005000 +0300" stop="20200511043000 +0300">
-    <title lang="ru">"Пульс". Главное политическое шоу.</title>
-  </programme>
-  <programme channel="112_Ukraina" start="20200511043000 +0300" stop="20200511052000 +0300">
-    <title lang="ru">Лига коррупции.</title>
-  </programme>
-  <programme channel="112_Ukraina" start="20200511052000 +0300" stop="20200511063000 +0300">
-    <title lang="ru">"Мага".</title>
+  <programme channel="112_Ukraina" start="20200511044500 +0300" stop="20200511063000 +0300">
+    <title lang="ru">Большое интервью. Дмитрий Спивак.</title>
   </programme>
   <programme channel="112_Ukraina" start="20200511063000 +0300" stop="20200511080000 +0300">
     <title lang="ru">Большое интервью.</title>
@@ -10658,7 +10664,430 @@
   <programme channel="Genuine_TV" start="20200511060000 +0300" stop="20200511070000 +0300">
     <title lang="ru">Другий шанс (запис ефiру).</title>
   </programme>
-  <programme channel="Genuine_TV" start="20200511070000 +0300" stop="20200517050000 +0300">
+  <programme channel="Genuine_TV" start="20200511070000 +0300" stop="20200511080000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511080000 +0300" stop="20200511090000 +0300">
+    <title lang="ru">Менше 1000.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511090000 +0300" stop="20200511100000 +0300">
+    <title lang="ru">Прикраса за 45 секунд.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511100000 +0300" stop="20200511110000 +0300">
+    <title lang="ru">Класичні види огранювання.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511110000 +0300" stop="20200511120000 +0300">
+    <title lang="ru">Аукціон + суперлот.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511120000 +0300" stop="20200511130000 +0300">
+    <title lang="ru">Велика каратність.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511130000 +0300" stop="20200511140000 +0300">
+    <title lang="ru">Менше 1400.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511140000 +0300" stop="20200511150000 +0300">
+    <title lang="ru">Ювелірний конвеєр.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511150000 +0300" stop="20200511160000 +0300">
+    <title lang="ru">Розпродаж каблучок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511160000 +0300" stop="20200511170000 +0300">
+    <title lang="ru">Знижки на огранювання Маркіз.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511170000 +0300" stop="20200511180000 +0300">
+    <title lang="ru">Менше 700.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511180000 +0300" stop="20200511190000 +0300">
+    <title lang="ru">Знижки на перший ювелірний порядок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511190000 +0300" stop="20200511200000 +0300">
+    <title lang="ru">Менше 1000.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511200000 +0300" stop="20200511210000 +0300">
+    <title lang="ru">Марафон знижок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511210000 +0300" stop="20200511220000 +0300">
+    <title lang="ru">20 цікавих фактів про прикраси та мінерали.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511220000 +0300" stop="20200511230000 +0300">
+    <title lang="ru">Гід з мінералогії для початківців.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200511230000 +0300" stop="20200512000000 +0300">
+    <title lang="ru">Розпродаж підвісок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512000000 +0300" stop="20200512010000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512010000 +0300" stop="20200512020000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512020000 +0300" stop="20200512030000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512030000 +0300" stop="20200512040000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512040000 +0300" stop="20200512050000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512050000 +0300" stop="20200512060000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512060000 +0300" stop="20200512070000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512070000 +0300" stop="20200512080000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512080000 +0300" stop="20200512090000 +0300">
+    <title lang="ru">Марафон знижок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512090000 +0300" stop="20200512100000 +0300">
+    <title lang="ru">Які види видобутку мінералів існують.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512100000 +0300" stop="20200512110000 +0300">
+    <title lang="ru">45 секунд: окуляри.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512110000 +0300" stop="20200512120000 +0300">
+    <title lang="ru">Вітрина 1355.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512120000 +0300" stop="20200512130000 +0300">
+    <title lang="ru">Вибір глядача.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512130000 +0300" stop="20200512140000 +0300">
+    <title lang="ru">Парфуми Apparel.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512140000 +0300" stop="20200512150000 +0300">
+    <title lang="ru">Прикраси на кожен день.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512150000 +0300" stop="20200512160000 +0300">
+    <title lang="ru">Елітний ефір.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512160000 +0300" stop="20200512170000 +0300">
+    <title lang="ru">Мінерали достатку.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512170000 +0300" stop="20200512180000 +0300">
+    <title lang="ru">Вітрина 1999.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512180000 +0300" stop="20200512190000 +0300">
+    <title lang="ru">Зачистка колекції Moments.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512190000 +0300" stop="20200512200000 +0300">
+    <title lang="ru">Урок з гемології: перидот.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512200000 +0300" stop="20200512210000 +0300">
+    <title lang="ru">Менше 1000.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512210000 +0300" stop="20200512220000 +0300">
+    <title lang="ru">Пропозиція дня.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512220000 +0300" stop="20200512230000 +0300">
+    <title lang="ru">Розпродаж ефіопських опалів.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200512230000 +0300" stop="20200513000000 +0300">
+    <title lang="ru">Правда або дія.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513000000 +0300" stop="20200513010000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513010000 +0300" stop="20200513020000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513020000 +0300" stop="20200513030000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513030000 +0300" stop="20200513040000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513040000 +0300" stop="20200513050000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513050000 +0300" stop="20200513060000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513060000 +0300" stop="20200513070000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513070000 +0300" stop="20200513080000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513080000 +0300" stop="20200513090000 +0300">
+    <title lang="ru">Зачистка колекції Moments.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513090000 +0300" stop="20200513100000 +0300">
+    <title lang="ru">Ефір одиничок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513100000 +0300" stop="20200513110000 +0300">
+    <title lang="ru">Елітний ефір.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513110000 +0300" stop="20200513120000 +0300">
+    <title lang="ru">Менше 1000.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513120000 +0300" stop="20200513130000 +0300">
+    <title lang="ru">Аукціон + супер лот.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513130000 +0300" stop="20200513140000 +0300">
+    <title lang="ru">Колекція аметистів GTV.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513140000 +0300" stop="20200513150000 +0300">
+    <title lang="ru">Аукціон + цитрин.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513150000 +0300" stop="20200513160000 +0300">
+    <title lang="ru">Знижки до - 80% на найдорожчі прикраси.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513160000 +0300" stop="20200513170000 +0300">
+    <title lang="ru">Колекція берилів GTV.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513170000 +0300" stop="20200513180000 +0300">
+    <title lang="ru">Комплекти доступніші 3000.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513180000 +0300" stop="20200513190000 +0300">
+    <title lang="ru">Пропозиція дня.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513190000 +0300" stop="20200513200000 +0300">
+    <title lang="ru">Вітрина 1677.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513200000 +0300" stop="20200513210000 +0300">
+    <title lang="ru">Розпродаж цариту.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513210000 +0300" stop="20200513220000 +0300">
+    <title lang="ru">Останні екземпляри колумбійських смарагдів.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513220000 +0300" stop="20200513230000 +0300">
+    <title lang="ru">Вітрина 1399.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200513230000 +0300" stop="20200514000000 +0300">
+    <title lang="ru">Вітрина 1399.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514000000 +0300" stop="20200514010000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514010000 +0300" stop="20200514020000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514020000 +0300" stop="20200514030000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514030000 +0300" stop="20200514040000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514040000 +0300" stop="20200514050000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514050000 +0300" stop="20200514060000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514060000 +0300" stop="20200514070000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514070000 +0300" stop="20200514080000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514080000 +0300" stop="20200514090000 +0300">
+    <title lang="ru">Аукціон + супер лот.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514090000 +0300" stop="20200514100000 +0300">
+    <title lang="ru">45 секунд: окуляри.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514100000 +0300" stop="20200514110000 +0300">
+    <title lang="ru">Зіркова година.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514110000 +0300" stop="20200514120000 +0300">
+    <title lang="ru">Розпродаж сережок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514120000 +0300" stop="20200514130000 +0300">
+    <title lang="ru">Розпродаж підвісок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514130000 +0300" stop="20200514140000 +0300">
+    <title lang="ru">Про здоров'я: фітнес браслет Smart Band.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514140000 +0300" stop="20200514150000 +0300">
+    <title lang="ru">Вітрина 1559.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514150000 +0300" stop="20200514160000 +0300">
+    <title lang="ru">Ефір одиничок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514160000 +0300" stop="20200514170000 +0300">
+    <title lang="ru">Урок з гемології: рожевий рубін.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514170000 +0300" stop="20200514180000 +0300">
+    <title lang="ru">Новий продукт: гуарана з Бразилії - для вашої легкості та бадьорості.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514180000 +0300" stop="20200514190000 +0300">
+    <title lang="ru">Незамінний помічник на вашій кухні.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514190000 +0300" stop="20200514200000 +0300">
+    <title lang="ru">Колекція сапфірів GTV.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514200000 +0300" stop="20200514210000 +0300">
+    <title lang="ru">Аукціон + супер лот.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514210000 +0300" stop="20200514220000 +0300">
+    <title lang="ru">Розпродаж танзаніту.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514220000 +0300" stop="20200514230000 +0300">
+    <title lang="ru">Розпродаж танзаніту.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200514230000 +0300" stop="20200515000000 +0300">
+    <title lang="ru">Пропозиція дня.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515000000 +0300" stop="20200515010000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515010000 +0300" stop="20200515020000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515020000 +0300" stop="20200515030000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515030000 +0300" stop="20200515040000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515040000 +0300" stop="20200515050000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515050000 +0300" stop="20200515060000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515060000 +0300" stop="20200515070000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515070000 +0300" stop="20200515080000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515080000 +0300" stop="20200515090000 +0300">
+    <title lang="ru">Марафон знижок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515090000 +0300" stop="20200515100000 +0300">
+    <title lang="ru">Зараз або ніколи.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515100000 +0300" stop="20200515110000 +0300">
+    <title lang="ru">Гід з мінералогії для початківців.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515110000 +0300" stop="20200515120000 +0300">
+    <title lang="ru">Парфуми Apparel.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515120000 +0300" stop="20200515130000 +0300">
+    <title lang="ru">Вітрина 1459.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515130000 +0300" stop="20200515140000 +0300">
+    <title lang="ru">Вперше в ефірі.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515140000 +0300" stop="20200515150000 +0300">
+    <title lang="ru">Зачистка зелених мінералів.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515150000 +0300" stop="20200515160000 +0300">
+    <title lang="ru">Подарунок до кожного лоту.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515160000 +0300" stop="20200515170000 +0300">
+    <title lang="ru">45 секунд: окуляри.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515170000 +0300" stop="20200515180000 +0300">
+    <title lang="ru">Кидай знижку.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515180000 +0300" stop="20200515190000 +0300">
+    <title lang="ru">Вітрина 1177.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515190000 +0300" stop="20200515200000 +0300">
+    <title lang="ru">Розпродаж ефіопських опалів.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515200000 +0300" stop="20200515210000 +0300">
+    <title lang="ru">Останній шанс.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515210000 +0300" stop="20200515220000 +0300">
+    <title lang="ru">Пропозиція дня.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515220000 +0300" stop="20200515230000 +0300">
+    <title lang="ru">Менше 1000.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200515230000 +0300" stop="20200516000000 +0300">
+    <title lang="ru">Менше 1000.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516000000 +0300" stop="20200516010000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516010000 +0300" stop="20200516020000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516020000 +0300" stop="20200516030000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516030000 +0300" stop="20200516040000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516040000 +0300" stop="20200516050000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516050000 +0300" stop="20200516060000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516060000 +0300" stop="20200516070000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516070000 +0300" stop="20200516080000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516080000 +0300" stop="20200516090000 +0300">
+    <title lang="ru">Ювелірний конвеєр.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516090000 +0300" stop="20200516100000 +0300">
+    <title lang="ru">Подорожуючи світом: Індія.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516100000 +0300" stop="20200516110000 +0300">
+    <title lang="ru">Комплекти доступніші 3000.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516110000 +0300" stop="20200516120000 +0300">
+    <title lang="ru">Незамінний помічник на вашій кухні.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516120000 +0300" stop="20200516130000 +0300">
+    <title lang="ru">Грандіозна прем'єра колекції майстрів.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516130000 +0300" stop="20200516140000 +0300">
+    <title lang="ru">Грандіозна прем'єра колекції майстрів.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516140000 +0300" stop="20200516150000 +0300">
+    <title lang="ru">Аукціон + празіоліт.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516150000 +0300" stop="20200516160000 +0300">
+    <title lang="ru">Розпродаж цариту.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516160000 +0300" stop="20200516170000 +0300">
+    <title lang="ru">Знижки до - 80% на найдорожчі прикраси.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516170000 +0300" stop="20200516180000 +0300">
+    <title lang="ru">Про здоров'я: браслет Smart Band.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516180000 +0300" stop="20200516190000 +0300">
+    <title lang="ru">Вибір президента GTV.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516190000 +0300" stop="20200516200000 +0300">
+    <title lang="ru">Пропозиція дня.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516200000 +0300" stop="20200516210000 +0300">
+    <title lang="ru">Розпродаж каблучок.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516210000 +0300" stop="20200516220000 +0300">
+    <title lang="ru">Кидай знижку.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516220000 +0300" stop="20200516230000 +0300">
+    <title lang="ru">Зачистка жовтих мінералів.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200516230000 +0300" stop="20200517000000 +0300">
+    <title lang="ru">Аукціон + супер лот.</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200517000000 +0300" stop="20200517010000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200517010000 +0300" stop="20200517020000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200517020000 +0300" stop="20200517030000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200517030000 +0300" stop="20200517040000 +0300">
+    <title lang="ru">Другий шанс (запис ефiру).</title>
+  </programme>
+  <programme channel="Genuine_TV" start="20200517040000 +0300" stop="20200517050000 +0300">
     <title lang="ru">Другий шанс (запис ефiру).</title>
   </programme>
   <programme channel="Gromads_ke" start="20200510053000 +0300" stop="20200510071500 +0300">
@@ -13896,7 +14325,223 @@
   <programme channel="MusicBox_UA" start="20200510223000 +0300" stop="20200511000000 +0300">
     <title lang="ru">Hits.</title>
   </programme>
-  <programme channel="MusicBox_UA" start="20200511000000 +0300" stop="20200517050000 +0300">
+  <programme channel="MusicBox_UA" start="20200511000000 +0300" stop="20200511060000 +0300">
+    <title lang="ru">Night Express.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511060000 +0300" stop="20200511063000 +0300">
+    <title lang="ru">Official UA TOP 40.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511063000 +0300" stop="20200511090000 +0300">
+    <title lang="ru">Wake Up!</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511090000 +0300" stop="20200511110000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511110000 +0300" stop="20200511113000 +0300">
+    <title lang="ru">Svoi.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511113000 +0300" stop="20200511120000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511120000 +0300" stop="20200511123000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511123000 +0300" stop="20200511170000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511170000 +0300" stop="20200511173000 +0300">
+    <title lang="ru">Top 20 - Euro.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511173000 +0300" stop="20200511200000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511200000 +0300" stop="20200511210000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200511210000 +0300" stop="20200512000000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512000000 +0300" stop="20200512060000 +0300">
+    <title lang="ru">Night Express.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512060000 +0300" stop="20200512063000 +0300">
+    <title lang="ru">Chartlist #1.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512063000 +0300" stop="20200512090000 +0300">
+    <title lang="ru">Wake Up!</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512090000 +0300" stop="20200512110000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512110000 +0300" stop="20200512113000 +0300">
+    <title lang="ru">Top 20 - Euro.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512113000 +0300" stop="20200512120000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512120000 +0300" stop="20200512123000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512123000 +0300" stop="20200512170000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512170000 +0300" stop="20200512173000 +0300">
+    <title lang="ru">Top 20 - USA.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512173000 +0300" stop="20200512200000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512200000 +0300" stop="20200512210000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200512210000 +0300" stop="20200513000000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513000000 +0300" stop="20200513060000 +0300">
+    <title lang="ru">Night Express.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513060000 +0300" stop="20200513063000 +0300">
+    <title lang="ru">Top 20 - Euro.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513063000 +0300" stop="20200513090000 +0300">
+    <title lang="ru">Wake Up!</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513090000 +0300" stop="20200513110000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513110000 +0300" stop="20200513113000 +0300">
+    <title lang="ru">Top 20 - USA.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513113000 +0300" stop="20200513120000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513120000 +0300" stop="20200513123000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513123000 +0300" stop="20200513170000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513170000 +0300" stop="20200513173000 +0300">
+    <title lang="ru">Chartlist #1.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513173000 +0300" stop="20200513200000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513200000 +0300" stop="20200513210000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200513210000 +0300" stop="20200514000000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514000000 +0300" stop="20200514060000 +0300">
+    <title lang="ru">Night Express.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514060000 +0300" stop="20200514063000 +0300">
+    <title lang="ru">Top 20 - USA.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514063000 +0300" stop="20200514090000 +0300">
+    <title lang="ru">Wake Up!</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514090000 +0300" stop="20200514110000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514110000 +0300" stop="20200514113000 +0300">
+    <title lang="ru">Chartlist #1.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514113000 +0300" stop="20200514120000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514120000 +0300" stop="20200514123000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514123000 +0300" stop="20200514170000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514170000 +0300" stop="20200514173000 +0300">
+    <title lang="ru">YearChart.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514173000 +0300" stop="20200514190000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514190000 +0300" stop="20200514193000 +0300">
+    <title lang="ru">Svoi.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514193000 +0300" stop="20200514200000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514200000 +0300" stop="20200514210000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200514210000 +0300" stop="20200515000000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515000000 +0300" stop="20200515060000 +0300">
+    <title lang="ru">Night Express.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515060000 +0300" stop="20200515063000 +0300">
+    <title lang="ru">Top 20 - UK.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515063000 +0300" stop="20200515090000 +0300">
+    <title lang="ru">Wake Up!</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515090000 +0300" stop="20200515110000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515110000 +0300" stop="20200515113000 +0300">
+    <title lang="ru">YearChart.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515113000 +0300" stop="20200515120000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515120000 +0300" stop="20200515123000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515123000 +0300" stop="20200515170000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515170000 +0300" stop="20200515173000 +0300">
+    <title lang="ru">Teen Parade.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515173000 +0300" stop="20200515220000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515220000 +0300" stop="20200515223000 +0300">
+    <title lang="ru">Top Dance Chart.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200515223000 +0300" stop="20200516000000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516000000 +0300" stop="20200516060000 +0300">
+    <title lang="ru">Night Express.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516060000 +0300" stop="20200516063000 +0300">
+    <title lang="ru">Svoi.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516063000 +0300" stop="20200516090000 +0300">
+    <title lang="ru">Wake Up!</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516090000 +0300" stop="20200516100000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516100000 +0300" stop="20200516110000 +0300">
+    <title lang="ru">The Greatest.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516110000 +0300" stop="20200516170000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516170000 +0300" stop="20200516173000 +0300">
+    <title lang="ru">Official UA TOP 40.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516173000 +0300" stop="20200516200000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516200000 +0300" stop="20200516210000 +0300">
+    <title lang="ru">Made in 90's.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200516210000 +0300" stop="20200517000000 +0300">
+    <title lang="ru">Hits.</title>
+  </programme>
+  <programme channel="MusicBox_UA" start="20200517000000 +0300" stop="20200517050000 +0300">
     <title lang="ru">Night Express.</title>
   </programme>
   <programme channel="Nastoawee_vrema" start="20200510050000 +0300" stop="20200510053000 +0300">
@@ -14016,8 +14661,740 @@
   <programme channel="Nastoawee_vrema" start="20200511010000 +0300" stop="20200511013000 +0300">
     <title lang="ru">Неделя.</title>
   </programme>
-  <programme channel="Nastoawee_vrema" start="20200511013000 +0300" stop="20200517050000 +0300">
+  <programme channel="Nastoawee_vrema" start="20200511013000 +0300" stop="20200511020000 +0300">
     <title lang="ru">Нью-Йорк, New York.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511020000 +0300" stop="20200511023000 +0300">
+    <title lang="ru">Америка. Большое путешествие.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511023000 +0300" stop="20200511030000 +0300">
+    <title lang="ru">Спецпроект Станислава Феофанова: Оставленные.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511030000 +0300" stop="20200511050500 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Процесс".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511050500 +0300" stop="20200511053000 +0300">
+    <title lang="ru">Признаки жизни.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511053000 +0300" stop="20200511060000 +0300">
+    <title lang="ru">Реальный Разговор. Элла Кесаева.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511060000 +0300" stop="20200511063000 +0300">
+    <title lang="ru">Итоги.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511063000 +0300" stop="20200511070000 +0300">
+    <title lang="ru">Нью-Йорк, New York.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511070000 +0300" stop="20200511073000 +0300">
+    <title lang="ru">Настоящий сериал. В моей голове.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511073000 +0300" stop="20200511080000 +0300">
+    <title lang="ru">Настоящий сериал. Владивосток.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511080000 +0300" stop="20200511083000 +0300">
+    <title lang="ru">Америка. Большое путешествие.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511083000 +0300" stop="20200511090000 +0300">
+    <title lang="ru">Смотри в оба.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511090000 +0300" stop="20200511093000 +0300">
+    <title lang="ru">Балтия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511093000 +0300" stop="20200511100000 +0300">
+    <title lang="ru">Ждем в гости.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511100000 +0300" stop="20200511110000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Процесс", 1 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511110000 +0300" stop="20200511110500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511110500 +0300" stop="20200511120000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Процесс", 2 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511120000 +0300" stop="20200511120500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511120500 +0300" stop="20200511123000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Процесс", 3 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511123000 +0300" stop="20200511130000 +0300">
+    <title lang="ru">Реальный Разговор. Элла Кесаева.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511130000 +0300" stop="20200511130500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511130500 +0300" stop="20200511133000 +0300">
+    <title lang="ru">Настоящий сериал. В моей голове.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511133000 +0300" stop="20200511140000 +0300">
+    <title lang="ru">Настоящий сериал. Владивосток.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511140000 +0300" stop="20200511140500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511140500 +0300" stop="20200511150000 +0300">
+    <title lang="ru">Археология.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511150000 +0300" stop="20200511150500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511150500 +0300" stop="20200511153000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511153000 +0300" stop="20200511160000 +0300">
+    <title lang="ru">Балтия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511160000 +0300" stop="20200511160500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511160500 +0300" stop="20200511170000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Событие", 1 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511170000 +0300" stop="20200511170500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511170500 +0300" stop="20200511180000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Событие", 2 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511180000 +0300" stop="20200511180500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511180500 +0300" stop="20200511183000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511183000 +0300" stop="20200511190000 +0300">
+    <title lang="ru">Спецпроект Станислава Феофанова: Оставленные.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511190000 +0300" stop="20200511193000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511193000 +0300" stop="20200511200000 +0300">
+    <title lang="ru">Ждем в гости.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511200000 +0300" stop="20200511210000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511210000 +0300" stop="20200511220000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511220000 +0300" stop="20200511222000 +0300">
+    <title lang="ru">Реальное кино с Виталием Манским.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200511222000 +0300" stop="20200512003000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Государственные похороны".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512003000 +0300" stop="20200512010000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512010000 +0300" stop="20200512020000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512020000 +0300" stop="20200512030000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512030000 +0300" stop="20200512032000 +0300">
+    <title lang="ru">Реальное кино с Виталием Манским.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512032000 +0300" stop="20200512053000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Государственные похороны".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512053000 +0300" stop="20200512060000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512060000 +0300" stop="20200512070000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512070000 +0300" stop="20200512080000 +0300">
+    <title lang="ru">Настоящий сериал. В центре бури.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512080000 +0300" stop="20200512090000 +0300">
+    <title lang="ru">Лицом к событию.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512090000 +0300" stop="20200512093000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512093000 +0300" stop="20200512100000 +0300">
+    <title lang="ru">Ждем в гости.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512100000 +0300" stop="20200512102000 +0300">
+    <title lang="ru">Реальное кино с Виталием Манским.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512102000 +0300" stop="20200512110000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Государственные похороны", 1 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512110000 +0300" stop="20200512110500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512110500 +0300" stop="20200512120000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Государственные похороны", 2 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512120000 +0300" stop="20200512120500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512120500 +0300" stop="20200512130000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Государственные похороны", 3 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512130000 +0300" stop="20200512130500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512130500 +0300" stop="20200512140000 +0300">
+    <title lang="ru">Настоящий сериал. В центре бури.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512140000 +0300" stop="20200512140500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512140500 +0300" stop="20200512150000 +0300">
+    <title lang="ru">Свобода в клубах.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512150000 +0300" stop="20200512150500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512150500 +0300" stop="20200512153000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512153000 +0300" stop="20200512160000 +0300">
+    <title lang="ru">Схемы.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512160000 +0300" stop="20200512160500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512160500 +0300" stop="20200512162500 +0300">
+    <title lang="ru">Реальное кино с Виталием Манским.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512162500 +0300" stop="20200512170000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Государственные похороны", 1 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512170000 +0300" stop="20200512170500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512170500 +0300" stop="20200512180000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Государственные похороны", 2 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512180000 +0300" stop="20200512180500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512180500 +0300" stop="20200512190000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Государственные похороны", 3 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512190000 +0300" stop="20200512193000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512193000 +0300" stop="20200512200000 +0300">
+    <title lang="ru">Неизвестная Россия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512200000 +0300" stop="20200512210000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512210000 +0300" stop="20200512220000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200512220000 +0300" stop="20200513000000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Raving Riot. Рейв у парламента".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513000000 +0300" stop="20200513003000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513003000 +0300" stop="20200513010000 +0300">
+    <title lang="ru">Неизвестная Россия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513010000 +0300" stop="20200513020000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513020000 +0300" stop="20200513030000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513030000 +0300" stop="20200513050000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Raving Riot. Рейв у парламента".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513050000 +0300" stop="20200513053000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513053000 +0300" stop="20200513060000 +0300">
+    <title lang="ru">Неизвестная Россия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513060000 +0300" stop="20200513070000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513070000 +0300" stop="20200513080000 +0300">
+    <title lang="ru">Настоящий сериал. Игра с опасностью.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513080000 +0300" stop="20200513090000 +0300">
+    <title lang="ru">Лицом к событию.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513090000 +0300" stop="20200513093000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513093000 +0300" stop="20200513100000 +0300">
+    <title lang="ru">Ждем в гости.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513100000 +0300" stop="20200513110000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Raving Riot. Рейв у парламента", 1 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513110000 +0300" stop="20200513110500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513110500 +0300" stop="20200513120000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Raving Riot. Рейв у парламента", 2 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513120000 +0300" stop="20200513120500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513120500 +0300" stop="20200513123000 +0300">
+    <title lang="ru">Схемы.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513123000 +0300" stop="20200513130000 +0300">
+    <title lang="ru">Неизвестная Россия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513130000 +0300" stop="20200513130500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513130500 +0300" stop="20200513140000 +0300">
+    <title lang="ru">Настоящий сериал. Игра с опасностью.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513140000 +0300" stop="20200513140500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513140500 +0300" stop="20200513150000 +0300">
+    <title lang="ru">Археология. Будущее.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513150000 +0300" stop="20200513150500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513150500 +0300" stop="20200513153000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513153000 +0300" stop="20200513160000 +0300">
+    <title lang="ru">Крым. Реалии.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513160000 +0300" stop="20200513160500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513160500 +0300" stop="20200513170000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Raving Riot. Рейв у парламента", 1 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513170000 +0300" stop="20200513170500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513170500 +0300" stop="20200513180000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Raving Riot. Рейв у парламента", 2 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513180000 +0300" stop="20200513180500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513180500 +0300" stop="20200513183000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513183000 +0300" stop="20200513190000 +0300">
+    <title lang="ru">Неизвестная Россия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513190000 +0300" stop="20200513193000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513193000 +0300" stop="20200513200000 +0300">
+    <title lang="ru">#ВУКРАИНЕ.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513200000 +0300" stop="20200513210000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513210000 +0300" stop="20200513220000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200513220000 +0300" stop="20200514000000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Песни Абдула".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514000000 +0300" stop="20200514003000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514003000 +0300" stop="20200514010000 +0300">
+    <title lang="ru">#ВУКРАИНЕ.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514010000 +0300" stop="20200514020000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514020000 +0300" stop="20200514030000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514030000 +0300" stop="20200514050000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Песни Абдула".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514050000 +0300" stop="20200514053000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514053000 +0300" stop="20200514060000 +0300">
+    <title lang="ru">#ВУКРАИНЕ.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514060000 +0300" stop="20200514070000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514070000 +0300" stop="20200514080000 +0300">
+    <title lang="ru">Настоящий сериал.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514080000 +0300" stop="20200514090000 +0300">
+    <title lang="ru">Лицом к событию.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514090000 +0300" stop="20200514093000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514093000 +0300" stop="20200514100000 +0300">
+    <title lang="ru">Ждем в гости.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514100000 +0300" stop="20200514110000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Песни Абдула", 1 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514110000 +0300" stop="20200514110500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514110500 +0300" stop="20200514120000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Песни Абдула", 2 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514120000 +0300" stop="20200514120500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514120500 +0300" stop="20200514123000 +0300">
+    <title lang="ru">Крым. Реалии.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514123000 +0300" stop="20200514130000 +0300">
+    <title lang="ru">#ВУКРАИНЕ.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514130000 +0300" stop="20200514130500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514130500 +0300" stop="20200514140000 +0300">
+    <title lang="ru">Настоящий сериал.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514140000 +0300" stop="20200514140500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514140500 +0300" stop="20200514143000 +0300">
+    <title lang="ru">Человек имеет право.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514143000 +0300" stop="20200514150000 +0300">
+    <title lang="ru">Деньги на свободе.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514150000 +0300" stop="20200514150500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514150500 +0300" stop="20200514153000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514153000 +0300" stop="20200514160000 +0300">
+    <title lang="ru">Донбасс. Реалии.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514160000 +0300" stop="20200514160500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514160500 +0300" stop="20200514170000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Песни Абдула", 1 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514170000 +0300" stop="20200514170500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514170500 +0300" stop="20200514180000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Песни Абдула", 2 ч.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514180000 +0300" stop="20200514180500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514180500 +0300" stop="20200514183000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514183000 +0300" stop="20200514190000 +0300">
+    <title lang="ru">#ВУКРАИНЕ.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514190000 +0300" stop="20200514193000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514193000 +0300" stop="20200514200000 +0300">
+    <title lang="ru">Человек на карте.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514200000 +0300" stop="20200514210000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514210000 +0300" stop="20200514220000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514220000 +0300" stop="20200514230000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Странные частицы".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200514230000 +0300" stop="20200515000000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Саламанка".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515000000 +0300" stop="20200515003000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515003000 +0300" stop="20200515010000 +0300">
+    <title lang="ru">Человек на карте.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515010000 +0300" stop="20200515020000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515020000 +0300" stop="20200515030000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515030000 +0300" stop="20200515040000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Странные частицы".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515040000 +0300" stop="20200515050000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Саламанка".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515050000 +0300" stop="20200515053000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515053000 +0300" stop="20200515060000 +0300">
+    <title lang="ru">Человек на карте.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515060000 +0300" stop="20200515070000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515070000 +0300" stop="20200515073000 +0300">
+    <title lang="ru">Настоящий сериал.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515073000 +0300" stop="20200515080000 +0300">
+    <title lang="ru">Азия 360.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515080000 +0300" stop="20200515090000 +0300">
+    <title lang="ru">Лицом к событию.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515090000 +0300" stop="20200515093000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515093000 +0300" stop="20200515100000 +0300">
+    <title lang="ru">Ждем в гости.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515100000 +0300" stop="20200515110000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Странные частицы".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515110000 +0300" stop="20200515110500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515110500 +0300" stop="20200515120000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Саламанка".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515120000 +0300" stop="20200515120500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515120500 +0300" stop="20200515123000 +0300">
+    <title lang="ru">Донбасс. Реалии.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515123000 +0300" stop="20200515130000 +0300">
+    <title lang="ru">Человек на карте.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515130000 +0300" stop="20200515130500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515130500 +0300" stop="20200515133000 +0300">
+    <title lang="ru">Настоящий сериал.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515133000 +0300" stop="20200515140000 +0300">
+    <title lang="ru">Азия 360.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515140000 +0300" stop="20200515140500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515140500 +0300" stop="20200515143000 +0300">
+    <title lang="ru">DW. Интервью.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515143000 +0300" stop="20200515150000 +0300">
+    <title lang="ru">Перекресток.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515150000 +0300" stop="20200515150500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515150500 +0300" stop="20200515153000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515153000 +0300" stop="20200515160000 +0300">
+    <title lang="ru">Ждем в гости.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515160000 +0300" stop="20200515160500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515160500 +0300" stop="20200515170000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Странные частицы".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515170000 +0300" stop="20200515170500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515170500 +0300" stop="20200515180000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Саламанка".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515180000 +0300" stop="20200515180500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515180500 +0300" stop="20200515183000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515183000 +0300" stop="20200515190000 +0300">
+    <title lang="ru">Перекресток.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515190000 +0300" stop="20200515193000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515193000 +0300" stop="20200515200000 +0300">
+    <title lang="ru">Смотри в оба.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515200000 +0300" stop="20200515210000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515210000 +0300" stop="20200515220000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515220000 +0300" stop="20200515230000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Дорога".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200515230000 +0300" stop="20200516000000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Красота".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516000000 +0300" stop="20200516003000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516003000 +0300" stop="20200516010000 +0300">
+    <title lang="ru">Смотри в оба.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516010000 +0300" stop="20200516020000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516020000 +0300" stop="20200516030000 +0300">
+    <title lang="ru">Вечер.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516030000 +0300" stop="20200516040000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Дорога".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516040000 +0300" stop="20200516050000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Красота".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516050000 +0300" stop="20200516053000 +0300">
+    <title lang="ru">Азия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516053000 +0300" stop="20200516060000 +0300">
+    <title lang="ru">Смотри в оба.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516060000 +0300" stop="20200516070000 +0300">
+    <title lang="ru">Америка.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516070000 +0300" stop="20200516074000 +0300">
+    <title lang="ru">Настоящий сериал.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516074000 +0300" stop="20200516080000 +0300">
+    <title lang="ru">Открытый урок.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516080000 +0300" stop="20200516090000 +0300">
+    <title lang="ru">Лицом к событию.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516090000 +0300" stop="20200516093000 +0300">
+    <title lang="ru">Главное.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516093000 +0300" stop="20200516100000 +0300">
+    <title lang="ru">Ждем в гости.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516100000 +0300" stop="20200516110000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Дорога".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516110000 +0300" stop="20200516120000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Красота".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516120000 +0300" stop="20200516120500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516120500 +0300" stop="20200516123000 +0300">
+    <title lang="ru">DW. Интервью.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516123000 +0300" stop="20200516130000 +0300">
+    <title lang="ru">Смотри в оба.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516130000 +0300" stop="20200516130500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516130500 +0300" stop="20200516134000 +0300">
+    <title lang="ru">Настоящий сериал.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516134000 +0300" stop="20200516140000 +0300">
+    <title lang="ru">Открытый урок.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516140000 +0300" stop="20200516140500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516140500 +0300" stop="20200516143000 +0300">
+    <title lang="ru">Дороги к свободе.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516143000 +0300" stop="20200516150000 +0300">
+    <title lang="ru">Пятое время года.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516150000 +0300" stop="20200516150500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516150500 +0300" stop="20200516160000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Дорога".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516160000 +0300" stop="20200516160500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516160500 +0300" stop="20200516170000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Красота".</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516170000 +0300" stop="20200516170500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516170500 +0300" stop="20200516180000 +0300">
+    <title lang="ru">Ждем в гости.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516180000 +0300" stop="20200516180500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516180500 +0300" stop="20200516190000 +0300">
+    <title lang="ru">Настоящий сериал. В поисках звука.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516190000 +0300" stop="20200516190500 +0300">
+    <title lang="ru">Новости. Коротко.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516190500 +0300" stop="20200516193000 +0300">
+    <title lang="ru">Человек на карте.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516193000 +0300" stop="20200516200000 +0300">
+    <title lang="ru">Балтия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516200000 +0300" stop="20200516203000 +0300">
+    <title lang="ru">Итоги.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516203000 +0300" stop="20200516210000 +0300">
+    <title lang="ru">Детали.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516210000 +0300" stop="20200516213000 +0300">
+    <title lang="ru">#ВУКРАИНЕ.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516213000 +0300" stop="20200516220000 +0300">
+    <title lang="ru">DW. Интервью.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516220000 +0300" stop="20200516222000 +0300">
+    <title lang="ru">Реальное кино с Виталием Манским.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200516222000 +0300" stop="20200517000000 +0300">
+    <title lang="ru">Реальное кино.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200517000000 +0300" stop="20200517003000 +0300">
+    <title lang="ru">Человек на карте.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200517003000 +0300" stop="20200517010000 +0300">
+    <title lang="ru">Балтия.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200517010000 +0300" stop="20200517013000 +0300">
+    <title lang="ru">Итоги.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200517013000 +0300" stop="20200517020000 +0300">
+    <title lang="ru">Детали.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200517020000 +0300" stop="20200517023000 +0300">
+    <title lang="ru">#ВУКРАИНЕ.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200517023000 +0300" stop="20200517030000 +0300">
+    <title lang="ru">Смотри в оба.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200517030000 +0300" stop="20200517032000 +0300">
+    <title lang="ru">Реальное кино с Виталием Манским.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20200517032000 +0300" stop="20200517050000 +0300">
+    <title lang="ru">Реальное кино.</title>
   </programme>
   <programme channel="NavigatorTV" start="20200510050500 +0300" stop="20200510060000 +0300">
     <title lang="ru">Документальное кино.</title>
@@ -14651,7 +16028,475 @@
   <programme channel="NewsOne" start="20200511000000 +0300" stop="20200511030000 +0300">
     <title lang="ru">Актуальные программы за неделю. Повтор.</title>
   </programme>
-  <programme channel="NewsOne" start="20200511030000 +0300" stop="20200517050000 +0300">
+  <programme channel="NewsOne" start="20200511030000 +0300" stop="20200511070000 +0300">
+    <title lang="ru">Актуальные программы за неделю. Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511070000 +0300" stop="20200511071500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511071500 +0300" stop="20200511080000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511080000 +0300" stop="20200511081500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511081500 +0300" stop="20200511090000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511090000 +0300" stop="20200511091500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511091500 +0300" stop="20200511100000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511100000 +0300" stop="20200511103000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Английский язык.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511103000 +0300" stop="20200511110000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Математика.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511110000 +0300" stop="20200511113000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Биология.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511113000 +0300" stop="20200511120000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511120000 +0300" stop="20200511121500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511121500 +0300" stop="20200511130000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511130000 +0300" stop="20200511131500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511131500 +0300" stop="20200511140000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511140000 +0300" stop="20200511141500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511141500 +0300" stop="20200511150000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511150000 +0300" stop="20200511151500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511151500 +0300" stop="20200511160000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511160000 +0300" stop="20200511161500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511161500 +0300" stop="20200511170000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511170000 +0300" stop="20200511171500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511171500 +0300" stop="20200511181500 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511181500 +0300" stop="20200511210000 +0300">
+    <title lang="ru">"Большой вечер". Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511210000 +0300" stop="20200511230000 +0300">
+    <title lang="ru">"Эпицентр украинской политики" с Вячеславом Пиховшеком. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511230000 +0300" stop="20200511231500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200511231500 +0300" stop="20200512070000 +0300">
+    <title lang="ru">Повторы. "Большой вечер", "Эпицентр украинской политики", Студия Live.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512070000 +0300" stop="20200512071500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512071500 +0300" stop="20200512080000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512080000 +0300" stop="20200512081500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512081500 +0300" stop="20200512090000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512090000 +0300" stop="20200512091500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512091500 +0300" stop="20200512100000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512100000 +0300" stop="20200512103000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Украинский язык.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512103000 +0300" stop="20200512110000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Математика.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512110000 +0300" stop="20200512113000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. География.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512113000 +0300" stop="20200512120000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512120000 +0300" stop="20200512121500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512121500 +0300" stop="20200512130000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512130000 +0300" stop="20200512131500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512131500 +0300" stop="20200512140000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512140000 +0300" stop="20200512141500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512141500 +0300" stop="20200512150000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512150000 +0300" stop="20200512151500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512151500 +0300" stop="20200512160000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512160000 +0300" stop="20200512161500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512161500 +0300" stop="20200512180000 +0300">
+    <title lang="ru">"Хронология эпидемии". Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512180000 +0300" stop="20200512181500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512181500 +0300" stop="20200512200000 +0300">
+    <title lang="ru">"Аргумент!". Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512200000 +0300" stop="20200512220000 +0300">
+    <title lang="ru">"Чёрный лебедь" с Вадимом Карасёвым. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512220000 +0300" stop="20200512230000 +0300">
+    <title lang="ru">"Субъективные итоги" с Дмитрием Спиваком. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512230000 +0300" stop="20200512232000 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512232000 +0300" stop="20200512234500 +0300">
+    <title lang="ru">"Я так думаю" с Русланом Коцабой. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200512234500 +0300" stop="20200513070000 +0300">
+    <title lang="ru">Повторы. "Чёрный лебедь", "Шоу Шелеста", Студия Live.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513070000 +0300" stop="20200513071500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513071500 +0300" stop="20200513080000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513080000 +0300" stop="20200513081500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513081500 +0300" stop="20200513090000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513090000 +0300" stop="20200513091500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513091500 +0300" stop="20200513100000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513100000 +0300" stop="20200513103000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Английский язык.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513103000 +0300" stop="20200513110000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Математика.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513110000 +0300" stop="20200513113000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. История.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513113000 +0300" stop="20200513120000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513120000 +0300" stop="20200513121500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513121500 +0300" stop="20200513130000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513130000 +0300" stop="20200513131500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513131500 +0300" stop="20200513140000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513140000 +0300" stop="20200513141500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513141500 +0300" stop="20200513150000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513150000 +0300" stop="20200513151500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513151500 +0300" stop="20200513160000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513160000 +0300" stop="20200513161500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513161500 +0300" stop="20200513180000 +0300">
+    <title lang="ru">"Хронология эпидемии". Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200513180000 +0300" stop="20200514000000 +0300">
+    <title lang="ru">"Украинский формат". Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514000000 +0300" stop="20200514002000 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514002000 +0300" stop="20200514070000 +0300">
+    <title lang="ru">Повторы. "Украинский формат", Студия Live.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514070000 +0300" stop="20200514071500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514071500 +0300" stop="20200514080000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514080000 +0300" stop="20200514081500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514081500 +0300" stop="20200514090000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514090000 +0300" stop="20200514091500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514091500 +0300" stop="20200514100000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514100000 +0300" stop="20200514103000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Украинский язык.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514103000 +0300" stop="20200514110000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Математика.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514110000 +0300" stop="20200514113000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Биология.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514113000 +0300" stop="20200514120000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514120000 +0300" stop="20200514121500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514121500 +0300" stop="20200514130000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514130000 +0300" stop="20200514131500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514131500 +0300" stop="20200514140000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514140000 +0300" stop="20200514141500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514141500 +0300" stop="20200514150000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514150000 +0300" stop="20200514151500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514151500 +0300" stop="20200514160000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514160000 +0300" stop="20200514161500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514161500 +0300" stop="20200514170000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514170000 +0300" stop="20200514171500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514171500 +0300" stop="20200514180000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514180000 +0300" stop="20200514200000 +0300">
+    <title lang="ru">"Большой вечер". Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514200000 +0300" stop="20200514210000 +0300">
+    <title lang="ru">"Большая тема". Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514210000 +0300" stop="20200514220000 +0300">
+    <title lang="ru">"Пятый угол. Развитие". Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514220000 +0300" stop="20200514230000 +0300">
+    <title lang="ru">"Наша дорога" с Евгением Червоненко.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514230000 +0300" stop="20200514232000 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200514232000 +0300" stop="20200515070000 +0300">
+    <title lang="ru">Повторы. "Большой вечер", "Большая тема", Студия Live.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515070000 +0300" stop="20200515071500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515071500 +0300" stop="20200515080000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515080000 +0300" stop="20200515081500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515081500 +0300" stop="20200515090000 +0300">
+    <title lang="ru">Утро на NewsOne. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515090000 +0300" stop="20200515091500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515091500 +0300" stop="20200515100000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515100000 +0300" stop="20200515103000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Украинский язык.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515103000 +0300" stop="20200515110000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. История.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515110000 +0300" stop="20200515113000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. Английский язык.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515113000 +0300" stop="20200515120000 +0300">
+    <title lang="ru">Всеукраинская школа online. 6 класс. География.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515120000 +0300" stop="20200515121500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515121500 +0300" stop="20200515130000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515130000 +0300" stop="20200515131500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515131500 +0300" stop="20200515140000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515140000 +0300" stop="20200515141500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515141500 +0300" stop="20200515150000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515150000 +0300" stop="20200515151500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515151500 +0300" stop="20200515160000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515160000 +0300" stop="20200515161500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515161500 +0300" stop="20200515170000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515170000 +0300" stop="20200515171500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515171500 +0300" stop="20200515180000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515180000 +0300" stop="20200515181500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515181500 +0300" stop="20200515190000 +0300">
+    <title lang="ru">"Большой вечер". Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200515190000 +0300" stop="20200516000000 +0300">
+    <title lang="ru">"Противостояние" с Дианой Панченко и Вячеславом Пиховшеком. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516000000 +0300" stop="20200516002000 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516002000 +0300" stop="20200516052000 +0300">
+    <title lang="ru">Повторы. "Противостояние", "Большой вечер", Студия Live.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516052000 +0300" stop="20200516100000 +0300">
+    <title lang="ru">"Противостояние" с Дианой Панченко и Вячеславом Пиховшеком. Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516100000 +0300" stop="20200516101000 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516101000 +0300" stop="20200516110000 +0300">
+    <title lang="ru">"Политика здоровья" с Ланой Шевчук. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516110000 +0300" stop="20200516111500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516111500 +0300" stop="20200516120000 +0300">
+    <title lang="ru">Студия Live. Прямой эфир.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516120000 +0300" stop="20200516121500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516121500 +0300" stop="20200516130000 +0300">
+    <title lang="ru">"Украинский формат". Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516130000 +0300" stop="20200516131500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516131500 +0300" stop="20200516140000 +0300">
+    <title lang="ru">"Украинский формат". Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516140000 +0300" stop="20200516141000 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516141000 +0300" stop="20200516150000 +0300">
+    <title lang="ru">"Украинский формат". Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516150000 +0300" stop="20200516151500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516151500 +0300" stop="20200516160000 +0300">
+    <title lang="ru">"Украинский формат". Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516160000 +0300" stop="20200516161500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516161500 +0300" stop="20200516170000 +0300">
+    <title lang="ru">"Украинский формат". Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516170000 +0300" stop="20200516171500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516171500 +0300" stop="20200516180000 +0300">
+    <title lang="ru">"Чёрный лебедь" с Вадимом Карасёвым. Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516180000 +0300" stop="20200516181500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516181500 +0300" stop="20200516190000 +0300">
+    <title lang="ru">"Чёрный лебедь" с Вадимом Карасёвым. Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516190000 +0300" stop="20200516191500 +0300">
+    <title lang="ru">TopNews.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516191500 +0300" stop="20200516211500 +0300">
+    <title lang="ru">"Эпицентр украинской политики" с Вячеславом Пиховшеком. Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516211500 +0300" stop="20200516221500 +0300">
+    <title lang="ru">"Большая тема".</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516221500 +0300" stop="20200516231000 +0300">
+    <title lang="ru">"Личная территория" с Еленой Кирик.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200516231000 +0300" stop="20200517040000 +0300">
+    <title lang="ru">Актуальные программы за неделю. Повтор.</title>
+  </programme>
+  <programme channel="NewsOne" start="20200517040000 +0300" stop="20200517050000 +0300">
     <title lang="ru">Актуальные программы за неделю. Повтор.</title>
   </programme>
   <programme channel="Nickelodeon_SNG" start="20200510051000 +0300" stop="20200510053000 +0300">
@@ -18286,35 +20131,35 @@
   <programme channel="Sony_Sci-Fi_Rossia" start="20200511053500 +0300" stop="20200517050000 +0300">
     <title lang="ru">М/с "Люди в черном", 4 сезон, 10 с.</title>
   </programme>
-  <programme channel="Sport_1" start="20200510072000 +0300" stop="20200510084000 +0300">
+  <programme channel="Sport_1" start="20200510072000 +0300" stop="20200510083000 +0300">
     <title lang="ru">Бокс.</title>
   </programme>
-  <programme channel="Sport_1" start="20200510084000 +0300" stop="20200510102000 +0300">
+  <programme channel="Sport_1" start="20200510083000 +0300" stop="20200510100500 +0300">
     <title lang="ru">Баскетбол. Чемпионат Турции. Суперлига. Пынар Каршияка - Газиантеп.</title>
   </programme>
-  <programme channel="Sport_1" start="20200510102000 +0300" stop="20200510120000 +0300">
+  <programme channel="Sport_1" start="20200510100500 +0300" stop="20200510115000 +0300">
     <title lang="ru">Футбол. Чемпионат Беларуси. Высшая лига. Славия-Мозырь - Торпедо-БелАЗ.</title>
   </programme>
-  <programme channel="Sport_1" start="20200510120000 +0300" stop="20200510135500 +0300">
+  <programme channel="Sport_1" start="20200510115000 +0300" stop="20200510135500 +0300">
     <title lang="ru">BVB-TV. Футбол. Лига чемпионов. 1/8 финала. Боруссия Дортмунд (Германия) - ПСЖ (Франция).</title>
   </programme>
-  <programme channel="Sport_1" start="20200510135500 +0300" stop="20200510155500 +0300">
+  <programme channel="Sport_1" start="20200510135500 +0300" stop="20200510160000 +0300">
     <title lang="ru">Футбол. Чемпионат Беларуси. Высшая лига. Ислочь - Белшина. Прямая трансляция.</title>
   </programme>
-  <programme channel="Sport_1" start="20200510155500 +0300" stop="20200510175500 +0300">
+  <programme channel="Sport_1" start="20200510160000 +0300" stop="20200510180000 +0300">
     <title lang="ru">Футбол. Чемпионат Беларуси. Высшая лига. Витебск - Шахтёр. Прямая трансляция.</title>
   </programme>
-  <programme channel="Sport_1" start="20200510175500 +0300" stop="20200510195500 +0300">
+  <programme channel="Sport_1" start="20200510180000 +0300" stop="20200510200000 +0300">
     <title lang="ru">Футбол. Чемпионат Беларуси. Высшая лига. Смолевичи - БАТЭ. Прямая трансляция.</title>
   </programme>
-  <programme channel="Sport_1" start="20200510195500 +0300" stop="20200510220000 +0300">
+  <programme channel="Sport_1" start="20200510200000 +0300" stop="20200510220500 +0300">
     <title lang="ru">Футбол. Чемпионат Беларуси. Высшая лига. Динамо-Брест - Динамо-Минск. Прямая трансляция.</title>
   </programme>
-  <programme channel="Sport_1" start="20200510220000 +0300" stop="20200510234000 +0300">
+  <programme channel="Sport_1" start="20200510220500 +0300" stop="20200510234500 +0300">
     <title lang="ru">Футбол. Чемпионат Португалии. Примейра. Спортинг - Боавишта.</title>
   </programme>
-  <programme channel="Sport_1" start="20200510234000 +0300" stop="20200517050000 +0300">
-    <title lang="ru">Бокс.</title>
+  <programme channel="Sport_1" start="20200510234500 +0300" stop="20200517050000 +0300">
+    <title lang="ru">Территория оружия.</title>
   </programme>
   <programme channel="Star_Family" start="20200510053500 +0300" stop="20200510060000 +0300">
     <title lang="ru">"Сказание о крещении Руси".</title>
@@ -18375,13 +20220,360 @@
 
 Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
   </programme>
-  <programme channel="Star_Family" start="20200511042500 +0300" stop="20200517050000 +0300">
+  <programme channel="Star_Family" start="20200511042500 +0300" stop="20200511060000 +0300">
     <title lang="ru">Х/ф "Время грехов".</title>
     <desc lang="ru">Украина, 2008, драма / криминал / детектив
 Режиссер: Павел Тупик
 Актеры: Константин Милованов, Елена Панова, Игорь Савочкин, Павел Трубинер, Иван Марченко, Леся Самаева, Александр Бобков
 
 Однажды вечером, возвращаясь с похорон тещи, Игорь с женой Зиной и ее братом Олегом находят на горной дороге попавший под лавину автомобиль с телами двух погибших. В багажнике лежит набитая валютой сумка. О том, чтобы сдать деньги в милицию, не может быть и речи: у каждого в этой семье свои заветные планы, и ради их воплощения Игорь, Зина и Олег готовы на все, даже если для этого потребуется... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200511060000 +0300" stop="20200511091500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 31-34 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200511091500 +0300" stop="20200511111000 +0300">
+    <title lang="ru">Х/ф "Солнцеворот".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200511111000 +0300" stop="20200511124500 +0300">
+    <title lang="ru">Х/ф "Время грехов".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200511124500 +0300" stop="20200511142000 +0300">
+    <title lang="ru">Х/ф "Ванька".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200511142000 +0300" stop="20200511173500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 33-36 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200511173500 +0300" stop="20200511192500 +0300">
+    <title lang="ru">Т/с "Штрафник", 11 и 12 с.</title>
+    <desc lang="ru">Россия-Украина, 2016, детектив / криминал
+Режиссер: Олег Фомин
+Актеры: Кирилл Сафонов, Максим Дрозд, Иева Андреевайте, Олег Фомин, Константин Милованов, Анастасия Немец, Екатерина Волкова
+
+1946 год, СССР. Страна ещё не успела оправиться после Великой Отечественной войны. Большая часть населения находится за чертой бедности, а органы правопорядка оказались обескровленными. На борьбу с бандитами, которые чувствуют свою безнаказанность, брошены все оставшиеся силы.  Капитан Игнат Белов возвращается домой после демобилизации. В поезде он встречает преступника Сыча, с которым бывший... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200511192500 +0300" stop="20200511211000 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 1 и 2 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200511211000 +0300" stop="20200511224500 +0300">
+    <title lang="ru">Х/ф "Ищите маму".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200511224500 +0300" stop="20200512004000 +0300">
+    <title lang="ru">Х/ф "Солнцеворот".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200512004000 +0300" stop="20200512022500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 35 и 36 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200512022500 +0300" stop="20200512041500 +0300">
+    <title lang="ru">Т/с "Штрафник", 11 и 12 с.</title>
+    <desc lang="ru">Россия-Украина, 2016, детектив / криминал
+Режиссер: Олег Фомин
+Актеры: Кирилл Сафонов, Максим Дрозд, Иева Андреевайте, Олег Фомин, Константин Милованов, Анастасия Немец, Екатерина Волкова
+
+1946 год, СССР. Страна ещё не успела оправиться после Великой Отечественной войны. Большая часть населения находится за чертой бедности, а органы правопорядка оказались обескровленными. На борьбу с бандитами, которые чувствуют свою безнаказанность, брошены все оставшиеся силы.  Капитан Игнат Белов возвращается домой после демобилизации. В поезде он встречает преступника Сыча, с которым бывший... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200512041500 +0300" stop="20200512060000 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 1 и 2 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200512060000 +0300" stop="20200512091500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 33-36 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200512091500 +0300" stop="20200512105000 +0300">
+    <title lang="ru">Х/ф "Ищите маму".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200512105000 +0300" stop="20200512124500 +0300">
+    <title lang="ru">Х/ф "Солнцеворот".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200512124500 +0300" stop="20200512141000 +0300">
+    <title lang="ru">Х/ф "Агентство "Мечта".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200512141000 +0300" stop="20200512172500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 35-38 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200512172500 +0300" stop="20200512205000 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 1-4 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200512205000 +0300" stop="20200512223000 +0300">
+    <title lang="ru">Х/ф "От тюрьмы и от сумы...".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200512223000 +0300" stop="20200513000000 +0300">
+    <title lang="ru">Х/ф "Ищите маму".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200513000000 +0300" stop="20200513014000 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 37 и 38 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200513014000 +0300" stop="20200513050500 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 1-4 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200513050500 +0300" stop="20200513060000 +0300">
+    <title lang="ru">"Открытый космос", 1 эп.</title>
+  </programme>
+  <programme channel="Star_Family" start="20200513060000 +0300" stop="20200513091000 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 35-38 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200513091000 +0300" stop="20200513105000 +0300">
+    <title lang="ru">Х/ф "От тюрьмы и от сумы...".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200513105000 +0300" stop="20200513122500 +0300">
+    <title lang="ru">Х/ф "Ищите маму".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200513122500 +0300" stop="20200513140500 +0300">
+    <title lang="ru">Х/ф "Папа напрокат".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200513140500 +0300" stop="20200513172000 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 37-40 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200513172000 +0300" stop="20200513204500 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 3-6 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200513204500 +0300" stop="20200513222500 +0300">
+    <title lang="ru">Х/ф "Плохая соседка".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200513222500 +0300" stop="20200514000000 +0300">
+    <title lang="ru">Х/ф "От тюрьмы и от сумы...".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200514000000 +0300" stop="20200514014000 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 39 и 40 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200514014000 +0300" stop="20200514050500 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 3-6 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200514050500 +0300" stop="20200514060000 +0300">
+    <title lang="ru">"Открытый космос", 2 эп.</title>
+  </programme>
+  <programme channel="Star_Family" start="20200514060000 +0300" stop="20200514091500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 37-40 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200514091500 +0300" stop="20200514105500 +0300">
+    <title lang="ru">Х/ф "Плохая соседка".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200514105500 +0300" stop="20200514123000 +0300">
+    <title lang="ru">Х/ф "От тюрьмы и от сумы...".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200514123000 +0300" stop="20200514141000 +0300">
+    <title lang="ru">Х/ф "Идеальная жена".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200514141000 +0300" stop="20200514172500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 39-42 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200514172500 +0300" stop="20200514205500 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 5-8 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200514205500 +0300" stop="20200514222500 +0300">
+    <title lang="ru">Х/ф "Чужие души".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200514222500 +0300" stop="20200515000500 +0300">
+    <title lang="ru">Х/ф "Плохая соседка".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200515000500 +0300" stop="20200515014500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 41 и 42 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200515014500 +0300" stop="20200515051000 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 5-8 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200515051000 +0300" stop="20200515060000 +0300">
+    <title lang="ru">"Открытый космос", 3 эп.</title>
+  </programme>
+  <programme channel="Star_Family" start="20200515060000 +0300" stop="20200515091500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 39-42 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200515091500 +0300" stop="20200515104500 +0300">
+    <title lang="ru">Х/ф "Чужие души".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200515104500 +0300" stop="20200515122500 +0300">
+    <title lang="ru">Х/ф "Плохая соседка".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200515122500 +0300" stop="20200515140000 +0300">
+    <title lang="ru">Х/ф "Время грехов".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200515140000 +0300" stop="20200515171500 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 41-44 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200515171500 +0300" stop="20200515205000 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 7-10 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200515205000 +0300" stop="20200515223500 +0300">
+    <title lang="ru">Х/ф "Осенний вальс".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200515223500 +0300" stop="20200516000000 +0300">
+    <title lang="ru">Х/ф "Чужие души".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200516000000 +0300" stop="20200516014000 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 43 и 44 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200516014000 +0300" stop="20200516051500 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 7-10 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200516051500 +0300" stop="20200516060000 +0300">
+    <title lang="ru">"Титаник", 1 эп.</title>
+  </programme>
+  <programme channel="Star_Family" start="20200516060000 +0300" stop="20200516100000 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 35-39 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200516100000 +0300" stop="20200516140000 +0300">
+    <title lang="ru">Т/с "Сестры по крови", 40-44 с.</title>
+    <desc lang="ru">Украина, 2006, 
+Режиссер: Валерий Рожко
+Актеры: Мария Куликова, Наталья Лесниковская, Елена Коренева, Сергей Астахов, Ева Авеева, Сергей Колесников, Игорь Письменный
+
+Жизнь двух главных героинь - молодой бизнес-леди Доминики Никитиной и рыночной торговки Маргариты Калашниковой - соединяет случай. Беременная Доминика попадает в аварию, ей срочно необходимое переливание крови, а у Риты как раз оказывается нужная - чрезвычайно редкая - группа крови. После этого становится очевидным, что молодых женщин из абсолютно разных социальных групп странным образом... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200516140000 +0300" stop="20200516154500 +0300">
+    <title lang="ru">Х/ф "Осенний вальс".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200516154500 +0300" stop="20200516171500 +0300">
+    <title lang="ru">Х/ф "Чужие души".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200516171500 +0300" stop="20200516185000 +0300">
+    <title lang="ru">Х/ф "Ищите маму".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200516185000 +0300" stop="20200516203000 +0300">
+    <title lang="ru">Х/ф "Плохая соседка".</title>
+  </programme>
+  <programme channel="Star_Family" start="20200516203000 +0300" stop="20200517004500 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 1-5 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
+  </programme>
+  <programme channel="Star_Family" start="20200517004500 +0300" stop="20200517050000 +0300">
+    <title lang="ru">Т/с "Двойная жизнь", 6-10 с.</title>
+    <desc lang="ru">Украина, 2013, мелодрама
+Режиссер: Дмитрий Лактионов
+Актеры: Екатерина Волкова, Екатерина Олькина, Валерий Николаев, Федор Лавров, Владимир Симонов, Игорь Пазыч, Валентин Букин
+
+Марк Ершов живет в гражданском браке с Катей Савельевой. У них есть двое детей: подросток Кирилл и младшая дочь Аня. Большую часть времени Марк находится в командировках, поскольку работает в строительной компании и лично контролирует объекты. Но на самом деле Ершов использует это словно ширму для другой жизни. Год назад Марк взял в законные жены Нину - молодую и амбициозную женщину. При этом он... </desc>
   </programme>
   <programme channel="STB" start="20200510055000 +0300" stop="20200510074000 +0300">
     <title lang="ru">"Невероятная правда о звездах".</title>
@@ -18544,52 +20736,52 @@
   <programme channel="Ternopil__1" start="20200510231500 +0300" stop="20200517050000 +0300">
     <title lang="ru">Реаліті-шоу "Ти - красива".</title>
   </programme>
-  <programme channel="TET" start="20200510055500 +0300" stop="20200510060000 +0300">
+  <programme channel="TET" start="20200510055500 +0300" stop="20200510061500 +0300">
     <title lang="ru">Полезные подсказки.</title>
   </programme>
-  <programme channel="TET" start="20200510060000 +0300" stop="20200510060500 +0300">
+  <programme channel="TET" start="20200510061500 +0300" stop="20200510062000 +0300">
     <title lang="ru">Это наше и это твое.</title>
   </programme>
-  <programme channel="TET" start="20200510060500 +0300" stop="20200510061500 +0300">
+  <programme channel="TET" start="20200510062000 +0300" stop="20200510063000 +0300">
     <title lang="ru">ТЕТ Мультиутро. М/с "ПочеМуха".</title>
   </programme>
-  <programme channel="TET" start="20200510061500 +0300" stop="20200510062500 +0300">
+  <programme channel="TET" start="20200510063000 +0300" stop="20200510064000 +0300">
     <title lang="ru">М/с "Фиксики".</title>
   </programme>
-  <programme channel="TET" start="20200510062500 +0300" stop="20200510065500 +0300">
+  <programme channel="TET" start="20200510064000 +0300" stop="20200510070000 +0300">
     <title lang="ru">М/с "Губка Боб Квадратные Штаны".</title>
   </programme>
-  <programme channel="TET" start="20200510065500 +0300" stop="20200510070500 +0300">
+  <programme channel="TET" start="20200510070000 +0300" stop="20200510072000 +0300">
     <title lang="ru">М/с "Фиксики".</title>
   </programme>
-  <programme channel="TET" start="20200510070500 +0300" stop="20200510083000 +0300">
+  <programme channel="TET" start="20200510072000 +0300" stop="20200510083500 +0300">
     <title lang="ru">М/с "Губка Боб Квадратные Штаны".</title>
   </programme>
-  <programme channel="TET" start="20200510083000 +0300" stop="20200510090000 +0300">
+  <programme channel="TET" start="20200510083500 +0300" stop="20200510090000 +0300">
     <title lang="ru">М/с "Монстры против пришельцев".</title>
   </programme>
-  <programme channel="TET" start="20200510090000 +0300" stop="20200510093000 +0300">
+  <programme channel="TET" start="20200510090000 +0300" stop="20200510092500 +0300">
     <title lang="ru">М/с "Кунг-фу панда: Удивительные легенды".</title>
   </programme>
-  <programme channel="TET" start="20200510093000 +0300" stop="20200510100000 +0300">
+  <programme channel="TET" start="20200510092500 +0300" stop="20200510095500 +0300">
     <title lang="ru">М/с "Пингвины из "Мадагаскара".</title>
   </programme>
-  <programme channel="TET" start="20200510100000 +0300" stop="20200510103000 +0300">
+  <programme channel="TET" start="20200510095500 +0300" stop="20200510102000 +0300">
     <title lang="ru">М/с "Губка Боб Квадратные Штаны".</title>
   </programme>
-  <programme channel="TET" start="20200510103000 +0300" stop="20200510110000 +0300">
+  <programme channel="TET" start="20200510102000 +0300" stop="20200510104500 +0300">
     <title lang="ru">М/с "Кунг-фу панда: Удивительные легенды".</title>
   </programme>
-  <programme channel="TET" start="20200510110000 +0300" stop="20200510113000 +0300">
+  <programme channel="TET" start="20200510104500 +0300" stop="20200510111000 +0300">
     <title lang="ru">М/с "Пингвины из "Мадагаскара".</title>
   </programme>
-  <programme channel="TET" start="20200510113000 +0300" stop="20200510130000 +0300">
+  <programme channel="TET" start="20200510111000 +0300" stop="20200510123000 +0300">
     <title lang="ru">М/ф "Девять".</title>
   </programme>
-  <programme channel="TET" start="20200510130000 +0300" stop="20200510160000 +0300">
+  <programme channel="TET" start="20200510123000 +0300" stop="20200510155000 +0300">
     <title lang="ru">4 свадьбы, 5 сезон.</title>
   </programme>
-  <programme channel="TET" start="20200510160000 +0300" stop="20200510170000 +0300">
+  <programme channel="TET" start="20200510155000 +0300" stop="20200510170000 +0300">
     <title lang="ru">4 свадьбы, 4 сезон.</title>
   </programme>
   <programme channel="TET" start="20200510170000 +0300" stop="20200510190000 +0300">
@@ -18624,19 +20816,19 @@
   <programme channel="TET" start="20200510223000 +0300" stop="20200510230000 +0300">
     <title lang="ru">Т/с "Однажды под Полтавой", 8 сезон.</title>
   </programme>
-  <programme channel="TET" start="20200510230000 +0300" stop="20200511010000 +0300">
+  <programme channel="TET" start="20200510230000 +0300" stop="20200511005000 +0300">
     <title lang="ru">Краина У.</title>
   </programme>
-  <programme channel="TET" start="20200511010000 +0300" stop="20200511014000 +0300">
+  <programme channel="TET" start="20200511005000 +0300" stop="20200511013000 +0300">
     <title lang="ru">Т/с "Дневники Темного", 33 с.</title>
   </programme>
-  <programme channel="TET" start="20200511014000 +0300" stop="20200511025000 +0300">
+  <programme channel="TET" start="20200511013000 +0300" stop="20200511021500 +0300">
     <title lang="ru">17+.</title>
   </programme>
-  <programme channel="TET" start="20200511025000 +0300" stop="20200511034000 +0300">
+  <programme channel="TET" start="20200511021500 +0300" stop="20200511030000 +0300">
     <title lang="ru">Теория измены.</title>
   </programme>
-  <programme channel="TET" start="20200511034000 +0300" stop="20200511043000 +0300">
+  <programme channel="TET" start="20200511030000 +0300" stop="20200511035500 +0300">
     <title lang="ru">Т/с "Домашний арест", 5 и 6 с.</title>
     <desc lang="ru">Украина, 2010, комедия
 Режиссер: Антон Гойда
@@ -18644,7 +20836,7 @@
 
 Костик Малуха торгует рыбой, из-за чего его повсеместно сопровождает аромат морепродуктов. Больше всего на свете он любит пить пиво и смотреть телевизор. Но домашние заботы постоянно мешают ему предаваться любимым занятиям. Костик мечтает о холостяцкой жизни, которой он наслаждался до своей женитьбы 15 лет назад.  Его супруга Наталья ведёт домашнее хозяйство. Большая часть времени у неё уходит на... </desc>
   </programme>
-  <programme channel="TET" start="20200511043000 +0300" stop="20200511055000 +0300">
+  <programme channel="TET" start="20200511035500 +0300" stop="20200511055000 +0300">
     <title lang="ru">Т/с "Виталька".</title>
     <desc lang="ru">Украина, 2012-, комедия
 Режиссер: Иван Ясной
