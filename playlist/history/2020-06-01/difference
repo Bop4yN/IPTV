@@ -1,0 +1,12 @@
+*** /dev/fd/63	2020-06-01 01:00:06.850721823 +0300
+--- /dev/fd/62	2020-06-01 01:00:06.854725777 +0300
+***************
+*** 122 ****
+! #EXTINF:0 mono=0 tvg-name=«36_6_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/36.6.jpg» ,36.6
+--- 122 ----
+! #EXTINF:0 mono=0 tvg-name=«36_6_TV» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/36.6.jpg» ,36.6 HD
+***************
+*** 166 ****
+! #EXTINF:0 mono=0 tvg-name=«»  ,Paramount Chennel HD
+--- 166 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/paramount_ch.jpg» ,Paramount Chennel HD

@@ -1,6 +1,6 @@
 #EXTINF:0 mono=0 tvg-name="Paramount_Comedy_Ukraina" tvg-logo="Paramount%20Comedy.png" group-title="Фильмы" ,Paramount Comedy
 http://192.168.1.1:4022/udp/239.2.1.19:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="Paramount%20Channel.png"  ,Paramount Channel HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Paramount%20Channel.png" ,Paramount Channel HD
 http://192.168.1.1:4022/udp/239.2.1.89:1234
 #EXTINF:0 mono=0 tvg-name="Enter-film" tvg-logo="Enter-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.png" ,Enter-фильм
 http://192.168.1.1:4022/udp/239.2.1.61:1234

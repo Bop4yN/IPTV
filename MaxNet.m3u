@@ -119,7 +119,7 @@ http://192.168.1.1:4022/udp/239.2.1.53:1234
 http://192.168.1.1:4022/udp/239.2.1.54:1234
 #EXTINF:0 mono=0 tvg-name="Indigo" tvg-logo="%D0%98%D0%BD%D0%B4%D0%B8%D0%B3%D0%BE%20%D0%A2%D0%92.png" ,Индиго ТВ HD
 http://192.168.1.1:4022/udp/239.2.1.46:1234
-#EXTINF:0 mono=0 tvg-name="36_6_TV" tvg-logo="36.6%20TV.png" ,36.6 TV
+#EXTINF:0 mono=0 tvg-name="36_6_TV" tvg-logo="36.6%20TV.png" ,36.6 TV HD
 http://192.168.1.1:4022/udp/239.2.1.77:1234
 #EXTINF:0 mono=0 tvg-name="Eurosport_1" tvg-logo="Eurosport%201.png" group-title="Спорт" ,Eurosport 1
 http://192.168.1.1:4022/udp/239.2.1.66:1234
@@ -163,7 +163,7 @@ http://192.168.1.1:4022/udp/239.2.1.48:1234
 http://192.168.1.1:4022/udp/239.2.1.75:1234
 #EXTINF:0 mono=0 tvg-name="Paramount_Comedy_Ukraina" tvg-logo="Paramount%20Comedy.png" group-title="Фильмы" ,Paramount Comedy
 http://192.168.1.1:4022/udp/239.2.1.19:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="Paramount%20Channel.png"  ,Paramount Channel HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Paramount%20Channel.png" ,Paramount Channel HD
 http://192.168.1.1:4022/udp/239.2.1.89:1234
 #EXTINF:0 mono=0 tvg-name="Enter-film" tvg-logo="Enter-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.png" ,Enter-фильм
 http://192.168.1.1:4022/udp/239.2.1.61:1234
