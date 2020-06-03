@@ -119,7 +119,7 @@ udp://@239.2.1.53:1234
 udp://@239.2.1.54:1234
 #EXTINF:0 mono=0 tvg-name="Indigo" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/indigotv.jpg" ,Индиго ТВ HD
 udp://@239.2.1.46:1234
-#EXTINF:0 mono=0 tvg-name="36_6_TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/36.6.jpg" ,36.6
+#EXTINF:0 mono=0 tvg-name="36_6_TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/36.6.jpg" ,36.6 HD
 udp://@239.2.1.77:1234
 #EXTINF:0 mono=0 tvg-name="Eurosport_1" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/eurosport.jpg" group-title="Спорт" ,Eurosport
 udp://@239.2.1.66:1234
@@ -163,7 +163,7 @@ udp://@239.2.1.48:1234
 udp://@239.2.1.75:1234
 #EXTINF:0 mono=0 tvg-name="Paramount_Comedy_Ukraina" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/Paramount_Comedy.jpg" group-title="Фильмы" ,Paramount Comedy
 udp://@239.2.1.19:1234
-#EXTINF:0 mono=0 tvg-name=""  ,Paramount Chennel HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/paramount_ch.jpg" ,Paramount Chennel HD
 udp://@239.2.1.89:1234
 #EXTINF:0 mono=0 tvg-name="Enter-film" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/enterfilm.jpg" ,Enter-фильм
 udp://@239.2.1.61:1234
