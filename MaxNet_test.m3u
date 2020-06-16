@@ -1,0 +1,184 @@
+﻿#EXTM3U url-logos="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/"
+#EXTM3U url-tvg="http://tv.maxnet.ua/temp/programm_jtv.zip"
+#EXTINF:0 mono=0 tvg-name="UA:Харьков" tvg-logo="UA%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2.png" group-title="Харьковские" ,UA:Харьков
+http://192.168.1.1:4022/udp/239.2.1.17:1234
+#EXTINF:0 mono=0 tvg-name="Simon" tvg-logo="Simon.png" ,Simon
+http://192.168.1.1:4022/udp/239.2.1.38:1234
+#EXTINF:0 mono=0 tvg-name="S-TET" tvg-logo="S-TET.png" ,S-TET
+http://192.168.1.1:4022/udp/239.2.1.39:1234
+#EXTINF:0 mono=0 tvg-name="7-й канал" tvg-logo="7-%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png" ,7-й канал
+http://192.168.1.1:4022/udp/239.2.1.40:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%90%D0%A2%D0%92%D0%9A.png" ,АТВК
+http://192.168.1.1:4022/udp/239.2.1.35:1234
+#EXTINF:0 mono=0 tvg-name="1plus1" tvg-logo="1+1.png" group-title="Украинские" ,1+1 HD
+http://192.168.1.1:4022/udp/239.2.1.1:1234
+#EXTINF:0 mono=0 tvg-name="K1" tvg-logo="%D0%9A1.png" ,К1
+http://192.168.1.1:4022/udp/239.2.1.2:1234
+#EXTINF:0 mono=0 tvg-name="K2" tvg-logo="%D0%9A2.png" ,К2
+http://192.168.1.1:4022/udp/239.2.1.3:1234
+#EXTINF:0 mono=0 tvg-name="STB" tvg-logo="%D0%A1%D0%A2%D0%91.png" ,СТБ HD
+http://192.168.1.1:4022/udp/239.2.1.8:1234
+#EXTINF:0 mono=0 tvg-name="Bolt" tvg-logo="Bolt.png" ,Bolt
+http://192.168.1.1:4022/udp/239.2.1.9:1234
+#EXTINF:0 mono=0 tvg-name="ICTV" tvg-logo="ICTV.png" ,ICTV HD
+http://192.168.1.1:4022/udp/239.2.1.10:1234
+#EXTINF:0 mono=0 tvg-name="NLO_TV" tvg-logo="%D0%9D%D0%9B%D0%9E%20TV.png" ,НЛО TV HD
+http://192.168.1.1:4022/udp/239.2.1.11:1234
+#EXTINF:0 mono=0 tvg-name="Novyy_kanal" tvg-logo="%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png" ,Новый канал HD
+http://192.168.1.1:4022/udp/239.2.1.13:1234
+#EXTINF:0 mono=0 tvg-name="Ukraina" tvg-logo="%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png" ,Украина HD
+http://192.168.1.1:4022/udp/239.2.1.14:1234
+#EXTINF:0 mono=0 tvg-name="PlyusPlyus" tvg-logo="%D0%9F%D0%BB%D1%8E%D1%81%D0%9F%D0%BB%D1%8E%D1%81.png" ,ПлюсПлюс
+http://192.168.1.1:4022/udp/239.2.1.16:1234
+#EXTINF:0 mono=0 tvg-name="Bigudi" tvg-logo="%D0%91%D0%B8%D0%B3%D1%83%D0%B4%D0%B8.png" ,Бигуди
+http://192.168.1.1:4022/udp/239.2.1.18:1234
+#EXTINF:0 mono=0 tvg-name="2plus2" tvg-logo="2+2.png" ,2+2 HD
+http://192.168.1.1:4022/udp/239.2.1.21:1234
+#EXTINF:0 mono=0 tvg-name="Boutique_TV." tvg-logo="Boutique%20TV.png" ,Boutique TV
+http://192.168.1.1:4022/udp/239.2.1.63:1234
+#EXTINF:0 mono=0 tvg-name="Myega" tvg-logo="%D0%9C%D0%B5%D0%B3%D0%B0.png" ,Мега
+http://192.168.1.1:4022/udp/239.2.1.22:1234
+#EXTINF:0 mono=0 tvg-name="NTN" tvg-logo="%D0%9D%D0%A2%D0%9D.png" ,НТН
+http://192.168.1.1:4022/udp/239.2.1.23:1234
+#EXTINF:0 mono=0 tvg-name="Pryamoy" tvg-logo="%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B9.png" ,Прямой
+http://192.168.1.1:4022/udp/239.2.1.27:1234
+#EXTINF:0 mono=0 tvg-name="TYET" tvg-logo="%D0%A2%D0%95%D0%A2.png" ,ТЕТ HD
+http://192.168.1.1:4022/udp/239.2.1.29:1234
+#EXTINF:0 mono=0 tvg-name="KRT" tvg-logo="%D0%9A%D0%A0%D0%A2.png" ,КРТ
+http://192.168.1.1:4022/udp/239.2.1.30:1234
+#EXTINF:0 mono=0 tvg-name="5_kanal" tvg-logo="5%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png" ,5 канал HD
+http://192.168.1.1:4022/udp/239.2.1.31:1234
+#EXTINF:0 mono=0 tvg-name="Intyer" tvg-logo="%D0%98%D0%BD%D1%82%D0%B5%D1%80.png" ,Интер
+http://192.168.1.1:4022/udp/239.2.1.34:1234
+#EXTINF:0 mono=0 tvg-name="UA_Pyershiy_sputnik" tvg-logo="UA%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9.png" ,UA:Перший
+http://192.168.1.1:4022/udp/239.2.1.36:1234
+#EXTINF:0 mono=0 tvg-name="Sontsye" tvg-logo="%D0%A1%D0%BE%D0%BD%D1%86%D0%B5.png" ,Сонце
+http://192.168.1.1:4022/udp/239.2.1.37:1234
+#EXTINF:0 mono=0 tvg-name="Ternopil1" tvg-logo="%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%201.png" ,Тернополь 1
+http://192.168.1.1:4022/udp/239.2.1.85:1234
+#EXTINF:0 mono=0 tvg-name="Gromadskye_HD" tvg-logo="%D0%93%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B5.png" ,Громадське HD
+http://192.168.1.1:4022/udp/239.2.1.86:1234
+#EXTINF:0 mono=0 tvg-name="ATR" tvg-logo="ATR.png" ,ATR HD
+http://192.168.1.1:4022/udp/239.2.1.67:1234
+#EXTINF:0 mono=0 tvg-name="UA_Kultura" tvg-logo="UA%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.png" ,UA:Культура
+http://192.168.1.1:4022/udp/239.2.1.24:1234
+#EXTINF:0 mono=0 tvg-name="UNIAN_TV" tvg-logo="%D0%A3%D0%9D%D0%86%D0%90%D0%9D.png" ,УНІАН
+http://192.168.1.1:4022/udp/239.2.1.44:1234
+#EXTINF:0 mono=0 tvg-name="Otsye" tvg-logo="%D0%9E%D0%A6%D0%95%20%D0%A2%D0%92.png" ,ОЦЕ ТВ HD
+http://192.168.1.1:4022/udp/239.2.1.47:1234
+#EXTINF:0 mono=0 tvg-name="PravdaTUT" tvg-logo="%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D0%B0%D0%A2%D0%A3%D0%A2.png" ,ПравдаТУТ
+http://192.168.1.1:4022/udp/239.2.1.51:1234
+#EXTINF:0 mono=0 tvg-name="UA_Krim" tvg-logo="UA%D0%9A%D1%80%D0%B8%D0%BC.png" ,UA:Крим
+http://192.168.1.1:4022/udp/239.2.1.74:1234
+#EXTINF:0 mono=0 tvg-name="Kvartal_TV" tvg-logo="%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB%20%D0%A2%D0%92.png" ,Квартал ТВ
+http://192.168.1.1:4022/udp/239.2.1.70:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.png" ,Новый Христианский
+http://192.168.1.1:4022/udp/239.2.1.20:1234
+#EXTINF:0 mono=0 tvg-name="Navigator_TV" tvg-logo="Navigator%20TV.png" ,Navigator TV HD
+http://192.168.1.1:4022/udp/239.2.1.84:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%9B%D1%83%D1%87%20%D1%80%D0%B0%D0%B4%D0%B8%D0%BE.png"  group-title="Радио" radio="true" ,Луч радио
+http://192.168.1.1:4022/udp/239.2.1.80:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D1%80%D0%B0%D0%B4%D0%B8%D0%BE.png"  ,Украинское радио
+http://192.168.1.1:4022/udp/239.2.1.91:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D1%80%D0%B0%D0%B4%D0%B8%D0%BE.png"  ,Культура радио
+http://192.168.1.1:4022/udp/239.2.1.92:1234
+#EXTINF:0 mono=0 tvg-name="112_Ukraina" tvg-logo="112%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png" group-title="Политика и новости" ,112 Украина
+http://192.168.1.1:4022/udp/239.2.1.15:1234
+#EXTINF:0 mono=0 tvg-name="Byelarus_24" tvg-logo="%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C%2024.png" ,Беларусь 24
+http://192.168.1.1:4022/udp/239.2.1.25:1234
+#EXTINF:0 mono=0 tvg-name="YEspryeso_TV" tvg-logo="%D0%95%D1%81%D0%BF%D1%80%D0%B5%D1%81%D0%BE%20TV.png" ,Еспресо TV
+http://192.168.1.1:4022/udp/239.2.1.26:1234
+#EXTINF:0 mono=0 tvg-name="24_Tyelyekanal_novostyey_24" tvg-logo="24%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB.png" ,24 Канал
+http://192.168.1.1:4022/udp/239.2.1.28:1234
+#EXTINF:0 mono=0 tvg-name="Rada" tvg-logo="%D0%A0%D0%B0%D0%B4%D0%B0.png" ,Рада
+http://192.168.1.1:4022/udp/239.2.1.32:1234
+#EXTINF:0 mono=0 tvg-name="Pyervyy_dyelovoy" tvg-logo="%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9.png" ,Первый деловой
+http://192.168.1.1:4022/udp/239.2.1.33:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F.png" ,Настоящее время HD
+http://192.168.1.1:4022/udp/239.2.1.78:1234
+#EXTINF:0 mono=0 tvg-name="NewsOne" tvg-logo="NewsOne.png" ,NewsOne
+http://192.168.1.1:4022/udp/239.2.1.50:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0%2024.png" ,Украина 24 HD
+http://192.168.1.1:4022/udp/239.2.1.87:1234
+#EXTINF:0 mono=0 tvg-name="CHyernomorskaya_TRK" tvg-logo="%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A2%D0%A0%D0%9A.png" group-title="Познавательные" ,Черноморская ТРК
+http://192.168.1.1:4022/udp/239.2.1.62:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Genuine%20TV.png" ,Genuine TV HD
+http://192.168.1.1:4022/udp/239.2.1.79:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%9A%D1%83%D1%81-%D0%9A%D1%83%D1%81.png" ,Кус-Кус HD
+http://192.168.1.1:4022/udp/239.2.1.69:1234
+#EXTINF:0 mono=0 tvg-name="Discovery_Vostochnaya_YEvropa" tvg-logo="Discovery.png" ,Discovery
+http://192.168.1.1:4022/udp/239.2.1.41:1234
+#EXTINF:0 mono=0 tvg-name="Animal_planet_Europe" tvg-logo="Animal%20Planet.png" ,Animal Planet
+http://192.168.1.1:4022/udp/239.2.1.42:1234
+#EXTINF:0 mono=0 tvg-name="QuizTV" tvg-logo="Quiz%20TV.png" ,Quiz TV
+http://192.168.1.1:4022/udp/239.2.1.81:1234
+#EXTINF:0 mono=0 tvg-name="Travel_channel_HD" tvg-logo="Travel.png" ,Travel HD
+http://192.168.1.1:4022/udp/239.2.1.71:1234
+#EXTINF:0 mono=0 tvg-name="nashekino" tvg-logo="%D0%9D%D0%B0%D1%88%D0%B5%20%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png" ,Наше любимое кино
+http://192.168.1.1:4022/udp/239.2.1.53:1234
+#EXTINF:0 mono=0 tvg-name="CHP_INFO" tvg-logo="%D0%A7%D0%9F.INFO.png" ,ЧП.INFO
+http://192.168.1.1:4022/udp/239.2.1.54:1234
+#EXTINF:0 mono=0 tvg-name="Indigo" tvg-logo="%D0%98%D0%BD%D0%B4%D0%B8%D0%B3%D0%BE%20%D0%A2%D0%92.png" ,Индиго ТВ HD
+http://192.168.1.1:4022/udp/239.2.1.46:1234
+#EXTINF:0 mono=0 tvg-name="36_6_TV" tvg-logo="36.6%20TV.png" ,36.6 TV HD
+http://192.168.1.1:4022/udp/239.2.1.77:1234
+#EXTINF:0 mono=0 tvg-name="Eurosport_1" tvg-logo="Eurosport%201.png" group-title="Спорт" ,Eurosport 1
+http://192.168.1.1:4022/udp/239.2.1.66:1234
+#EXTINF:0 mono=0 tvg-name="Futbol_1" tvg-logo="%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201.png" ,Футбол 1
+http://192.168.1.1:4022/udp/239.2.1.58:1234
+#EXTINF:0 mono=0 tvg-name="Futbol_2" tvg-logo="%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202.png" ,Футбол 2
+http://192.168.1.1:4022/udp/239.2.1.59:1234
+#EXTINF:0 mono=0 tvg-name="Sport_1" tvg-logo="Sport%201.png" ,Sport 1
+http://192.168.1.1:4022/udp/239.2.1.60:1234
+#EXTINF:0 mono=0 tvg-name="Sea_TV" tvg-logo="SEA%20TV.png" ,SEA TV
+http://192.168.1.1:4022/udp/239.2.1.73:1234
+#EXTINF:0 mono=0 tvg-name="Xsport" tvg-logo="XSPORT.png" ,XSPORT HD
+http://192.168.1.1:4022/udp/239.2.1.82:1234
+#EXTINF:0 mono=0 tvg-name="OTV" tvg-logo="O-TV%20Music.png" group-title="Музыка" ,O-TV Music
+http://192.168.1.1:4022/udp/239.2.1.4:1234
+#EXTINF:0 mono=0 tvg-name="Zoom" tvg-logo="Zoom.png" ,Zoom
+http://192.168.1.1:4022/udp/239.2.1.5:1234
+#EXTINF:0 mono=0 tvg-name="M1" tvg-logo="%D0%9C1.png" ,М1 HD
+http://192.168.1.1:4022/udp/239.2.1.6:1234
+#EXTINF:0 mono=0 tvg-name="M2" tvg-logo="%D0%9C2.png" ,М2 HD
+http://192.168.1.1:4022/udp/239.2.1.7:1234
+#EXTINF:0 mono=0 tvg-name="4ever_music" tvg-logo="4ever.png" ,4ever HD
+http://192.168.1.1:4022/udp/239.2.1.83:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Megogo%20Live.png" ,Megogo Live HD
+http://192.168.1.1:4022/udp/239.2.1.72:1234
+#EXTINF:0 mono=0 tvg-name="EU_Music" tvg-logo="EU%20music.png" ,EU music HD
+http://192.168.1.1:4022/udp/239.2.1.49:1234
+#EXTINF:0 mono=0 tvg-name="MusicBox_UA_HD" tvg-logo="MusicBox%20UA.png" ,MusicBox UA
+http://192.168.1.1:4022/udp/239.2.1.52:1234
+#EXTINF:0 mono=0 tvg-name="Piksyel" tvg-logo="%D0%9F%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D1%8C.png" group-title="Детские" ,Пиксель
+http://192.168.1.1:4022/udp/239.2.1.12:1234
+#EXTINF:0 mono=0 tvg-name="TiJi_Rossiya" tvg-logo="TiJi.png" ,TiJi
+http://192.168.1.1:4022/udp/239.2.1.55:1234
+#EXTINF:0 mono=0 tvg-name="Nickelodeon_SNG" tvg-logo="Nickelodeon.png" ,Nickelodeon
+http://192.168.1.1:4022/udp/239.2.1.56:1234
+#EXTINF:0 mono=0 tvg-name="Malyatko_TV" tvg-logo="%D0%9C%D0%B0%D0%BB%D1%8F%D1%82%D0%BA%D0%BE%20TV.png" ,Малятко TV
+http://192.168.1.1:4022/udp/239.2.1.57:1234
+#EXTINF:0 mono=0 tvg-name="Dyetskiy_mir" tvg-logo="%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%B8%D1%80.png" ,Детский мир
+http://192.168.1.1:4022/udp/239.2.1.48:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Niki%20Junior.png" ,Niki Junior
+http://192.168.1.1:4022/udp/239.2.1.75:1234
+#EXTINF:0 mono=0 tvg-name="Paramount_Comedy_Ukraina" tvg-logo="Paramount%20Comedy.png" group-title="Фильмы" ,Paramount Comedy
+http://192.168.1.1:4022/udp/239.2.1.19:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="Paramount%20Channel.png" ,Paramount Channel HD
+http://192.168.1.1:4022/udp/239.2.1.89:1234
+#EXTINF:0 mono=0 tvg-name="Enter-film" tvg-logo="Enter-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.png" ,Enter-фильм
+http://192.168.1.1:4022/udp/239.2.1.61:1234
+#EXTINF:0 mono=0 tvg-name="Sony_Sci-Fi_Rossiya" tvg-logo="Sony%20Sci-Fi.png" ,Sony Sci-Fi
+http://192.168.1.1:4022/udp/239.2.1.68:1234
+#EXTINF:0 mono=0 tvg-name="Star_Family" tvg-logo="StarFamily.png" ,StarFamily
+http://192.168.1.1:4022/udp/239.2.1.45:1234
+#EXTINF:0 mono=0 tvg-name="TV1000_Action_East" tvg-logo="TV1000%20Action%20East.png" ,TV1000 Action East
+http://192.168.1.1:4022/udp/239.2.1.64:1234
+#EXTINF:0 mono=0 tvg-name="TV1000_East" tvg-logo="TV1000%20East.png" ,TV1000 East
+http://192.168.1.1:4022/udp/239.2.1.65:1234
+#EXTINF:0 mono=0 tvg-name="Dorama" tvg-logo="%D0%94%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.png" ,Дорама
+http://192.168.1.1:4022/udp/239.2.1.76:1234
+#EXTINF:0 mono=0 tvg-name="Epic Drama HD" tvg-logo="Epic%20Drama.png" ,Epic Drama HD
+http://192.168.1.1:4022/udp/239.2.1.88:1234
+#EXTINF:0 mono=0 tvg-name="Fashion_TV_Europe" tvg-logo="Fashion%20TV.png" group-title="Мода" ,Fashion TV
+http://192.168.1.1:4022/udp/239.2.1.43:1234
