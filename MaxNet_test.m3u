@@ -1,4 +1,4 @@
-#EXTM3U url-logos="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/"
+#EXTM3U url-logos="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos"
 #EXTINF:0 mono=0 tvg-name="UA:Харьков" tvg-logo="UA%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2.png" group-title="Харьковские" ,UA:Харьков
 http://192.168.1.1:4022/udp/239.2.1.17:1234
 #EXTINF:0 mono=0 tvg-name="Simon" tvg-logo="Simon.png" ,Simon
