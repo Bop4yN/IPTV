@@ -1,66 +1,66 @@
-#EXTINF:0 mono=0 tvg-name="1plus1" tvg-logo="1+1.png" group-title="Украинские" ,1+1 HD
+#EXTINF:0 mono=0 tvg-name="1plus1" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/1+1.png" group-title="Украинские" ,1+1 HD
 http://192.168.1.1:4022/udp/239.2.1.1:1234
-#EXTINF:0 mono=0 tvg-name="K1" tvg-logo="%D0%9A1.png" ,К1
+#EXTINF:0 mono=0 tvg-name="K1" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9A1.png" ,К1
 http://192.168.1.1:4022/udp/239.2.1.2:1234
-#EXTINF:0 mono=0 tvg-name="K2" tvg-logo="%D0%9A2.png" ,К2
+#EXTINF:0 mono=0 tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9A2.png" ,К2
 http://192.168.1.1:4022/udp/239.2.1.3:1234
-#EXTINF:0 mono=0 tvg-name="STB" tvg-logo="%D0%A1%D0%A2%D0%91.png" ,СТБ HD
+#EXTINF:0 mono=0 tvg-name="STB" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%A1%D0%A2%D0%91.png" ,СТБ HD
 http://192.168.1.1:4022/udp/239.2.1.8:1234
-#EXTINF:0 mono=0 tvg-name="Bolt" tvg-logo="Bolt.png" ,Bolt
+#EXTINF:0 mono=0 tvg-name="Bolt" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/Bolt.png" ,Bolt
 http://192.168.1.1:4022/udp/239.2.1.9:1234
-#EXTINF:0 mono=0 tvg-name="ICTV" tvg-logo="ICTV.png" ,ICTV HD
+#EXTINF:0 mono=0 tvg-name="ICTV" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/ICTV.png" ,ICTV HD
 http://192.168.1.1:4022/udp/239.2.1.10:1234
-#EXTINF:0 mono=0 tvg-name="NLO_TV" tvg-logo="%D0%9D%D0%9B%D0%9E%20TV.png" ,НЛО TV HD
+#EXTINF:0 mono=0 tvg-name="NLO_TV" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9D%D0%9B%D0%9E%20TV.png" ,НЛО TV HD
 http://192.168.1.1:4022/udp/239.2.1.11:1234
-#EXTINF:0 mono=0 tvg-name="Novyy_kanal" tvg-logo="%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png" ,Новый канал HD
+#EXTINF:0 mono=0 tvg-name="Novyy_kanal" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png" ,Новый канал HD
 http://192.168.1.1:4022/udp/239.2.1.13:1234
-#EXTINF:0 mono=0 tvg-name="Ukraina" tvg-logo="%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png" ,Украина HD
+#EXTINF:0 mono=0 tvg-name="Ukraina" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png" ,Украина HD
 http://192.168.1.1:4022/udp/239.2.1.14:1234
-#EXTINF:0 mono=0 tvg-name="PlyusPlyus" tvg-logo="%D0%9F%D0%BB%D1%8E%D1%81%D0%9F%D0%BB%D1%8E%D1%81.png" ,ПлюсПлюс
+#EXTINF:0 mono=0 tvg-name="PlyusPlyus" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9F%D0%BB%D1%8E%D1%81%D0%9F%D0%BB%D1%8E%D1%81.png" ,ПлюсПлюс
 http://192.168.1.1:4022/udp/239.2.1.16:1234
-#EXTINF:0 mono=0 tvg-name="Bigudi" tvg-logo="%D0%91%D0%B8%D0%B3%D1%83%D0%B4%D0%B8.png" ,Бигуди
+#EXTINF:0 mono=0 tvg-name="Bigudi" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%91%D0%B8%D0%B3%D1%83%D0%B4%D0%B8.png" ,Бигуди
 http://192.168.1.1:4022/udp/239.2.1.18:1234
-#EXTINF:0 mono=0 tvg-name="2plus2" tvg-logo="2+2.png" ,2+2 HD
+#EXTINF:0 mono=0 tvg-name="2plus2" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/2+2.png" ,2+2 HD
 http://192.168.1.1:4022/udp/239.2.1.21:1234
-#EXTINF:0 mono=0 tvg-name="Boutique_TV." tvg-logo="Boutique%20TV.png" ,Boutique TV
+#EXTINF:0 mono=0 tvg-name="Boutique_TV." tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/Boutique%20TV.png" ,Boutique TV
 http://192.168.1.1:4022/udp/239.2.1.63:1234
-#EXTINF:0 mono=0 tvg-name="Myega" tvg-logo="%D0%9C%D0%B5%D0%B3%D0%B0.png" ,Мега
+#EXTINF:0 mono=0 tvg-name="Myega" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9C%D0%B5%D0%B3%D0%B0.png" ,Мега
 http://192.168.1.1:4022/udp/239.2.1.22:1234
-#EXTINF:0 mono=0 tvg-name="NTN" tvg-logo="%D0%9D%D0%A2%D0%9D.png" ,НТН
+#EXTINF:0 mono=0 tvg-name="NTN" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9D%D0%A2%D0%9D.png" ,НТН
 http://192.168.1.1:4022/udp/239.2.1.23:1234
-#EXTINF:0 mono=0 tvg-name="Pryamoy" tvg-logo="%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B9.png" ,Прямой
+#EXTINF:0 mono=0 tvg-name="Pryamoy" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B9.png" ,Прямой
 http://192.168.1.1:4022/udp/239.2.1.27:1234
-#EXTINF:0 mono=0 tvg-name="TYET" tvg-logo="%D0%A2%D0%95%D0%A2.png" ,ТЕТ HD
+#EXTINF:0 mono=0 tvg-name="TYET" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%A2%D0%95%D0%A2.png" ,ТЕТ HD
 http://192.168.1.1:4022/udp/239.2.1.29:1234
-#EXTINF:0 mono=0 tvg-name="KRT" tvg-logo="%D0%9A%D0%A0%D0%A2.png" ,КРТ
+#EXTINF:0 mono=0 tvg-name="KRT" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9A%D0%A0%D0%A2.png" ,КРТ
 http://192.168.1.1:4022/udp/239.2.1.30:1234
-#EXTINF:0 mono=0 tvg-name="5_kanal" tvg-logo="5%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png" ,5 канал HD
+#EXTINF:0 mono=0 tvg-name="5_kanal" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/5%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png" ,5 канал HD
 http://192.168.1.1:4022/udp/239.2.1.31:1234
-#EXTINF:0 mono=0 tvg-name="Intyer" tvg-logo="%D0%98%D0%BD%D1%82%D0%B5%D1%80.png" ,Интер
+#EXTINF:0 mono=0 tvg-name="Intyer" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%98%D0%BD%D1%82%D0%B5%D1%80.png" ,Интер
 http://192.168.1.1:4022/udp/239.2.1.34:1234
-#EXTINF:0 mono=0 tvg-name="UA_Pyershiy_sputnik" tvg-logo="UA%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9.png" ,UA:Перший
+#EXTINF:0 mono=0 tvg-name="UA_Pyershiy_sputnik" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/UA%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9.png" ,UA:Перший
 http://192.168.1.1:4022/udp/239.2.1.36:1234
-#EXTINF:0 mono=0 tvg-name="Sontsye" tvg-logo="%D0%A1%D0%BE%D0%BD%D1%86%D0%B5.png" ,Сонце
+#EXTINF:0 mono=0 tvg-name="Sontsye" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%A1%D0%BE%D0%BD%D1%86%D0%B5.png" ,Сонце
 http://192.168.1.1:4022/udp/239.2.1.37:1234
-#EXTINF:0 mono=0 tvg-name="Ternopil1" tvg-logo="%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%201.png" ,Тернополь 1
+#EXTINF:0 mono=0 tvg-name="Ternopil1" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%201.png" ,Тернополь 1
 http://192.168.1.1:4022/udp/239.2.1.85:1234
-#EXTINF:0 mono=0 tvg-name="Gromadskye_HD" tvg-logo="%D0%93%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B5.png" ,Громадське HD
+#EXTINF:0 mono=0 tvg-name="Gromadskye_HD" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%93%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B5.png" ,Громадське HD
 http://192.168.1.1:4022/udp/239.2.1.86:1234
-#EXTINF:0 mono=0 tvg-name="ATR" tvg-logo="ATR.png" ,ATR HD
+#EXTINF:0 mono=0 tvg-name="ATR" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/ATR.png" ,ATR HD
 http://192.168.1.1:4022/udp/239.2.1.67:1234
-#EXTINF:0 mono=0 tvg-name="UA_Kultura" tvg-logo="UA%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.png" ,UA:Культура
+#EXTINF:0 mono=0 tvg-name="UA_Kultura" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/UA%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.png" ,UA:Культура
 http://192.168.1.1:4022/udp/239.2.1.24:1234
-#EXTINF:0 mono=0 tvg-name="UNIAN_TV" tvg-logo="%D0%A3%D0%9D%D0%86%D0%90%D0%9D.png" ,УНІАН
+#EXTINF:0 mono=0 tvg-name="UNIAN_TV" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%A3%D0%9D%D0%86%D0%90%D0%9D.png" ,УНІАН
 http://192.168.1.1:4022/udp/239.2.1.44:1234
-#EXTINF:0 mono=0 tvg-name="Otsye" tvg-logo="%D0%9E%D0%A6%D0%95%20%D0%A2%D0%92.png" ,ОЦЕ ТВ HD
+#EXTINF:0 mono=0 tvg-name="Otsye" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9E%D0%A6%D0%95%20%D0%A2%D0%92.png" ,ОЦЕ ТВ HD
 http://192.168.1.1:4022/udp/239.2.1.47:1234
-#EXTINF:0 mono=0 tvg-name="PravdaTUT" tvg-logo="%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D0%B0%D0%A2%D0%A3%D0%A2.png" ,ПравдаТУТ
+#EXTINF:0 mono=0 tvg-name="PravdaTUT" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D0%B0%D0%A2%D0%A3%D0%A2.png" ,ПравдаТУТ
 http://192.168.1.1:4022/udp/239.2.1.51:1234
-#EXTINF:0 mono=0 tvg-name="UA_Krim" tvg-logo="UA%D0%9A%D1%80%D0%B8%D0%BC.png" ,UA:Крим
+#EXTINF:0 mono=0 tvg-name="UA_Krim" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/UA%D0%9A%D1%80%D0%B8%D0%BC.png" ,UA:Крим
 http://192.168.1.1:4022/udp/239.2.1.74:1234
-#EXTINF:0 mono=0 tvg-name="Kvartal_TV" tvg-logo="%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB%20%D0%A2%D0%92.png" ,Квартал ТВ
+#EXTINF:0 mono=0 tvg-name="Kvartal_TV" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB%20%D0%A2%D0%92.png" ,Квартал ТВ
 http://192.168.1.1:4022/udp/239.2.1.70:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.png" ,Новый Христианский
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.png" ,Новый Христианский
 http://192.168.1.1:4022/udp/239.2.1.20:1234
-#EXTINF:0 mono=0 tvg-name="Navigator_TV" tvg-logo="Navigator%20TV.png" ,Navigator TV HD
+#EXTINF:0 mono=0 tvg-name="Navigator_TV" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/Navigator%20TV.png" ,Navigator TV HD
 http://192.168.1.1:4022/udp/239.2.1.84:1234
