@@ -1,0 +1,17 @@
+*** /dev/fd/63	2020-07-02 01:00:05.762721853 +0300
+--- /dev/fd/62	2020-07-02 01:00:05.766727878 +0300
+***************
+*** 36 ****
+! #EXTINF:0 mono=0 tvg-name=«Boutique_TV.» tvg-logo=«https://maxnet.ua/wp-content/uploads/2019/09/boutique_tv.jpg» ,BOUTIQUE TV
+--- 36 ----
+! #EXTINF:0 mono=0 tvg-name=«Boutique_TV.» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo_webtv/boutique_tv.png» ,BOUTIQUE TV
+***************
+*** 102 ****
+! #EXTINF:0 mono=0 tvg-name=«CHyernomorskaya_TRK» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/sockraina.jpg» group-title=«Познавательные» ,Черноморская ТРК
+--- 102 ----
+! #EXTINF:0 mono=0 tvg-name=«CHyernomorskaya_TRK» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo_webtv/chernomor.png» group-title=«Познавательные» ,Черноморская ТРК
+***************
+*** 146 ****
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2020/04/Megogo-Live.jpg» ,Megogo live HD
+--- 146 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo_webtv/Megogo-Live.png» ,Megogo live HD
