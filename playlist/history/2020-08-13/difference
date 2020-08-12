@@ -1,0 +1,7 @@
+*** /dev/fd/63	2020-08-13 01:00:07.833029733 +0300
+--- /dev/fd/62	2020-08-13 01:00:07.837031953 +0300
+***************
+*** 104,105 ****
+- #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2020/03/GENUINE-TV.jpg» ,Genuine TV HD
+- udp://@239.2.1.79:1234
+--- 103 ----
