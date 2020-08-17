@@ -101,8 +101,6 @@ udp://@239.2.1.50:1234
 udp://@239.2.1.87:1234
 #EXTINF:0 mono=0 tvg-name="CHyernomorskaya_TRK" tvg-logo="https://maxnet.ua/wp-content/uploads/logo_webtv/chernomor.png" group-title="Познавательные" ,Черноморская ТРК
 udp://@239.2.1.62:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2020/03/GENUINE-TV.jpg" ,Genuine TV HD
-udp://@239.2.1.79:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2019/10/kus-kus.jpg" ,Кус-Кус HD
 udp://@239.2.1.69:1234
 #EXTINF:0 mono=0 tvg-name="Discovery_Vostochnaya_YEvropa" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/discovery_logo.jpg" ,Discovery UA
