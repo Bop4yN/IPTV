@@ -1,6 +1,8 @@
 ﻿#EXTM3U url-tvg="http://tv.maxnet.ua/temp/programm_jtv.zip"
 #EXTINF:0 mono=0 tvg-name="ODTRK Kharkov" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/otb.jpg" group-title="Харьковские" ,ODTRK Kharkov
 udp://@239.2.1.17:1234
+#EXTINF:0 mono=0 tvg-name="Profit" tvg-logo="https://maxnet.ua/wp-content/uploads/logo_webtv/profit_logo.png" ,Profit
+udp://@239.2.1.90:1234
 #EXTINF:0 mono=0 tvg-name="Simon" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/simon.jpg" ,Simon
 udp://@239.2.1.38:1234
 #EXTINF:0 mono=0 tvg-name="S-TET" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/stet.jpg" ,S-TET
@@ -43,8 +45,6 @@ udp://@239.2.1.23:1234
 udp://@239.2.1.27:1234
 #EXTINF:0 mono=0 tvg-name="TYET" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/tet_logo.jpg" ,ТЕТ HD
 udp://@239.2.1.29:1234
-#EXTINF:0 mono=0 tvg-name="KRT" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/krt.jpg" ,КРТ
-udp://@239.2.1.30:1234
 #EXTINF:0 mono=0 tvg-name="5_kanal" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/51.jpg" ,5 канал HD
 udp://@239.2.1.31:1234
 #EXTINF:0 mono=0 tvg-name="Intyer" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/inter.jpg" ,Интер
