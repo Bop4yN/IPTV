@@ -1,0 +1,11 @@
+#EXTINF:0 mono=0 tvg-name="OTV" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/O-TV%20Music.png" group-title="Музыка" ,O-TV Music
+udp://@239.2.1.4:1234
+#EXTINF:0 mono=0 tvg-name="Zoom" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/Zoom.png" group-title="Музыка" ,Zoom
+#EXTINF:0 mono=0 tvg-name="M1" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9C1.png" group-title="Музыка" ,М1 HD
+udp://@239.2.1.6:1234
+#EXTINF:0 mono=0 tvg-name="M2" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9C2.png" group-title="Музыка" ,М2 HD
+#EXTINF:0 mono=0 tvg-name="4ever_music" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/4ever.png" group-title="Музыка" ,4ever HD
+udp://@239.2.1.83:1234
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/Megogo%20Live.png" group-title="Музыка" ,Megogo Live HD
+#EXTINF:0 mono=0 tvg-name="EU_Music" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/EU%20music.png" group-title="Музыка" ,EU music HD
+udp://@239.2.1.49:1234
