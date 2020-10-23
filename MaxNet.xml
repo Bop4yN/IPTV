@@ -3068,7 +3068,10 @@
   <programme channel="4ever_music" start="20201025080000 +0300" stop="20201025160000 +0300">
     <title lang="ru">"Хиты прошлых лет".</title>
   </programme>
-  <programme channel="4ever_music" start="20201025160000 +0300" stop="20201030050000 +0300">
+  <programme channel="4ever_music" start="20201025160000 +0300" stop="20201026000000 +0300">
+    <title lang="ru">"Хиты прошлых лет".</title>
+  </programme>
+  <programme channel="4ever_music" start="20201026000000 +0300" stop="20201030050000 +0300">
     <title lang="ru">"Хиты прошлых лет".</title>
   </programme>
   <programme channel="4P_INFO" start="20201022050000 +0300" stop="20201022053000 +0300">
@@ -10124,7 +10127,7 @@
     <title lang="ru">"Большой эфир Василия Зимы".</title>
   </programme>
   <programme channel="Espreso_TV" start="20201023211500 +0300" stop="20201023230000 +0300">
-    <title lang="ru">Ток-шоу "Борковский  & amp; Валевская. Политика".</title>
+    <title lang="ru">Ток-шоу "Борковский &amp; Валевская. Политика".</title>
   </programme>
   <programme channel="Espreso_TV" start="20201023230000 +0300" stop="20201024004500 +0300">
     <title lang="ru">"Содержательно" с Егором Чечериндой.</title>
@@ -10133,7 +10136,7 @@
     <title lang="ru">Ток-шоу "ПолитКлуб Виталия Портникова".</title>
   </programme>
   <programme channel="Espreso_TV" start="20201024022500 +0300" stop="20201024041000 +0300">
-    <title lang="ru">Ток-шоу "Борковский  & amp; Валевская. Политика".</title>
+    <title lang="ru">Ток-шоу "Борковский &amp; Валевская. Политика".</title>
   </programme>
   <programme channel="Espreso_TV" start="20201024041000 +0300" stop="20201024042500 +0300">
     <title lang="ru">"Уникальные деревянные церкви Карпат".</title>
@@ -10148,7 +10151,7 @@
     <title lang="ru">Ток-шоу "ПолитКлуб Виталия Портникова".</title>
   </programme>
   <programme channel="Espreso_TV" start="20201024084500 +0300" stop="20201024103000 +0300">
-    <title lang="ru">Ток-шоу "Борковский  & amp; Валевская. Политика".</title>
+    <title lang="ru">Ток-шоу "Борковский &amp; Валевская. Политика".</title>
   </programme>
   <programme channel="Espreso_TV" start="20201024103000 +0300" stop="20201024110000 +0300">
     <title lang="ru">"Олимпийский взгляд".</title>
@@ -10310,7 +10313,7 @@
     <title lang="ru">Новости.</title>
   </programme>
   <programme channel="Espreso_TV" start="20201025181000 +0300" stop="20201025200000 +0300">
-    <title lang="ru">Ток-шоу "Борковский  & amp; Валевская. Политика".</title>
+    <title lang="ru">Ток-шоу "Борковский &amp; Валевская. Политика".</title>
   </programme>
   <programme channel="Espreso_TV" start="20201025200000 +0300" stop="20201025210000 +0300">
     <title lang="ru">"Субботний политклуб".</title>
@@ -10999,7 +11002,7 @@
     <title lang="ru">F-People.</title>
   </programme>
   <programme channel="Fashion_TV_Europe" start="20201022073000 +0300" stop="20201022075500 +0300">
-    <title lang="ru">Fashion  & amp; Sports.</title>
+    <title lang="ru">Fashion &amp; Sports.</title>
   </programme>
   <programme channel="Fashion_TV_Europe" start="20201022075500 +0300" stop="20201022080000 +0300">
     <title lang="ru">Fashion Week.</title>
@@ -11257,7 +11260,7 @@
     <title lang="ru">F-Parties.</title>
   </programme>
   <programme channel="Fashion_TV_Europe" start="20201023070000 +0300" stop="20201023072500 +0300">
-    <title lang="ru">Fashion  & amp; Sports.</title>
+    <title lang="ru">Fashion &amp; Sports.</title>
   </programme>
   <programme channel="Fashion_TV_Europe" start="20201023072500 +0300" stop="20201023073000 +0300">
     <title lang="ru">F-People.</title>
@@ -11527,7 +11530,7 @@
     <title lang="ru">F-People.</title>
   </programme>
   <programme channel="Fashion_TV_Europe" start="20201024073000 +0300" stop="20201024075500 +0300">
-    <title lang="ru">Fashion  & amp; Sports.</title>
+    <title lang="ru">Fashion &amp; Sports.</title>
   </programme>
   <programme channel="Fashion_TV_Europe" start="20201024075500 +0300" stop="20201024080000 +0300">
     <title lang="ru">Fashion Week.</title>
@@ -11785,7 +11788,7 @@
     <title lang="ru">F-People.</title>
   </programme>
   <programme channel="Fashion_TV_Europe" start="20201025073000 +0300" stop="20201025075500 +0300">
-    <title lang="ru">Fashion  & amp; Sports.</title>
+    <title lang="ru">Fashion &amp; Sports.</title>
   </programme>
   <programme channel="Fashion_TV_Europe" start="20201025075500 +0300" stop="20201025080000 +0300">
     <title lang="ru">Fashion Week.</title>
@@ -11985,7 +11988,43 @@
   <programme channel="Fashion_TV_Europe" start="20201026003000 +0300" stop="20201026005500 +0300">
     <title lang="ru">Top Models.</title>
   </programme>
-  <programme channel="Fashion_TV_Europe" start="20201026005500 +0300" stop="20201030050000 +0300">
+  <programme channel="Fashion_TV_Europe" start="20201026005500 +0300" stop="20201026010000 +0300">
+    <title lang="ru">F-Parties.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026010000 +0300" stop="20201026013000 +0300">
+    <title lang="ru">Midnite Haute.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026013000 +0300" stop="20201026015500 +0300">
+    <title lang="ru">Midnite Haute.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026015500 +0300" stop="20201026020000 +0300">
+    <title lang="ru">F-Parties.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026020000 +0300" stop="20201026023000 +0300">
+    <title lang="ru">Swimwear.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026023000 +0300" stop="20201026025500 +0300">
+    <title lang="ru">Swimwear.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026025500 +0300" stop="20201026030000 +0300">
+    <title lang="ru">F-Parties.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026030000 +0300" stop="20201026033000 +0300">
+    <title lang="ru">Fashion Films.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026033000 +0300" stop="20201026035500 +0300">
+    <title lang="ru">Fashion Films.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026035500 +0300" stop="20201026040000 +0300">
+    <title lang="ru">F-Parties.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026040000 +0300" stop="20201026043000 +0300">
+    <title lang="ru">90s Fashion.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026043000 +0300" stop="20201026045500 +0300">
+    <title lang="ru">90s Fashion.</title>
+  </programme>
+  <programme channel="Fashion_TV_Europe" start="20201026045500 +0300" stop="20201030050000 +0300">
     <title lang="ru">F-Parties.</title>
   </programme>
   <programme channel="Futbol_1" start="20201022052500 +0300" stop="20201022054500 +0300">
@@ -14627,7 +14666,7 @@
     <title lang="ru">Дача-Блог: Zabara Family.</title>
   </programme>
   <programme channel="Kus-Kus" start="20201022062500 +0300" stop="20201022064000 +0300">
-    <title lang="ru">Кухня  & amp; Сад.</title>
+    <title lang="ru">Кухня &amp; Сад.</title>
   </programme>
   <programme channel="Kus-Kus" start="20201022064000 +0300" stop="20201022065500 +0300">
     <title lang="ru">Вкусный сад.</title>
@@ -14822,7 +14861,7 @@
     <title lang="ru">Дача-Блог: Zabara Family.</title>
   </programme>
   <programme channel="Kus-Kus" start="20201023031500 +0300" stop="20201023033000 +0300">
-    <title lang="ru">Кухня  & amp; Сад.</title>
+    <title lang="ru">Кухня &amp; Сад.</title>
   </programme>
   <programme channel="Kus-Kus" start="20201023033000 +0300" stop="20201023034000 +0300">
     <title lang="ru">Клопотенко.</title>
@@ -14858,7 +14897,7 @@
     <title lang="ru">Дача-Блог: Zabara Family.</title>
   </programme>
   <programme channel="Kus-Kus" start="20201023062500 +0300" stop="20201023064000 +0300">
-    <title lang="ru">Кухня  & amp; Сад.</title>
+    <title lang="ru">Кухня &amp; Сад.</title>
   </programme>
   <programme channel="Kus-Kus" start="20201023064000 +0300" stop="20201023065500 +0300">
     <title lang="ru">Вкусный сад.</title>
@@ -15053,7 +15092,7 @@
     <title lang="ru">Дача-Блог: Zabara Family.</title>
   </programme>
   <programme channel="Kus-Kus" start="20201024031500 +0300" stop="20201024033000 +0300">
-    <title lang="ru">Кухня  & amp; Сад.</title>
+    <title lang="ru">Кухня &amp; Сад.</title>
   </programme>
   <programme channel="Kus-Kus" start="20201024033000 +0300" stop="20201024034000 +0300">
     <title lang="ru">Клопотенко.</title>
@@ -18223,8 +18262,17 @@
   <programme channel="Nastoawee_vrema" start="20201026010000 +0300" stop="20201026013000 +0300">
     <title lang="ru">Итоги.</title>
   </programme>
-  <programme channel="Nastoawee_vrema" start="20201026013000 +0300" stop="20201030050000 +0300">
+  <programme channel="Nastoawee_vrema" start="20201026013000 +0300" stop="20201026020000 +0300">
     <title lang="ru">Нью-Йорк, New York.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20201026020000 +0300" stop="20201026023000 +0300">
+    <title lang="ru">Америка. Большое путешествие.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20201026023000 +0300" stop="20201026030000 +0300">
+    <title lang="ru">Спецпроект Станислава Феофанова: Беломорканал: гордость и печаль.</title>
+  </programme>
+  <programme channel="Nastoawee_vrema" start="20201026030000 +0300" stop="20201030050000 +0300">
+    <title lang="ru">Реальное кино. Д/ф "Рожденная в Эвине".</title>
   </programme>
   <programme channel="NavigatorTV" start="20201022062500 +0300" stop="20201022070000 +0300">
     <title lang="ru">Художественная публицистика.</title>
@@ -22453,8 +22501,14 @@
   <programme channel="Oce" start="20201025230000 +0300" stop="20201026023000 +0300">
     <title lang="ru">Звёзды под гипнозом.</title>
   </programme>
-  <programme channel="Oce" start="20201026023000 +0300" stop="20201030050000 +0300">
+  <programme channel="Oce" start="20201026023000 +0300" stop="20201026030000 +0300">
     <title lang="ru">Ревизор.</title>
+  </programme>
+  <programme channel="Oce" start="20201026030000 +0300" stop="20201026044500 +0300">
+    <title lang="ru">Ревизор.</title>
+  </programme>
+  <programme channel="Oce" start="20201026044500 +0300" stop="20201030050000 +0300">
+    <title lang="ru">Всё будет хорошо.</title>
   </programme>
   <programme channel="OTV" start="20201022080000 +0300" stop="20201022081000 +0300">
     <title lang="ru">O-TV Every Day.</title>
@@ -28328,7 +28382,7 @@
   <programme channel="STB" start="20201022220000 +0300" stop="20201022225000 +0300">
     <title lang="ru">"Викна-Новости".</title>
   </programme>
-  <programme channel="STB" start="20201022225000 +0300" stop="20201022232500 +0300">
+  <programme channel="STB" start="20201022225000 +0300" stop="20201022230000 +0300">
     <title lang="ru">Т/с "Мой мужчина, моя женщина", 8 с.</title>
     <desc lang="ru">Украина, 2020, мелодрама
 Режиссер: Сергей Толкушкин
@@ -28336,7 +28390,7 @@
 
 Вера и Павел 10 лет вместе. Их сосед Сергей строит двухэтажный особняк, Павел прокладывает проводку на втором этаже его дома. Случается пожар, вину перекладывают на Павла. Вера уговаривает Сергея не доводить дело до суда, они все компенсируют соседу, хоть сумма и немалая. Тем временем у жены Олега случается третий выкидыш - грабители вламываются в квартиру, и Таня теряет ребенка. Врачи запрещают... </desc>
   </programme>
-  <programme channel="STB" start="20201022232500 +0300" stop="20201023013000 +0300">
+  <programme channel="STB" start="20201022230000 +0300" stop="20201023005000 +0300">
     <title lang="ru">Т/с "Доктор Хаус", 5 сезон, 11 и 12 с.</title>
     <desc lang="ru">США, 2004-2012, драма
 Режиссер: Грег Яйтанес
@@ -28344,16 +28398,25 @@
 
 Доктор Грегори Хаус не отличается проникновенностью в общении с больными и с удовольствием избегает их, если только есть возможность. Он сам всё время проводит в борьбе с собственной болью, а трость в его руке только подчеркивает его жесткую ядовитую манеру общения.  Порой его поведение можно назвать почти бесчеловечным, и при этом он прекрасный врач, обладающий нетипичным умом и безупречным... </desc>
   </programme>
-  <programme channel="STB" start="20201023013000 +0300" stop="20201023023000 +0300">
+  <programme channel="STB" start="20201023005000 +0300" stop="20201023020500 +0300">
     <title lang="ru">"Следствие ведут экстрасенсы".</title>
   </programme>
-  <programme channel="STB" start="20201023023000 +0300" stop="20201023052000 +0300">
-    <title lang="ru">Ночной эфир.</title>
+  <programme channel="STB" start="20201023020500 +0300" stop="20201023042500 +0300">
+    <title lang="ru">"В поисках истины".</title>
   </programme>
-  <programme channel="STB" start="20201023052000 +0300" stop="20201023111000 +0300">
-    <title lang="ru">"Спасите нашу семью", 3 сезон.</title>
+  <programme channel="STB" start="20201023042500 +0300" stop="20201023051500 +0300">
+    <title lang="ru">"Викна-Новости".</title>
   </programme>
-  <programme channel="STB" start="20201023111000 +0300" stop="20201023143000 +0300">
+  <programme channel="STB" start="20201023051500 +0300" stop="20201023070000 +0300">
+    <title lang="ru">"Спасите нашу семью", 3 сезон, 3 эп.</title>
+  </programme>
+  <programme channel="STB" start="20201023070000 +0300" stop="20201023085500 +0300">
+    <title lang="ru">"Спасите нашу семью", 4 сезон, 5 эп.</title>
+  </programme>
+  <programme channel="STB" start="20201023085500 +0300" stop="20201023105500 +0300">
+    <title lang="ru">"Спасите нашу семью", 4 сезон, 6 эп.</title>
+  </programme>
+  <programme channel="STB" start="20201023105500 +0300" stop="20201023143000 +0300">
     <title lang="ru">"Слепая".</title>
   </programme>
   <programme channel="STB" start="20201023143000 +0300" stop="20201023145000 +0300">
@@ -28371,19 +28434,19 @@
   <programme channel="STB" start="20201023190000 +0300" stop="20201023220000 +0300">
     <title lang="ru">"Холостячка", 1 эп., 1 ч.</title>
   </programme>
-  <programme channel="STB" start="20201023220000 +0300" stop="20201023224500 +0300">
+  <programme channel="STB" start="20201023220000 +0300" stop="20201023225000 +0300">
     <title lang="ru">"Викна-Новости".</title>
   </programme>
-  <programme channel="STB" start="20201023224500 +0300" stop="20201024005000 +0300">
+  <programme channel="STB" start="20201023225000 +0300" stop="20201024010000 +0300">
     <title lang="ru">"Холостячка", 1 эп., 2 ч.</title>
   </programme>
-  <programme channel="STB" start="20201024005000 +0300" stop="20201024021500 +0300">
-    <title lang="ru">"О чем молчат женщины", 7 эп.</title>
+  <programme channel="STB" start="20201024010000 +0300" stop="20201024022500 +0300">
+    <title lang="ru">"О чем молчат женщины", 6 эп.</title>
   </programme>
-  <programme channel="STB" start="20201024021500 +0300" stop="20201024031500 +0300">
-    <title lang="ru">"Тайны ДНК", 2 сезон, 11 эп.</title>
+  <programme channel="STB" start="20201024022500 +0300" stop="20201024033500 +0300">
+    <title lang="ru">"Тайны ДНК", 2 сезон, 10 эп.</title>
   </programme>
-  <programme channel="STB" start="20201024031500 +0300" stop="20201024055000 +0300">
+  <programme channel="STB" start="20201024033500 +0300" stop="20201024055000 +0300">
     <title lang="ru">Ночной эфир.</title>
   </programme>
   <programme channel="STB" start="20201024055000 +0300" stop="20201024075000 +0300">
@@ -28449,8 +28512,16 @@
   <programme channel="STB" start="20201025231000 +0300" stop="20201026002000 +0300">
     <title lang="ru">"Детектор лжи", 10 сезон, 7 эп.</title>
   </programme>
-  <programme channel="STB" start="20201026002000 +0300" stop="20201030050000 +0300">
+  <programme channel="STB" start="20201026002000 +0300" stop="20201026044500 +0300">
     <title lang="ru">Ночной эфир.</title>
+  </programme>
+  <programme channel="STB" start="20201026044500 +0300" stop="20201030050000 +0300">
+    <title lang="ru">Т/с "Доктор Хаус", 5 сезон, 11 и 12 с.</title>
+    <desc lang="ru">США, 2004-2012, драма
+Режиссер: Грег Яйтанес
+Актеры: Хью Лори, Лиза Эдельштейн, Омар Эппс, Роберт Шон Леонард, Дженнифен Моррисон
+
+Доктор Грегори Хаус не отличается проникновенностью в общении с больными и с удовольствием избегает их, если только есть возможность. Он сам всё время проводит в борьбе с собственной болью, а трость в его руке только подчеркивает его жесткую ядовитую манеру общения.  Порой его поведение можно назвать почти бесчеловечным, и при этом он прекрасный врач, обладающий нетипичным умом и безупречным... </desc>
   </programme>
   <programme channel="Ternopil__1" start="20201022050000 +0300" stop="20201022054000 +0300">
     <title lang="ru">"#Така_як_є".</title>
@@ -37309,7 +37380,7 @@
     <title lang="ru">Згадати все</title>
   </programme>
   <programme channel="simon" start="20201022070000 +0300" stop="20201022073000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201022073000 +0300" stop="20201022080000 +0300">
     <title lang="ru">Про головне</title>
@@ -37324,7 +37395,7 @@
     <title lang="ru">Simon-Насправді</title>
   </programme>
   <programme channel="simon" start="20201022100000 +0300" stop="20201022103000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201022103000 +0300" stop="20201022113000 +0300">
     <title lang="ru">Simon-Інформаційний Вечір</title>
@@ -37336,7 +37407,7 @@
     <title lang="ru">Новини 24</title>
   </programme>
   <programme channel="simon" start="20201022130000 +0300" stop="20201022131000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201022131000 +0300" stop="20201022134500 +0300">
     <title lang="ru"># В Украине</title>
@@ -37348,7 +37419,7 @@
     <title lang="ru">Дитячий Світ</title>
   </programme>
   <programme channel="simon" start="20201022143000 +0300" stop="20201022144000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201022144000 +0300" stop="20201022150000 +0300">
     <title lang="ru">Згадати все</title>
@@ -37360,7 +37431,7 @@
     <title lang="ru">Телемагазин</title>
   </programme>
   <programme channel="simon" start="20201022160000 +0300" stop="20201022162000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201022162000 +0300" stop="20201022163000 +0300">
     <title lang="ru">Золота підкова України</title>
@@ -37369,7 +37440,7 @@
     <title lang="ru">Simon-Насправді</title>
   </programme>
   <programme channel="simon" start="20201022173000 +0300" stop="20201022175000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201022175000 +0300" stop="20201022182000 +0300">
     <title lang="ru">Спортивний інтерес</title>
@@ -37384,7 +37455,7 @@
     <title lang="ru">А как там дома Донбасс</title>
   </programme>
   <programme channel="simon" start="20201022190000 +0300" stop="20201022193000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201022193000 +0300" stop="20201022200000 +0300">
     <title lang="ru">Про головне 24 канал</title>
@@ -37396,7 +37467,7 @@
     <title lang="ru">Simon-Насправді</title>
   </programme>
   <programme channel="simon" start="20201022210000 +0300" stop="20201022213000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201022213000 +0300" stop="20201022220000 +0300">
     <title lang="ru">Спортивний інтерес</title>
@@ -37417,7 +37488,7 @@
     <title lang="ru">Америка</title>
   </programme>
   <programme channel="simon" start="20201023013000 +0300" stop="20201023020000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201023020000 +0300" stop="20201023023000 +0300">
     <title lang="ru">Про головне</title>
@@ -37426,7 +37497,7 @@
     <title lang="ru">Simon-Насправді</title>
   </programme>
   <programme channel="simon" start="20201023030000 +0300" stop="20201023033000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201023033000 +0300" stop="20201023040000 +0300">
     <title lang="ru">Спортивний інтерес</title>
@@ -37438,7 +37509,7 @@
     <title lang="ru">Згадати все</title>
   </programme>
   <programme channel="simon" start="20201023050000 +0300" stop="20201023053000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201023053000 +0300" stop="20201023060000 +0300">
     <title lang="ru">Америка - большое путешествие</title>
@@ -37453,7 +37524,7 @@
     <title lang="ru">Згадати все</title>
   </programme>
   <programme channel="simon" start="20201023070000 +0300" stop="20201023073000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201023073000 +0300" stop="20201023080000 +0300">
     <title lang="ru">Про головне</title>
@@ -37468,7 +37539,7 @@
     <title lang="ru">Simon-Насправді</title>
   </programme>
   <programme channel="simon" start="20201023100000 +0300" stop="20201023103000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201023103000 +0300" stop="20201023110000 +0300">
     <title lang="ru">Спортивний інтерес</title>
@@ -37483,7 +37554,7 @@
     <title lang="ru">Новини 24</title>
   </programme>
   <programme channel="simon" start="20201023130000 +0300" stop="20201023131000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201023131000 +0300" stop="20201023134500 +0300">
     <title lang="ru">Америка - большое путешествие</title>
@@ -37495,7 +37566,7 @@
     <title lang="ru">Дитячий Світ</title>
   </programme>
   <programme channel="simon" start="20201023143000 +0300" stop="20201023144000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201023144000 +0300" stop="20201023150000 +0300">
     <title lang="ru">Згадати все</title>
@@ -37507,7 +37578,7 @@
     <title lang="ru">Телемагазин</title>
   </programme>
   <programme channel="simon" start="20201023160000 +0300" stop="20201023162000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201023162000 +0300" stop="20201023163000 +0300">
     <title lang="ru">Золота підкова України</title>
@@ -37516,7 +37587,7 @@
     <title lang="ru">Simon-Насправді</title>
   </programme>
   <programme channel="simon" start="20201023173000 +0300" stop="20201023175000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201023175000 +0300" stop="20201023185000 +0300">
     <title lang="ru">Simon-Інформаційний Вечір</title>
@@ -37528,7 +37599,7 @@
     <title lang="ru">А как там дома Донбасс</title>
   </programme>
   <programme channel="simon" start="20201023190000 +0300" stop="20201023193000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201023193000 +0300" stop="20201023200000 +0300">
     <title lang="ru">Про головне</title>
@@ -37540,7 +37611,7 @@
     <title lang="ru">Simon-Насправді</title>
   </programme>
   <programme channel="simon" start="20201023210000 +0300" stop="20201023213000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201023213000 +0300" stop="20201023223000 +0300">
     <title lang="ru">Simon-Інформаційний Вечір</title>
@@ -37558,7 +37629,7 @@
     <title lang="ru">Америка</title>
   </programme>
   <programme channel="simon" start="20201024013000 +0300" stop="20201024020000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201024020000 +0300" stop="20201024023000 +0300">
     <title lang="ru">Про головне</title>
@@ -37567,7 +37638,7 @@
     <title lang="ru">Simon-Насправді</title>
   </programme>
   <programme channel="simon" start="20201024030000 +0300" stop="20201024033000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201024033000 +0300" stop="20201024043000 +0300">
     <title lang="ru">Simon-Інформаційний Вечір</title>
@@ -37576,7 +37647,7 @@
     <title lang="ru">Згадати все</title>
   </programme>
   <programme channel="simon" start="20201024050000 +0300" stop="20201024053000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201024053000 +0300" stop="20201024060000 +0300">
     <title lang="ru">Смотри в оба</title>
@@ -37591,7 +37662,7 @@
     <title lang="ru">Згадати все</title>
   </programme>
   <programme channel="simon" start="20201024070000 +0300" stop="20201024073000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201024073000 +0300" stop="20201024080000 +0300">
     <title lang="ru">Про головне</title>
@@ -37606,7 +37677,7 @@
     <title lang="ru">Simon-Насправді</title>
   </programme>
   <programme channel="simon" start="20201024100000 +0300" stop="20201024103000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201024103000 +0300" stop="20201024113000 +0300">
     <title lang="ru">Simon-Інформаційний Вечір</title>
@@ -37648,7 +37719,7 @@
     <title lang="ru">Золота підкова України</title>
   </programme>
   <programme channel="simon" start="20201024163000 +0300" stop="20201024173000 +0300">
-    <title lang="ru">Велике інтерв&#x2019;apos;ю на Simonі</title>
+    <title lang="ru">Велике інтерв&apos;ю на Simonі</title>
   </programme>
   <programme channel="simon" start="20201024173000 +0300" stop="20201024193000 +0300">
     <title lang="ru">Х/ф «Неоновий демон»</title>
@@ -37666,7 +37737,7 @@
     <title lang="ru">Золота підкова України</title>
   </programme>
   <programme channel="simon" start="20201025003000 +0300" stop="20201025013000 +0300">
-    <title lang="ru">Велике інтерв&#x2019;apos;ю на Simonі</title>
+    <title lang="ru">Велике інтерв&apos;ю на Simonі</title>
   </programme>
   <programme channel="simon" start="20201025013000 +0300" stop="20201025020000 +0300">
     <title lang="ru">Смотри в оба</title>
@@ -37738,7 +37809,7 @@
     <title lang="ru">Обережно, міф</title>
   </programme>
   <programme channel="simon" start="20201025103000 +0300" stop="20201025113000 +0300">
-    <title lang="ru">Велике інтерв&#x2019;apos;ю на Simonі</title>
+    <title lang="ru">Велике інтерв&apos;ю на Simonі</title>
   </programme>
   <programme channel="simon" start="20201025113000 +0300" stop="20201025120000 +0300">
     <title lang="ru">Корпорації світу</title>
@@ -37780,7 +37851,7 @@
     <title lang="ru">Золота підкова України</title>
   </programme>
   <programme channel="simon" start="20201025163000 +0300" stop="20201025173000 +0300">
-    <title lang="ru">Велике інтерв&#x2019;apos;ю на Simonі</title>
+    <title lang="ru">Велике інтерв&apos;ю на Simonі</title>
   </programme>
   <programme channel="simon" start="20201025173000 +0300" stop="20201025193000 +0300">
     <title lang="ru">Х/ф «Франц»</title>
@@ -37789,7 +37860,7 @@
     <title lang="ru">Новини 24</title>
   </programme>
   <programme channel="simon" start="20201025200000 +0300" stop="20201025210000 +0300">
-    <title lang="ru">Велике інтерв&#x2019;apos;ю на Simonі</title>
+    <title lang="ru">Велике інтерв&apos;ю на Simonі</title>
   </programme>
   <programme channel="simon" start="20201025210000 +0300" stop="20201025213000 +0300">
     <title lang="ru">Профі на день</title>
@@ -37834,7 +37905,7 @@
     <title lang="ru">Ждем в гости</title>
   </programme>
   <programme channel="simon" start="20201026060000 +0300" stop="20201026070000 +0300">
-    <title lang="ru">Велике інтерв&#x2019;apos;ю на Simoni</title>
+    <title lang="ru">Велике інтерв&apos;ю на Simoni</title>
   </programme>
   <programme channel="simon" start="20201026070000 +0300" stop="20201026073000 +0300">
     <title lang="ru">News Palm</title>
@@ -37879,10 +37950,10 @@
     <title lang="ru">Огляд світу</title>
   </programme>
   <programme channel="simon" start="20201026123000 +0300" stop="20201026133000 +0300">
-    <title lang="ru">Велике інтерв&#x2019;apos;ю на Simoni</title>
+    <title lang="ru">Велике інтерв&apos;ю на Simoni</title>
   </programme>
   <programme channel="simon" start="20201026133000 +0300" stop="20201026134500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201026134500 +0300" stop="20201026140000 +0300">
     <title lang="ru">Телемагазин</title>
@@ -37891,7 +37962,7 @@
     <title lang="ru">Дитячий світ</title>
   </programme>
   <programme channel="simon" start="20201026143000 +0300" stop="20201026144000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201026144000 +0300" stop="20201026144500 +0300">
     <title lang="ru">Как там дома Донбасс</title>
@@ -37906,7 +37977,7 @@
     <title lang="ru">Новини 24</title>
   </programme>
   <programme channel="simon" start="20201026153000 +0300" stop="20201026154000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201026154000 +0300" stop="20201026154500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -37921,7 +37992,7 @@
     <title lang="ru">Золота підкова України</title>
   </programme>
   <programme channel="simon" start="20201026170000 +0300" stop="20201026171500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201026171500 +0300" stop="20201026172000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -37933,7 +38004,7 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201026183000 +0300" stop="20201026190000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201026190000 +0300" stop="20201026190500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -37951,7 +38022,7 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201026215500 +0300" stop="20201026222500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201026222500 +0300" stop="20201026223000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -37963,7 +38034,7 @@
     <title lang="ru">Документальний фільм «Брати по зброї»</title>
   </programme>
   <programme channel="simon" start="20201027004000 +0300" stop="20201027011000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201027011000 +0300" stop="20201027011500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -37981,7 +38052,7 @@
     <title lang="ru">Про головне</title>
   </programme>
   <programme channel="simon" start="20201027043000 +0300" stop="20201027050000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201027050000 +0300" stop="20201027050500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -37990,7 +38061,7 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201028054500 +0300" stop="20201027061500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201027061500 +0300" stop="20201027062000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38005,7 +38076,7 @@
     <title lang="ru">Азия 3600</title>
   </programme>
   <programme channel="simon" start="20201027083000 +0300" stop="20201027090000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201027090000 +0300" stop="20201027090500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38020,7 +38091,7 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201027114500 +0300" stop="20201027121500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201027121500 +0300" stop="20201027122000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38029,7 +38100,7 @@
     <title lang="ru">Інформаційний Вечірна Simoni</title>
   </programme>
   <programme channel="simon" start="20201027133000 +0300" stop="20201027134500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201027134500 +0300" stop="20201027140000 +0300">
     <title lang="ru">Телемагазин</title>
@@ -38038,7 +38109,7 @@
     <title lang="ru">Дитячий світ</title>
   </programme>
   <programme channel="simon" start="20201027143000 +0300" stop="20201027144000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201027144000 +0300" stop="20201027144500 +0300">
     <title lang="ru">Как там дома Донбасс</title>
@@ -38053,7 +38124,7 @@
     <title lang="ru">Новини 24</title>
   </programme>
   <programme channel="simon" start="20201027153000 +0300" stop="20201027154000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201027154000 +0300" stop="20201027154500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38068,7 +38139,7 @@
     <title lang="ru">Золота підкова України</title>
   </programme>
   <programme channel="simon" start="20201027170000 +0300" stop="20201027171500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201027171500 +0300" stop="20201027172000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38080,13 +38151,13 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201027183000 +0300" stop="20201027190000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201027190000 +0300" stop="20201027190500 +0300">
     <title lang="ru">Simon-Погода</title>
   </programme>
   <programme channel="simon" start="20201027190500 +0300" stop="20201027192500 +0300">
-    <title lang="ru">На здоров&#x2019;apos;я</title>
+    <title lang="ru">На здоров&apos;я</title>
   </programme>
   <programme channel="simon" start="20201027192500 +0300" stop="20201027194500 +0300">
     <title lang="ru">Технотека</title>
@@ -38104,19 +38175,19 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201027215500 +0300" stop="20201027222500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201027222500 +0300" stop="20201027223000 +0300">
     <title lang="ru">Simon-Погода</title>
   </programme>
   <programme channel="simon" start="20201027223000 +0300" stop="20201027235000 +0300">
-    <title lang="ru">На здоров&#x2019;apos;я</title>
+    <title lang="ru">На здоров&apos;я</title>
   </programme>
   <programme channel="simon" start="20201027235000 +0300" stop="20201028011000 +0300">
     <title lang="ru">Технотека</title>
   </programme>
   <programme channel="simon" start="20201028011000 +0300" stop="20201028014000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201028014000 +0300" stop="20201028024000 +0300">
     <title lang="ru">Америка</title>
@@ -38128,7 +38199,7 @@
     <title lang="ru">Вечер</title>
   </programme>
   <programme channel="simon" start="20201028043000 +0300" stop="20201028050000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201028050000 +0300" stop="20201028050500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38140,7 +38211,7 @@
     <title lang="ru">Документальний фільм «Рідні»</title>
   </programme>
   <programme channel="simon" start="20201029054500 +0300" stop="20201028061500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201028061500 +0300" stop="20201028062000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38161,7 +38232,7 @@
     <title lang="ru">Неизвестная Россия</title>
   </programme>
   <programme channel="simon" start="20201028083000 +0300" stop="20201028090000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201028090000 +0300" stop="20201028090500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38176,7 +38247,7 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201028114500 +0300" stop="20201028121500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201028121500 +0300" stop="20201028122000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38191,7 +38262,7 @@
     <title lang="ru">Детали</title>
   </programme>
   <programme channel="simon" start="20201028133000 +0300" stop="20201028134500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201028134500 +0300" stop="20201028140000 +0300">
     <title lang="ru">Телемагазин</title>
@@ -38200,7 +38271,7 @@
     <title lang="ru">Дитячий світ</title>
   </programme>
   <programme channel="simon" start="20201028143000 +0300" stop="20201028144000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201028144000 +0300" stop="20201028144500 +0300">
     <title lang="ru">Как там дома Донбасс</title>
@@ -38215,7 +38286,7 @@
     <title lang="ru">Новини 24</title>
   </programme>
   <programme channel="simon" start="20201028153000 +0300" stop="20201028154000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201028154000 +0300" stop="20201028154500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38230,7 +38301,7 @@
     <title lang="ru">Золота підкова України</title>
   </programme>
   <programme channel="simon" start="20201028170000 +0300" stop="20201028171500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201028171500 +0300" stop="20201028172000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38242,7 +38313,7 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201028183000 +0300" stop="20201028190000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201028190000 +0300" stop="20201028190500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38260,7 +38331,7 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201028215500 +0300" stop="20201028222500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201028222500 +0300" stop="20201028223000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38272,7 +38343,7 @@
     <title lang="ru">Х/ф «2020 Безлюдна країна»</title>
   </programme>
   <programme channel="simon" start="20201029005000 +0300" stop="20201029012000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201029012000 +0300" stop="20201029022000 +0300">
     <title lang="ru">Америка</title>
@@ -38287,7 +38358,7 @@
     <title lang="ru">Новини 24</title>
   </programme>
   <programme channel="simon" start="20201029043000 +0300" stop="20201029050000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201029050000 +0300" stop="20201029050500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38296,7 +38367,7 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201030054500 +0300" stop="20201029061500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201029061500 +0300" stop="20201029062000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38311,7 +38382,7 @@
     <title lang="ru"># В Украине</title>
   </programme>
   <programme channel="simon" start="20201029083000 +0300" stop="20201029090000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201029090000 +0300" stop="20201029090500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38326,7 +38397,7 @@
     <title lang="ru">Online-Розмова</title>
   </programme>
   <programme channel="simon" start="20201029114500 +0300" stop="20201029121500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201029121500 +0300" stop="20201029122000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38335,7 +38406,7 @@
     <title lang="ru">Інформаційний Вечірна Simoni</title>
   </programme>
   <programme channel="simon" start="20201029133000 +0300" stop="20201029134500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201029134500 +0300" stop="20201029140000 +0300">
     <title lang="ru">Телемагазин</title>
@@ -38344,7 +38415,7 @@
     <title lang="ru">Дитячий світ</title>
   </programme>
   <programme channel="simon" start="20201029143000 +0300" stop="20201029144000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини Дайджест</title>
+    <title lang="ru">Об&apos;єктив - новини Дайджест</title>
   </programme>
   <programme channel="simon" start="20201029144000 +0300" stop="20201029144500 +0300">
     <title lang="ru">Как там дома Донбасс</title>
@@ -38359,7 +38430,7 @@
     <title lang="ru">Новини 24</title>
   </programme>
   <programme channel="simon" start="20201029153000 +0300" stop="20201029154000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201029154000 +0300" stop="20201029154500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38374,7 +38445,7 @@
     <title lang="ru">Золота підкова України</title>
   </programme>
   <programme channel="simon" start="20201029170000 +0300" stop="20201029171500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201029171500 +0300" stop="20201029172000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38389,7 +38460,7 @@
     <title lang="ru">Насправді</title>
   </programme>
   <programme channel="simon" start="20201029183000 +0300" stop="20201029190000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201029190000 +0300" stop="20201029190500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38416,7 +38487,7 @@
     <title lang="ru">Корпорації світу</title>
   </programme>
   <programme channel="simon" start="20201029215500 +0300" stop="20201029222500 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201029222500 +0300" stop="20201029223000 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38431,7 +38502,7 @@
     <title lang="ru">Мафії світу</title>
   </programme>
   <programme channel="simon" start="20201030004000 +0300" stop="20201030011000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201030011000 +0300" stop="20201030011500 +0300">
     <title lang="ru">Simon-Погода</title>
@@ -38449,7 +38520,7 @@
     <title lang="ru">Про головне</title>
   </programme>
   <programme channel="simon" start="20201030043000 +0300" stop="20201030050000 +0300">
-    <title lang="ru">Об&#x2019;apos;єктив - новини</title>
+    <title lang="ru">Об&apos;єктив - новини</title>
   </programme>
   <programme channel="simon" start="20201030050000 +0300" stop="20201030050500 +0300">
     <title lang="ru">Simon-Погода</title>
