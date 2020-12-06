@@ -1,0 +1,7 @@
+*** /dev/fd/63	2020-12-07 01:00:05.455613565 +0200
+--- /dev/fd/62	2020-12-07 01:00:05.459614035 +0200
+***************
+*** 4,5 ****
+- #EXTINF:0 mono=0 tvg-name=«Profit» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo_webtv/profit_logo.png» ,Profit
+- udp://@239.2.1.90:1234
+--- 3 ----
