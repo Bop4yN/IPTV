@@ -53,8 +53,6 @@ udp://@239.2.1.36:1234
 udp://@239.2.1.37:1234
 #EXTINF:0 mono=0 tvg-name="Ternopil1" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%201.png" group-title="Украинские" ,Тернополь 1
 udp://@239.2.1.85:1234
-#EXTINF:0 mono=0 tvg-name="Gromadskye_HD" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%93%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B5.png" group-title="Украинские" ,Громадське HD
-udp://@239.2.1.86:1234
 #EXTINF:0 mono=0 tvg-name="ATR" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/ATR.png" group-title="Украинские" ,ATR HD
 udp://@239.2.1.67:1234
 #EXTINF:0 mono=0 tvg-name="UA_Kultura" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/UA%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.png" group-title="Украинские" ,UA:Культура
