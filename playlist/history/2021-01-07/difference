@@ -1,0 +1,7 @@
+*** /dev/fd/63	2021-01-07 01:00:10.407831325 +0200
+--- /dev/fd/62	2021-01-07 01:00:10.415830167 +0200
+***************
+*** 138 ****
+! #EXTINF:0 mono=0 tvg-name=«»  ,InRating TV HD
+--- 138 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/InRating.jpg» ,InRating TV HD
