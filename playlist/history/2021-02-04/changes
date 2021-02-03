@@ -1,0 +1,6 @@
+Обновлён playlist.m3u
+  Удален канал 112 Украина
+  Добавлено:
+#EXTINF:0 mono=0 tvg-name=«Byelarus_24» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/b24tv.jpg» group-title=«Политика и новости» ,Беларусь ТВ
+  Удалено:
+#EXTINF:0 mono=0 tvg-name=«Byelarus_24» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/b24tv.jpg» ,Беларусь ТВ

@@ -1,0 +1,9 @@
+*** /dev/fd/63	2021-02-04 01:00:06.833633836 +0200
+--- /dev/fd/62	2021-02-04 01:00:06.841615602 +0200
+***************
+*** 80,82 ****
+! #EXTINF:0 mono=0 tvg-name=«112_Ukraina» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/112.jpg» group-title=«Политика и новости» ,112 Украина
+! udp://@239.2.1.15:1234
+! #EXTINF:0 mono=0 tvg-name=«Byelarus_24» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/b24tv.jpg» ,Беларусь ТВ
+--- 80 ----
+! #EXTINF:0 mono=0 tvg-name=«Byelarus_24» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/b24tv.jpg» group-title=«Политика и новости» ,Беларусь ТВ
