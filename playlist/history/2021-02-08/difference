@@ -1,0 +1,7 @@
+*** /dev/fd/63	2021-02-08 01:00:07.157620481 +0200
+--- /dev/fd/62	2021-02-08 01:00:07.161618677 +0200
+***************
+*** 92,93 ****
+- #EXTINF:0 mono=0 tvg-name=«NewsOne» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/newsone2014.jpg» ,News One
+- udp://@239.2.1.50:1234
+--- 91 ----

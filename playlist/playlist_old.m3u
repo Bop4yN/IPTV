@@ -77,9 +77,7 @@ udp://@239.2.1.80:1234
 udp://@239.2.1.91:1234
 #EXTINF:0 mono=0 tvg-name=""  ,Культура радио
 udp://@239.2.1.92:1234
-#EXTINF:0 mono=0 tvg-name="112_Ukraina" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/112.jpg" group-title="Политика и новости" ,112 Украина
-udp://@239.2.1.15:1234
-#EXTINF:0 mono=0 tvg-name="Byelarus_24" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/b24tv.jpg" ,Беларусь ТВ
+#EXTINF:0 mono=0 tvg-name="Byelarus_24" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/b24tv.jpg" group-title="Политика и новости" ,Беларусь ТВ
 udp://@239.2.1.25:1234
 #EXTINF:0 mono=0 tvg-name="YEspryeso_TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/espreso.jpg" ,Еспресо TV
 udp://@239.2.1.26:1234
