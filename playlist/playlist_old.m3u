@@ -89,8 +89,6 @@ udp://@239.2.1.32:1234
 udp://@239.2.1.33:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2020/02/NV-HD.jpg" ,Настоящее время HD
 udp://@239.2.1.78:1234
-#EXTINF:0 mono=0 tvg-name="NewsOne" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/newsone2014.jpg" ,News One
-udp://@239.2.1.50:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2019/12/ukraina24.jpg" ,Украина 24 HD
 udp://@239.2.1.87:1234
 #EXTINF:0 mono=0 tvg-name="CHyernomorskaya_TRK" tvg-logo="https://maxnet.ua/wp-content/uploads/logo_webtv/chernomor.png" group-title="Познавательные" ,Черноморская ТРК
