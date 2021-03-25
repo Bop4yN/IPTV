@@ -69,7 +69,7 @@ http://192.168.1.1:4022/udp/239.2.1.74:1234
 http://192.168.1.1:4022/udp/239.2.1.70:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.png" group-title="Украинские" ,Новый Христианский
 http://192.168.1.1:4022/udp/239.2.1.20:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%90%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D1%84%20%D0%A2%D0%92.png"  group-title="Украинские" ,Апостроф ТВ HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/%D0%90%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D1%84%20TV.png"  group-title="Украинские" ,Апостроф TV HD
 http://192.168.1.1:4022/udp/239.2.1.50:1234
 #EXTINF:0 mono=0 tvg-name="Navigator_TV" tvg-logo="https://raw.githubusercontent.com/Bop4yN/IPTV/master/logos/Navigator%20TV.png" group-title="Украинские" ,Navigator TV HD
 http://192.168.1.1:4022/udp/239.2.1.84:1234

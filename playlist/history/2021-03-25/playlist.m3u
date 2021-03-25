@@ -157,7 +157,7 @@ udp://@239.2.1.48:1234
 udp://@239.2.1.75:1234
 #EXTINF:0 mono=0 tvg-name="Paramount_Comedy_Ukraina" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/Paramount_Comedy.jpg" group-title="Фильмы" ,Paramount Comedy
 udp://@239.2.1.19:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/paramount_ch.jpg" ,Paramount Chennel HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/paramount_ch.jpg" ,Paramount Channel HD
 udp://@239.2.1.89:1234
 #EXTINF:0 mono=0 tvg-name="Enter-film" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/enterfilm.jpg" ,Enter-фильм
 udp://@239.2.1.61:1234
