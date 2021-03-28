@@ -1,0 +1,7 @@
+*** /dev/fd/63	2021-03-29 01:00:10.490826353 +0300
+--- /dev/fd/62	2021-03-29 01:00:10.494829355 +0300
+***************
+*** 72 ****
+! #EXTINF:0 mono=0 tvg-name=«»  ,Апостроф ТВ HD
+--- 72 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2021/03/logoapostrof.jpg» ,Апостроф ТВ HD
