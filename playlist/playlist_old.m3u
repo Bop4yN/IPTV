@@ -69,7 +69,7 @@ udp://@239.2.1.74:1234
 udp://@239.2.1.70:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/noviy_khristianskiy.jpg" ,Новый Христианский
 udp://@239.2.1.20:1234
-#EXTINF:0 mono=0 tvg-name=""  ,Апостроф ТВ HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2021/03/logoapostrof.jpg" ,Апостроф ТВ HD
 udp://@239.2.1.50:1234
 #EXTINF:0 mono=0 tvg-name="Navigator_TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/Navigator.jpg" ,Navigator TV HD
 udp://@239.2.1.84:1234
