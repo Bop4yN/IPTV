@@ -1,0 +1,22 @@
+*** /dev/fd/63	2021-04-19 01:00:16.826824153 +0300
+--- /dev/fd/62	2021-04-19 01:00:16.830822114 +0300
+***************
+*** 72 ****
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2021/03/logoapostrof.jpg» ,Апостроф ТВ HD
+--- 72 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/logoapostrof.jpg» ,Апостроф ТВ HD
+***************
+*** 92 ****
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2020/02/NV-HD.jpg» ,Настоящее время HD
+--- 92 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/NV-HD.jpg» ,Настоящее время HD
+***************
+*** 94 ****
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2019/12/ukraina24.jpg» ,Украина 24 HD
+--- 94 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/ukraina24.jpg» ,Украина 24 HD
+***************
+*** 98 ****
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/2019/10/kus-kus.jpg» ,Кус-Кус HD
+--- 98 ----
+! #EXTINF:0 mono=0 tvg-name=«» tvg-logo=«https://maxnet.ua/wp-content/uploads/logo/kus-kus.jpg» ,Кус-Кус HD
