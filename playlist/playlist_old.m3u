@@ -69,7 +69,7 @@ udp://@239.2.1.74:1234
 udp://@239.2.1.70:1234
 #EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/noviy_khristianskiy.jpg" ,Новый Христианский
 udp://@239.2.1.20:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2021/03/logoapostrof.jpg" ,Апостроф ТВ HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/logoapostrof.jpg" ,Апостроф ТВ HD
 udp://@239.2.1.50:1234
 #EXTINF:0 mono=0 tvg-name="Navigator_TV" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/Navigator.jpg" ,Navigator TV HD
 udp://@239.2.1.84:1234
@@ -89,13 +89,13 @@ udp://@239.2.1.28:1234
 udp://@239.2.1.32:1234
 #EXTINF:0 mono=0 tvg-name="Pyervyy_dyelovoy" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/fbc.jpg" ,Первый деловой
 udp://@239.2.1.33:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2020/02/NV-HD.jpg" ,Настоящее время HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/NV-HD.jpg" ,Настоящее время HD
 udp://@239.2.1.78:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2019/12/ukraina24.jpg" ,Украина 24 HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/ukraina24.jpg" ,Украина 24 HD
 udp://@239.2.1.87:1234
 #EXTINF:0 mono=0 tvg-name="CHyernomorskaya_TRK" tvg-logo="https://maxnet.ua/wp-content/uploads/logo_webtv/chernomor.png" group-title="Познавательные" ,Черноморская ТРК
 udp://@239.2.1.62:1234
-#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2019/10/kus-kus.jpg" ,Кус-Кус HD
+#EXTINF:0 mono=0 tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/kus-kus.jpg" ,Кус-Кус HD
 udp://@239.2.1.69:1234
 #EXTINF:0 mono=0 tvg-name="Discovery_Vostochnaya_YEvropa" tvg-logo="https://maxnet.ua/wp-content/uploads/logo/discovery_logo.jpg" ,Discovery UA
 udp://@239.2.1.41:1234
